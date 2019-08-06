@@ -1,0 +1,324 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{Scherz}{book}{}
+      \name{author}{1}{}{%
+        {{hash=6dbb2bc3236d7777e97e8b6bf3ad14fe}{%
+           family={Feynman},
+           familyi={F\bibinitperiod},
+           given={Richard\bibnamedelima P.},
+           giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Piper}%
+      }
+      \strng{namehash}{6dbb2bc3236d7777e97e8b6bf3ad14fe}
+      \strng{fullhash}{6dbb2bc3236d7777e97e8b6bf3ad14fe}
+      \strng{bibnamehash}{6dbb2bc3236d7777e97e8b6bf3ad14fe}
+      \strng{authorbibnamehash}{6dbb2bc3236d7777e97e8b6bf3ad14fe}
+      \strng{authornamehash}{6dbb2bc3236d7777e97e8b6bf3ad14fe}
+      \strng{authorfullhash}{6dbb2bc3236d7777e97e8b6bf3ad14fe}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{16}
+      \field{subtitle}{Abenteuer eines neugierigen Physikers}
+      \field{title}{Sie belieben wohl zu scherzen, Mr. Feynman!}
+      \field{year}{1996}
+      \field{dateera}{ce}
+    \endentry
+    \entry{kaplan_siri_2019}{article}{}
+      \name{author}{2}{}{%
+        {{hash=79d63985e11c74c107449cb5581be70c}{%
+           family={Kaplan},
+           familyi={K\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=146c7381fa3e25c333d754ee6c0f683b}{%
+           family={Haenlein},
+           familyi={H\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{cf548dd4af54ff0a9e1ac88d8de4f935}
+      \strng{fullhash}{cf548dd4af54ff0a9e1ac88d8de4f935}
+      \strng{bibnamehash}{cf548dd4af54ff0a9e1ac88d8de4f935}
+      \strng{authorbibnamehash}{cf548dd4af54ff0a9e1ac88d8de4f935}
+      \strng{authornamehash}{cf548dd4af54ff0a9e1ac88d8de4f935}
+      \strng{authorfullhash}{cf548dd4af54ff0a9e1ac88d8de4f935}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Artificial intelligence ({AI})—defined as a system’s ability to correctly interpret external data, to learn from such data, and to use those learnings to achieve specific goals and tasks through flexible adaptation—is a topic in nearly every boardroom and at many dinner tables. Yet, despite this prominence, {AI} is still a surprisingly fuzzy concept and a lot of questions surrounding it are still open. In this article, we analyze how {AI} is different from related concepts, such as the Internet of Things and big data, and suggest that {AI} is not one monolithic term but instead needs to be seen in a more nuanced way. This can either be achieved by looking at {AI} through the lens of evolutionary stages (artificial narrow intelligence, artificial general intelligence, and artificial super intelligence) or by focusing on different types of {AI} systems (analytical {AI}, human-inspired {AI}, and humanized {AI}). Based on this classification, we show the potential and risk of {AI} using a series of case studies regarding universities, corporations, and governments. Finally, we present a framework that helps organizations think about the internal and external implications of {AI}, which we label the Three C Model of Confidence, Change, and Control.}
+      \field{day}{1}
+      \field{issn}{0007-6813}
+      \field{journaltitle}{Business Horizons}
+      \field{month}{1}
+      \field{number}{1}
+      \field{shortjournal}{Business Horizons}
+      \field{shorttitle}{Siri, Siri, in my hand}
+      \field{title}{Siri, Siri, in my hand: Who’s the fairest in the land? On the interpretations, illustrations, and implications of artificial intelligence}
+      \field{urlday}{6}
+      \field{urlmonth}{8}
+      \field{urlyear}{2019}
+      \field{volume}{62}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{15\bibrangedash 25}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/j.bushor.2018.08.004
+      \endverb
+      \verb{file}
+      \verb ScienceDirect Full Text PDF:C\:\\Users\\fsram\\Zotero\\storage\\UHADMB2F\\Kaplan und Haenlein - 2019 - Siri, Siri, in my hand Who’s the fairest in the l.pdf:application/pdf;ScienceDirect Snapshot:C\:\\Users\\fsram\\Zotero\\storage\\U8L65GNB\\S0007681318301393.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://www.sciencedirect.com/science/article/pii/S0007681318301393
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0007681318301393
+      \endverb
+      \keyw{Artificial intelligence,Big data,Deep learning,Expert systems,Internet of Things,Machine learning}
+    \endentry
+    \entry{Lessing}{book}{}
+      \name{author}{1}{}{%
+        {{hash=15ec63bb2f230b89f03866c259a06503}{%
+           family={Lessing},
+           familyi={L\bibinitperiod},
+           given={Gotthold\bibnamedelima Ephraim},
+           giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=9474b09ab9890d5cd285abbdac5c6227}{%
+           family={Holzinger},
+           familyi={H\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {CreateSpace Independent Publishing Platform}%
+      }
+      \strng{namehash}{15ec63bb2f230b89f03866c259a06503}
+      \strng{fullhash}{15ec63bb2f230b89f03866c259a06503}
+      \strng{bibnamehash}{15ec63bb2f230b89f03866c259a06503}
+      \strng{authorbibnamehash}{15ec63bb2f230b89f03866c259a06503}
+      \strng{authornamehash}{15ec63bb2f230b89f03866c259a06503}
+      \strng{authorfullhash}{15ec63bb2f230b89f03866c259a06503}
+      \strng{editorbibnamehash}{9474b09ab9890d5cd285abbdac5c6227}
+      \strng{editornamehash}{9474b09ab9890d5cd285abbdac5c6227}
+      \strng{editorfullhash}{9474b09ab9890d5cd285abbdac5c6227}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{27}
+      \field{edition}{3}
+      \field{month}{2}
+      \field{origyear}{1771}
+      \field{title}{Gedichte}
+      \field{urlday}{2}
+      \field{urlmonth}{4}
+      \field{urlyear}{2017}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{origdateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://static.zeno.org/ebooks/Lessing,_Gotthold_Ephraim_-_Gedichte_-_Zeno.org_ISBN_9783843047753.epub
+      \endverb
+      \verb{url}
+      \verb http://static.zeno.org/ebooks/Lessing,_Gotthold_Ephraim_-_Gedichte_-_Zeno.org_ISBN_9783843047753.epub
+      \endverb
+    \endentry
+    \entry{cindy_mason_engineering_2015}{article}{}
+      \name{author}{2}{}{%
+        {{hash=8bafa68d1ee8ba62a800843116aee512}{%
+           family={Mason},
+           familyi={M\bibinitperiod},
+           given={Cindy},
+           giveni={C\bibinitperiod}}}%
+        {{hash=8bafa68d1ee8ba62a800843116aee512}{%
+           family={Mason},
+           familyi={M\bibinitperiod},
+           given={Cindy},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{fdfbc715f1cf9196b4eeba1e89501c57}
+      \strng{fullhash}{fdfbc715f1cf9196b4eeba1e89501c57}
+      \strng{bibnamehash}{fdfbc715f1cf9196b4eeba1e89501c57}
+      \strng{authorbibnamehash}{fdfbc715f1cf9196b4eeba1e89501c57}
+      \strng{authornamehash}{fdfbc715f1cf9196b4eeba1e89501c57}
+      \strng{authorfullhash}{fdfbc715f1cf9196b4eeba1e89501c57}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{International Journal of Synthetic Emotion}
+      \field{shorttitle}{Engineering Kindness}
+      \field{title}{Engineering Kindness: Building A Machine With Compassionate Intelligence}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb Engineering_Kindness_Building_A_Machine.pdf:C\:\\Users\\fsram\\Zotero\\storage\\I7ZMIUUJ\\Engineering_Kindness_Building_A_Machine.pdf:application/pdf;Friendly artificial intelligence - Lesswrongwiki:C\:\\Users\\fsram\\Zotero\\storage\\57K59JGN\\Friendly_artificial_intelligence.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.academia.edu/15865212/Engineering_Kindness_Building_A_Machine_With_Compassionate_Intelligence
+      \endverb
+      \verb{url}
+      \verb https://www.academia.edu/15865212/Engineering_Kindness_Building_A_Machine_With_Compassionate_Intelligence
+      \endverb
+    \endentry
+    \entry{Niemand}{book}{}
+      \name{author}{1}{}{%
+        {{hash=fa0136de0adde6a8cc857fbc68e4cc6f}{%
+           family={Niemand},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{fa0136de0adde6a8cc857fbc68e4cc6f}
+      \strng{fullhash}{fa0136de0adde6a8cc857fbc68e4cc6f}
+      \strng{bibnamehash}{fa0136de0adde6a8cc857fbc68e4cc6f}
+      \strng{authorbibnamehash}{fa0136de0adde6a8cc857fbc68e4cc6f}
+      \strng{authornamehash}{fa0136de0adde6a8cc857fbc68e4cc6f}
+      \strng{authorfullhash}{fa0136de0adde6a8cc857fbc68e4cc6f}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Nichts}
+      \field{year}{1983}
+      \field{dateera}{ce}
+    \endentry
+    \entry{nirgendwo}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=fa0136de0adde6a8cc857fbc68e4cc6f}{%
+           family={Niemand},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{fa0136de0adde6a8cc857fbc68e4cc6f}
+      \strng{fullhash}{fa0136de0adde6a8cc857fbc68e4cc6f}
+      \strng{bibnamehash}{fa0136de0adde6a8cc857fbc68e4cc6f}
+      \strng{authorbibnamehash}{fa0136de0adde6a8cc857fbc68e4cc6f}
+      \strng{authornamehash}{fa0136de0adde6a8cc857fbc68e4cc6f}
+      \strng{authorfullhash}{fa0136de0adde6a8cc857fbc68e4cc6f}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{endmonth}{12}
+      \field{endyear}{2018}
+      \field{month}{1}
+      \field{title}{Nichts}
+      \field{year}{2018}
+      \field{dateunspecified}{monthinyear}
+      \field{enddateera}{ce}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Perte}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=c65e5d9488abcae352e005a8afbf7f44}{%
+           family={Perte},
+           familyi={P\bibinitperiod},
+           given={Ex},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{c65e5d9488abcae352e005a8afbf7f44}
+      \strng{fullhash}{c65e5d9488abcae352e005a8afbf7f44}
+      \strng{bibnamehash}{c65e5d9488abcae352e005a8afbf7f44}
+      \strng{authorbibnamehash}{c65e5d9488abcae352e005a8afbf7f44}
+      \strng{authornamehash}{c65e5d9488abcae352e005a8afbf7f44}
+      \strng{authorfullhash}{c65e5d9488abcae352e005a8afbf7f44}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{labelnamesource}{author}
+      \field{day}{25}
+      \field{entrysubtype}{interview}
+      \field{month}{7}
+      \field{note}{persönliches Gespräch mit dem Verfasser, Transkipt in \vref{InterviewMitExPerte}}
+      \field{year}{2017}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Vorwort}{online}{}
+      \name{author}{1}{}{%
+        {{hash=719cef83760a2633ab00d5f234432c26}{%
+           family={Weigl},
+           familyi={W\bibinitperiod},
+           given={Huberta},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{719cef83760a2633ab00d5f234432c26}
+      \strng{fullhash}{719cef83760a2633ab00d5f234432c26}
+      \strng{bibnamehash}{719cef83760a2633ab00d5f234432c26}
+      \strng{authorbibnamehash}{719cef83760a2633ab00d5f234432c26}
+      \strng{authornamehash}{719cef83760a2633ab00d5f234432c26}
+      \strng{authorfullhash}{719cef83760a2633ab00d5f234432c26}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Vorwort}
+      \field{urlday}{3}
+      \field{urlmonth}{2}
+      \field{urlyear}{2017}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.ahs-vwa.at/pluginfile.php/31/mod_data/content/1315/02-VWA-Vorwort.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.ahs-vwa.at/pluginfile.php/31/mod_data/content/1315/02-VWA-Vorwort.pdf
+      \endverb
+    \endentry
+    \entry{EliezerPodcast}{audio}{}
+      \name{author}{1}{}{%
+        {{hash=549a1c22e1c5452641bfaff6196bd013}{%
+           family={Yudkowsky},
+           familyi={Y\bibinitperiod},
+           given={Eliezer},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{549a1c22e1c5452641bfaff6196bd013}
+      \strng{fullhash}{549a1c22e1c5452641bfaff6196bd013}
+      \strng{bibnamehash}{549a1c22e1c5452641bfaff6196bd013}
+      \strng{authorbibnamehash}{549a1c22e1c5452641bfaff6196bd013}
+      \strng{authornamehash}{549a1c22e1c5452641bfaff6196bd013}
+      \strng{authorfullhash}{549a1c22e1c5452641bfaff6196bd013}
+      \field{sortinit}{Y}
+      \field{sortinithash}{b8d711a035f7be9840c721c82920477e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Sam Harris}
+      \field{month}{2}
+      \field{series}{Making Sense}
+      \field{title}{AI: Racing Toward the Brink}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://samharris.org/podcasts/116-ai-racing-toward-brink/
+      \endverb
+      \verb{url}
+      \verb https://samharris.org/podcasts/116-ai-racing-toward-brink/
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

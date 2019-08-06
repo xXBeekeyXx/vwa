@@ -1,0 +1,105 @@
+\chapter{Testbeispiele}
+\iffalse
+\zit[\bibstring{confer}][]{Scherz}{Ein wörtliches Zitat, das mit einem Punkt endet.}
+\zit[\bibstring{confer}][]{Scherz}{Ein wörtliches Zitat, das mit einem Fragezeichen endet?}
+\zit[\bibstring{confer}][]{Scherz}{Ein wörtliches Zitat, das mit einem Punkt endet}.
+\zit[\bibstring{confer}][]{Scherz}{Ein wörtliches Zitat, das mit einem Fragezeichen endet}?
+\zit[\bibstring{confer}][]{Scherz}[.]{Ein wörtliches Zitat, das mit einem Punkt endet}
+\zit[\bibstring{confer}][]{Scherz}[?]{Ein wörtliches Zitat, das mit einem Fragezeichen endet}
+
+\section{Wörtliche Zitate}
+\subsection{Satz endet mit Zitat}
+\zit[Im Vorwort zu][]{Scherz}[]{Das haben Sie gesagt}.
+\zit[im Vorwort zu][]{Scherz}[?]{Was glauben Sie}
+\subsection{Satz wird nach dem Zitat fortgesetzt}
+\zit[im Vorwort zu][]{Scherz}[?]{Was glauben Sie}, könnte man dazu fragen.
+ 
+\Textcite[123]{Lessing} erkannte bereits: "`Ein Tisch ist kein gutes Bett."'
+\fi
+
+\section{Händisch gesetzte Beispiele}
+\subsection{Direkte Zitate}
+\textsc{Niemand} (1983, S. 123) erkannte bereits: "`Ein Tisch ist kein
+gutes Bett."' Dennoch dauerte es Jahrzehnte, bis diese Erkenntnis in der
+Fachwelt gebührende Anerkennung fand. "`Das ist alles nur eine Frage der
+Matratze"', entgegnete zum Beispiel \textsc{Autor} (Jahr, S. 12).
+
+\textsc{Niemand}\footnote{\textsc{Niemand}, \textit{Nichts}, S. 123}
+erkannte bereits: "`Ein Tisch ist kein gutes Bett."'  Dennoch dauerte es
+Jahrzehnte, bis diese Erkenntnis in der Fachwelt gebührende Anerkennung
+fand. "`Das ist alles nur eine Frage der Matratze"', entgegnete zum
+Beispiel \textsc{Autor}.\footnote{\textsc{Autor}, \textit{Titel}, S. 12}
+
+"`Eine Waschrumpel ist kein Federbett."' (\textsc{Autor}, Jahr, S. 123)
+"`Eine Waschrumpel ist kein Federbett."'\footnote{\textsc{Autor},
+\textit{Titel}, S. 123}
+
+"`Eine Waschrumpel ist kein Federbett"' (\textsc{Autor}, Jahr, S. 123), könnte man meinen.
+"`Eine Waschrumpel ist kein Federbett"'\footnote{\textsc{Autor},
+\textit{Titel}, S. 123}, könnte man meinen.
+
+% TODO: Eigentlich besser nur links einziehen.
+\begin{addmargin}[1cm]{0pt}
+\itshape\strut\hbox to 0pt{\hss"`}Blockzitat mit Anführungszeichen. Eine Waschrumpel
+ist kein Federbett. Bekanntlich leidet aber selbst bei einem Federbett
+die Schlafqualität erheblich unter einer einzelnen Erbse, die unter der
+Matratze platziert wird."' (Autor, Jahr, S. 123)
+\end{addmargin}
+
+% Eigentlich besser nur links einziehen.
+\begin{addmargin}[1cm]{0pt}
+\strut\hbox to 0pt{\hss"`}Blockzitat mit Anführungszeichen. Eine Waschrumpel
+ist kein Federbett. Bekanntlich leidet aber selbst bei einem Federbett
+die Schlafqualität erheblich unter einer einzelnen Erbse, die unter der
+Matratze platziert wird."'\footnote{\textsc{Autor}, \textit{Titel}, S.
+123}
+\end{addmargin}
+
+\subsection{Indirekte Zitate}
+% TODO: es gibt unterschiedliche Ansichten darüber, ob der Fußnotentext
+% mit einem Großbuchstaben beginnen soll.
+\textsc{Autor} (Jahr, S.\@ 123) meint, dass eine Waschrumpel kein
+Federbett sei.
+\textsc{Autor}\footnote{Vgl.\@ \textsc{Autor}, \textit{Titel}, S. 123}
+meint, dass eine Waschrumpel kein Federbett sei.
+
+Eine Waschrumpel ist bekanntlich kein Federbett. (Vgl.\@ \textsc{Autor},
+Jahr, S. 123) Eine Waschrumpel ist bekanntlich kein
+Federbett.\footnote{Vgl.\@ \textsc{Autor}, \textit{Titel}, S. 123}
+
+% \KOMAoptions{footnotes=multiple}
+Eine Waschrumpel ist zwar kein Federbett (vgl.\@ \textsc{Autor}, Jahr,
+S. 123), aber dennoch ist sie ein gutes Musikinstrument. Eine
+Waschrumpel ist zwar kein Federbett\footnote{Vgl.\@ \textsc{Autor},
+\textit{Titel}, S.
+123}\multiplefootnoteseparator\footnote{Experimentelle Fußnote mit ganz
+viel Text. So viel Text, dass er nicht in einer Zeile Platz hat. Wegen
+der kleinen Schrift in der Fußnote, muss das ganz schön viel Text
+sein.},
+ aber dennoch ist sie ein gutes Musikinstrument.
+
+\section{Testfeld}
+Im folgenden werden die Zitiermakros angewendet und sollten der
+eingestellten Zitierweise entsprechend korrekt arbeiten.
+\subsection{Direkte Zitate}
+\Textcite[123]{Niemand} erkannte bereits: \blockquote{Ein Tisch ist kein
+gutes Bett.} Dennoch dauerte es Jahrzehnte, bis diese Erkenntnis in der
+Fachwelt gebührende Anerkennung fand. \blockquote{Das ist alles nur eine
+Frage der Matratze}, entgegnete zum Beispiel \textcite[12]{Autor}.
+
+\zit[123]{Autor}[.]{Eine Waschrumpel ist kein Federbett}
+\zit[123]{Autor}{Eine Waschrumpel ist kein Federbett}, könnte man meinen.
+\zit[123]{Autor}[.]{Blockzitat mit Anführungszeichen. Eine Waschrumpel
+ist kein Federbett. Bekanntlich leidet aber selbst bei einem Federbett
+die Schlafqualität erheblich unter einer einzelnen Erbse, die unter der
+Matratze platziert wird}
+
+\subsection{Indirekte Zitate}
+% TODO: es gibt unterschiedliche Ansichten darüber, ob der Fußnotentext
+% mit einem Großbuchstaben beginnen soll.
+\Textcite[\bibstring{confer}][123]{Autor} meint, dass eine Waschrumpel kein
+Federbett sei.
+
+Eine Waschrumpel ist bekanntlich kein Federbett. \Vgl[123]{Autor} Eine
+Waschrumpel ist zwar kein Federbett \vgl[123]{Autor}{}, aber dennoch ist
+sie ein gutes Musikinstrument.

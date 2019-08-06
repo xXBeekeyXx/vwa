@@ -1,0 +1,118 @@
+% Vorlage für die VWA. Version 20190202 (c) Leonard Michlmayr
+
+% TODO: Wähle den für deine Arbeit die passenden Optionen!
+\documentclass[DLS,
+	inreferencehack,
+	ohneVgl=false,
+	ohneS=false,
+	scauthor,
+	rundeauslassung=false,
+	bookstyle=false,
+	widowlines=3,
+	titlepage=DLS2017,
+	listof=nochaptergap,
+	doppelpunkt=false,
+	postnotedoppelpunkt=false,
+	zitierstil=klassisch]{vwa}
+
+\newcommand{\quotes}[1]{``#1''}
+%% Trick texlipse to use biber instead of bibtex
+\iffalse
+\usepackage[error,backend=biber]{biblatex}
+\fi
+%%
+
+% TODO: lade Zusatzpakete
+\usepackage{textcomp}
+\usepackage[output-decimal-marker={,}]{siunitx}
+
+% TODO: Eigene Quellendatenbank laden.
+\addbibresource{meinequellen.bib}
+\addbibresource{quellen.bib}
+
+% TODO: Lege das Verzeichnis fest, wo Bilder liegen sollen
+\graphicspath{{img/}} 
+
+% Eigenen Namen und Geschlecht wählen.
+\Autor{Franz Srambical}
+% Klasse einsetzen
+\Klasse{8C}
+% Betreuungslehrer oder Betreuungslehrerin einsetzen:
+\Betreuerin{Prof. Mag.\ 
+            Kurt Rauch}
+% Das "`Thema"' einsetzen
+\Thema{Maschinelle Werteanpassung bei einer hypothetischen allgemeinen künstlichen Intelligenz}
+
+% TODO: erst bei der letzten Version das Abgabedatum anführen
+% \Abgabedatum{\today}
+
+\begin{document}
+% Am Anfang keine Seitennummern
+\frontmatter
+
+% PDF-Lesezeichen für die Titelseite
+\pdfbookmark[0]{Titelseite}{titlepage}
+% Titelseite
+\maketitle
+
+\include{abstract}
+
+\include{vorwort}
+
+% Das Inhaltsverzeichnis soll ein PDF-Lesezeichen aber keinen Eintrag im
+% Inhaltsverzeichnis haben.
+\cleardoublepage\pdfbookmark[0]{\contentsname}{toc}
+% Inhaltsverzeichnis
+\tableofcontents
+
+% Hier geht es los.
+\mainmatter
+% TODO: füge hier deine Kapitel ein!
+\include{kapitel1}
+\include{kapitel2}
+%\include{testing}
+
+% Das Literaturverzeichnis
+\input{literatur}
+
+\listoffigures
+% TODO: Wer keine Tabellen hat, muss das Tabellenverzeichnis entfernen!
+% Bei kurzen Tabellenverzeichnissen kann man vielleicht
+% Abbildungsverzeichnis und Tabellenverzeichnis auf einer Seite platzieren.
+% \withoutclearpage unterdrückt die neue Seite.
+\withoutclearpage{\listoftables}
+
+% Gegebenenfalls ein Anhang
+\appendix
+\include{interview1}
+\include{anhang}
+
+\backmatter
+
+%\pdfbookmark[0]{Erklärungen}{erkl}
+\addchap{Erklärungen}
+\section*{Selbstständigkeitserklärung}
+\thispagestyle{plain}
+Ich erkläre, dass ich diese vorwissenschaftliche Arbeit eigenständig
+angefertigt und nur die im Literaturverzeichnis angeführten Quellen und
+Hilfsmittel benutzt habe.
+
+\vspace{2cm}\noindent Wien, \today
+
+% TODO: Erkläre dich selbstständig selbstständig! 
+\vspace{2cm}\noindent\makeatletter\@AutorIn\makeatother
+
+\vspace{2cm}\noindent
+
+\section*{Informatikschwerpunkt}
+
+Die vorliegende Arbeit erfüllt die Kriterien zur Abbildung des
+Informatikschwerpunktes an der De La Salle Schule Strebersdorf, AHS.
+
+\textbf{Begründung:} Die Arbeit wurde in \LaTeX{} mit entscheidenden 
+Kenntnissen zum Quelltext verfasst.\vspace{.5\baselineskip}
+
+\noindent\textit{Geprüft am \ldots durch Mag. Rainer Zufall und Mag.
+Ernst Haft}
+
+\end{document}

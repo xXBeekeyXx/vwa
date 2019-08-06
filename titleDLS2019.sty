@@ -1,0 +1,129 @@
+\NeedsTeXFormat{LaTeX2e}[2005/12/01]
+\ProvidesPackage{titleDLS2019}
+\RequirePackage{graphicx}
+%\RequirePackage{lmodern}
+
+\renewcommand{\author}{\Autor}
+\renewcommand{\title}{\Titel}
+\renewcommand{\date}{\Abgabedatum}
+
+\def\vwa@pdfAuthor{}
+\newcommand{\Autor}[1]{\renewcommand{\Autor@in}{Autor}\renewcommand{\@AutorIn}{#1}\def\vwa@pdfAuthor{#1}}
+\newcommand{\Autorin}[1]{\renewcommand{\Autor@in}{Autorin}\renewcommand{\@AutorIn}{#1}\def\vwa@pdfAuthor{#1}}
+\newcommand{\Betreuer}[1]{\renewcommand{\Betreuer@in}{Betreuungslehrer}\renewcommand{\@BetreuerIn}{#1}}
+\newcommand{\Betreuerin}[1]{\renewcommand{\Betreuer@in}{Betreuungslehrerin}\renewcommand{\@BetreuerIn}{#1}}
+\newcommand{\Titel}[1]{\renewcommand{\@Titel}{#1}\def\vwa@pdftitle{#1}}%
+\newcommand{\Thema}{\Titel} % Alias für \Titel
+\newcommand{\Untertitel}[1]{\renewcommand{\@Untertitel}{#1}}%
+\newcommand{\Klasse}[1]{\renewcommand{\@Klasse}{#1}}%
+\newcommand{\Abgabedatum}[1]{\renewcommand{\Abgabedatum@}{Abgabedatum}%
+\renewcommand{\@Abgabedatum}{#1}}%
+
+\newcommand{\Autor@in}{AutorIn}
+\newcommand{\@AutorIn}{unbekannt\ClassWarning{vwa}{\protect\Autor{}
+oder \protect\Autorin{} der VWA in der Praeambel angeben!}}
+\newcommand{\Betreuer@in}{BetreuungslehrerIn}
+\newcommand{\@BetreuerIn}{unbekannt\ClassWarning{vwa}{\protect\Betreuer{}
+oder \protect\Betreuerin{} der VWA in der Praeambel angeben!}}
+\newcommand{\@Titel}{Thema der
+VWA\ClassWarning{vwa}{\protect\Titel{} der VWA in der Praeambel
+angeben!}}%
+\newcommand{\@Untertitel}{}
+\newcommand{\@Klasse}{8X (2018/2019)\ClassWarning{vwa}{Schulklasse mit
+\protect\Klasse{} in der Praeambel angeben!}}
+\newcommand{\Abgabedatum@}{Entwurf}
+\newcommand{\@Abgabedatum}{\today\ClassWarning{vwa}{\protect\Abgabedatum{}
+in der Praeambel angeben!}} \newcommand{\DLS@PDFtitle}{\@Titel} % Override when nescessary
+
+\renewcommand{\maketitle}{%
+	\clearpage\thispagestyle{empty}
+	%\begin{titlepage}%
+		\begingroup
+        \edef\@restore{%
+          \noexpand\endgroup%
+          \noexpand\global\noexpand\@colht\the\@colht%
+          \noexpand\global\noexpand\@colroom\the\@colroom%
+          \noexpand\global\vsize\the\vsize%
+        }%
+		\def\baselinestretch{1.0}%
+ 		\newlength{\einrueckung}%
+ 		\setlength\einrueckung{1cm}%
+		\setlength\textwidth{16cm}%
+		\addtolength\textwidth{-2\einrueckung}%
+		\setlength\linewidth{\textwidth}%
+		\setlength\hsize{\linewidth}%
+		\setlength\oddsidemargin{-0.04cm}%
+		\addtolength\oddsidemargin{\einrueckung}%
+		\setlength\textheight{27.2cm}%
+		\setlength\headheight{1.25cm}%
+		\setlength\headsep{0pt}%
+		\setlength\topmargin{-2.54cm}%
+		\setlength\footskip{0pt}%
+% 		\setlength\footheight{0pt}%
+		\setlength{\parindent}{0pt}%
+		\setlength{\parskip}{1em}%
+		\setlength\vsize\textheight%
+		\setlength\@colht\textheight%
+%  		\flushbottom%
+		\fontfamily{lmr}\fontsize{12}{14.5}\selectfont%
+		\begin{flushright}%
+			\newsavebox{\logo}%
+			\savebox{\logo}{\vbox{\kern-3.04mm\hbox{\includegraphics[height=2.7cm]{./logo}\kern-2mm}}}%
+			\hfill\hbox to \hsize{
+				\hfill
+				\noindent \vbox to \ht\logo{\linespread{1.0}\selectfont
+					\hsize=0.7\textwidth\parindent=0pt\parskip=0pt plus 1pt
+					{\fontfamily{lmr}\bfseries
+						\fontsize{14}{18}\selectfont S\fontsize{12}{18}\selectfont CHULVEREIN
+						\fontsize{14}{18}\selectfont D\fontsize{12}{18}\selectfont E 
+						\fontsize{14}{18}\selectfont L\fontsize{12}{18}\selectfont\kern-1pt A
+						\fontsize{14}{18}\selectfont S\fontsize{12}{18}\selectfont\kern-1pt ALLE}
+					
+					Gymnasium, Realgymnasium und
+					
+					Oberstufenrealgymnasium mit \"OR
+			
+					\vskip 3pt plus 3pt
+			
+					\fontsize{9}{11.5}\selectfont 1210 Wien, Anton-B\"ock-Gasse 37
+					
+					Tel.: +43/1/29125-760   Fax.: +43/1/29125-763}%
+				\hspace{3pt}%
+				\usebox{\logo}%
+				\hskip-\einrueckung%
+				}%
+		\end{flushright}%
+		%
+		\vskip2.5cm plus 1.5cm%
+		%
+		\centering%
+		{\fontfamily{lmr}\scshape\fontsize{17}{22}\selectfont Vorwissenschaftliche Arbeit\par}%
+		%
+		\vskip 12pt plus 0.1fil%
+		\hrule width \linewidth height 0.4pt%
+		\begin{list}{}{\setlength\leftmargin{0.05\textwidth}\setlength\rightmargin{0.05\textwidth}}
+			\item{\fontfamily{lmss}\bfseries\fontsize{22}{25}\selectfont\centering%
+				\@Titel\par%
+			}%
+			{\fontfamily{lmss}\bfseries\fontsize{17}{22}\selectfont\centering%
+				\@Untertitel\par%
+			}%
+		\end{list}
+		\vskip 12pt plus 0.3fil%
+		\hrule width \linewidth height 0.4pt%
+		\vskip 10pt plus 1 fil minus 5pt%
+		\fontfamily{lmr}\fontsize{12}{16.5}\selectfont%
+		% Autor und Betreuer
+		{\fontfamily{lmss}\fontsize{11}{16.5}\selectfont\Autor@in:}\\%
+		\textrm{\@AutorIn}\\[\baselineskip]%
+		{\fontfamily{lmss}\fontsize{11}{16.5}\selectfont Klasse:}\\%
+		\textrm{\@Klasse}\\[1.5\baselineskip]%
+		{\fontfamily{lmss}\fontsize{11}{16.5}\selectfont\Betreuer@in:\/} \\%
+		\textrm{\@BetreuerIn}\\%
+		\vfill%
+		{\fontfamily{lmss}\fontsize{11}{16.5}\selectfont\Abgabedatum@:}\\
+		\@Abgabedatum\par
+		\vfill\vfill
+		\clearpage\@restore%
+	%\end{titlepage}
+}
