@@ -1,0 +1,22 @@
+[0] Config.pm:302> INFO - This is Biber 2.11
+[0] Config.pm:305> INFO - Logfile is 'document.blg'
+[43] biber-MSWIN32:313> INFO - === 
+[86] Biber.pm:371> INFO - Reading 'document.bcf'
+[235] Biber.pm:857> INFO - Found 7 citekeys in bib section 0
+[262] Biber.pm:3976> INFO - Processing section 0
+[281] Biber.pm:4136> INFO - Looking for bibtex format file 'meineBibliothek.bib' for section 0
+[298] bibtex.pm:1500> INFO - LaTeX decoding ...
+[417] bibtex.pm:1316> INFO - Found BibTeX data source 'meineBibliothek.bib'
+[487] Biber.pm:4136> INFO - Looking for bibtex format file 'quellen.bib' for section 0
+[492] bibtex.pm:1500> INFO - LaTeX decoding ...
+[543] bibtex.pm:1316> INFO - Found BibTeX data source 'quellen.bib'
+[573] UCollate.pm:68> INFO - Overriding locale 'de-AT' defaults 'variable = shifted' with 'variable = non-ignorable'
+[573] UCollate.pm:68> INFO - Overriding locale 'de-AT' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[573] Biber.pm:3804> INFO - Sorting list 'shorthand/global//global/global' of type 'list' with template 'shorthand' and locale 'de-AT'
+[574] Biber.pm:3810> INFO - No sort tailoring available for locale 'de-AT'
+[591] UCollate.pm:68> INFO - Overriding locale 'de-AT' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[591] UCollate.pm:68> INFO - Overriding locale 'de-AT' defaults 'variable = shifted' with 'variable = non-ignorable'
+[592] Biber.pm:3804> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'de-AT'
+[592] Biber.pm:3810> INFO - No sort tailoring available for locale 'de-AT'
+[611] bbl.pm:617> INFO - Writing 'document.bbl' with encoding 'UTF-8'
+[615] bbl.pm:720> INFO - Output to document.bbl

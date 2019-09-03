@@ -1,0 +1,35 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {naustrian}{}
+\contentsline {chapter}{\numberline {1}Einleitung}{5}{chapter.1}
+\contentsline {chapter}{\numberline {2}Allgemeine k\IeC {\"u}nstliche Intelligenz}{6}{chapter.2}
+\contentsline {section}{\numberline {2.1}Definition von Intelligenz}{6}{section.2.1}
+\contentsline {section}{\numberline {2.2}Definition von k\IeC {\"u}nstlicher Intelligenz}{6}{section.2.2}
+\contentsline {section}{\numberline {2.3}Definition von allgemeiner k\IeC {\"u}nstlicher Intelligenz}{7}{section.2.3}
+\contentsline {section}{\numberline {2.4}Wann wird es sie geben?}{7}{section.2.4}
+\contentsline {section}{\numberline {2.5}Die These der Intelligenzexplosion}{7}{section.2.5}
+\contentsline {chapter}{\numberline {3}Probleme einer allgemeinen k\IeC {\"u}nstlichen Intelligenz}{8}{chapter.3}
+\contentsline {section}{\numberline {3.1}Fehlerhafte Vorstellungen einer KI-Katastrophe}{8}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}B\IeC {\"o}sartige KI}{8}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}KI, die ein Bewusstsein erlangt}{8}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.3}Roboter als Ausl\IeC {\"o}ser einer Katastrophe}{8}{subsection.3.1.3}
+\contentsline {section}{\numberline {3.2}Gesamtmenschheitlicher Konsens \IeC {\"u}ber gemeinsame Werte}{8}{section.3.2}
+\contentsline {section}{\numberline {3.3}Wertekodierung in einer Programmiersprache}{8}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Statische Wertekodierung}{8}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Dynamische maschinelle Werteanpassung}{8}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Best\IeC {\"a}rkendes Lernen}{8}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}Reziprok-best\IeC {\"a}rkendes Lernen}{8}{subsection.3.3.4}
+\contentsline {section}{\numberline {3.4}Biases und ihre Auswirkungen auf die Risikoeinsch\IeC {\"a}tzung}{8}{section.3.4}
+\contentsline {section}{\numberline {3.5}Sichere und vertrauensw\IeC {\"u}rdige KI}{8}{section.3.5}
+\contentsline {section}{\numberline {3.6}KI-Ethik}{8}{section.3.6}
+\contentsline {chapter}{\numberline {4}L\IeC {\"o}sungsans\IeC {\"a}tze}{9}{chapter.4}
+\contentsline {section}{\numberline {4.1}Best\IeC {\"a}rkendes Lernen}{9}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Reziprok-best\IeC {\"a}rkendes Lernen}{9}{subsection.4.1.1}
+\contentsline {section}{\numberline {4.2}Mensch-Maschinen-Interface}{9}{section.4.2}
+\contentsline {section}{\numberline {4.3}Hirnemulation}{9}{section.4.3}
+\contentsline {chapter}{\nonumberline Literaturverzeichnis}{10}{chapter*.4}
+\contentsline {section}{\nonumberline Print-Quellen}{10}{section*.5}
+\contentsline {section}{\nonumberline Internet-Quellen}{10}{section*.6}
+\contentsline {chapter}{\nonumberline Abbildungsverzeichnis}{11}{chapter*.7}
+\contentsline {chapter}{\nonumberline Tabellenverzeichnis}{11}{chapter*.8}
+\contentsline {chapter}{\numberline {A}Hier k\IeC {\"o}nnte Ihr Anhang stehen}{12}{appendix.A}
+\contentsline {chapter}{\nonumberline Erkl\IeC {\"a}rungen}{13}{chapter*.9}
