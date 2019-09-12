@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.9.11)  11 SEP 2019 19:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.9.11)  12 SEP 2019 21:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1141,16 +1141,12 @@ Package biblatex Info: Data encoding 'utf8' specified.
 \openout3 = `document.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-
-
-Package biblatex Warning: File 'document.bbl' is wrong format version - expecte
-d 3.0.
-
 Package biblatex Info: ... file 'document.bbl' found.
-(./document.bbl)
+ (./document.bbl)
 Package biblatex Info: Reference section=0 on input line 49.
 Package biblatex Info: Reference segment=0 on input line 49.
- (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+
+(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count409
 \scratchdimen=\dimen158
@@ -1445,10 +1441,10 @@ Package logreq Info: Writing requests to 'document.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 35460 strings out of 492623
- 659341 string characters out of 6135669
- 1241900 words of memory out of 5000000
- 38738 multiletter control sequences out of 15000+600000
+ 35462 strings out of 492623
+ 659366 string characters out of 6135669
+ 1242943 words of memory out of 5000000
+ 38739 multiletter control sequences out of 15000+600000
  660954 words of font info for 173 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  62i,6n,80p,9124b,2504s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1462,10 +1458,10 @@ e/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf-dist/fonts/type
 </usr/share/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf-dis
 t/fonts/type1/public/lm/lmtt10.pfb></usr/share/texmf-dist/fonts/type1/public/lm
 /lmtt12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmtt9.pfb>
-Output written on document.pdf (14 pages, 373074 bytes).
+Output written on document.pdf (14 pages, 373275 bytes).
 PDF statistics:
- 409 PDF objects out of 1000 (max. 8388607)
- 374 compressed objects within 4 object streams
- 86 named destinations out of 1000 (max. 500000)
+ 412 PDF objects out of 1000 (max. 8388607)
+ 377 compressed objects within 4 object streams
+ 87 named destinations out of 1000 (max. 500000)
  47934 words of extra memory for PDF output out of 51595 (max. 10000000)
 

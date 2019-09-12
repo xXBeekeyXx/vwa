@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 2.9 $
+% $ biblatex bbl format version 3.0 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -40,7 +40,7 @@
       \strng{authornamehash}{892acb64b0a9f67cbe51c2705c652a49}
       \strng{authorfullhash}{892acb64b0a9f67cbe51c2705c652a49}
       \field{sortinit}{B}
-      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{A New York Times {bestsellerSuperintelligence} asks the questions: What happens when machines surpass humans in general intelligence? Will artificial agents save or destroy us? Nick Bostrom lays the foundation for understanding the future of humanity and intelligent life. The human brain has some capabilities that the brains of other animals lack. It is to these distinctive capabilities that our species owes its dominant position. If machine brains surpassed human brains in general intelligence, then this new superintelligence could become extremely powerful - possibly beyond our control. As the fate of the gorillas now depends more on humans than on the species itself, so would the fate of humankind depend on the actions of the machine superintelligence.But we have one advantage: we get to make the first move. Will it be possible to construct a seed Artificial Intelligence, to engineer initial conditions so as to make an intelligence explosion survivable? How could one achieve a controlled detonation?This profoundly ambitious and original book breaks down a vast track of difficult intellectual terrain. After an utterly engrossing journey that takes us to the frontiers of thinking about the human condition and the future of intelligent life, we find in Nick Bostrom's work nothing less than a reconceptualization of the essential task of our time.}
@@ -55,20 +55,20 @@
     \endentry
     \entry{easterlin_worldwide_2000}{article}{}
       \name{author}{1}{}{%
-        {{hash=4f63239d35252d5fb79d7a3324c79c0a}{%
+        {{hash=4e5df5ca42caf0af188cce3d0250279e}{%
            family={Easterlin},
            familyi={E\bibinitperiod},
            given={Richard\bibnamedelima A.},
            giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
       }
-      \strng{namehash}{4f63239d35252d5fb79d7a3324c79c0a}
-      \strng{fullhash}{4f63239d35252d5fb79d7a3324c79c0a}
-      \strng{bibnamehash}{4f63239d35252d5fb79d7a3324c79c0a}
-      \strng{authorbibnamehash}{4f63239d35252d5fb79d7a3324c79c0a}
-      \strng{authornamehash}{4f63239d35252d5fb79d7a3324c79c0a}
-      \strng{authorfullhash}{4f63239d35252d5fb79d7a3324c79c0a}
+      \strng{namehash}{4e5df5ca42caf0af188cce3d0250279e}
+      \strng{fullhash}{4e5df5ca42caf0af188cce3d0250279e}
+      \strng{bibnamehash}{4e5df5ca42caf0af188cce3d0250279e}
+      \strng{authorbibnamehash}{4e5df5ca42caf0af188cce3d0250279e}
+      \strng{authornamehash}{4e5df5ca42caf0af188cce3d0250279e}
+      \strng{authorfullhash}{4e5df5ca42caf0af188cce3d0250279e}
       \field{sortinit}{E}
-      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0895-3309}
@@ -93,7 +93,7 @@
     \endentry
     \entry{noauthor_eliezer_nodate}{online}{}
       \field{sortinit}{E}
-      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{labeltitlesource}{title}
       \field{title}{Eliezer Yudkowsky on Intelligence Explosion - {YouTube}}
       \field{urlday}{7}
@@ -133,7 +133,7 @@
       \strng{authornamehash}{ec5e4801382f66242d79b4e829b79cd8}
       \strng{authorfullhash}{ec5e4801382f66242d79b4e829b79cd8}
       \field{sortinit}{G}
-      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{"The topic of this book the creation of software programs displaying broad, deep, human-style general intelligence is a grand and ambitious one. And yet it is far from a frivolous one: what the papers in this publication illustrate is that it is a fit and proper subject for serious science and engineering exploration. No one has yet created a software program with human-style or (even roughly) human-level general intelligence but we now have a sufficiently rich intellectual toolkit that it is possible to think about such a possibility in detail, and make serious attempts at design, analysis and engineering. possibility in detail, and make serious attempts at design, analysis and engineering. This is the situation that led to the organization of the 2006 {AGIRI} (Artificial General Intelligence Research Institute) workshop; and to the decision to publish a book from contributions by the speakers at the conference.The material presented here only scratches the surface of the {AGI}-related R\&D work that is occurring around the world at this moment. But the editors are pleased to have had the chance to be involved in organizing and presenting at least a small percentage of the contemporary progress."}
@@ -167,7 +167,7 @@
       \strng{authornamehash}{cf548dd4af54ff0a9e1ac88d8de4f935}
       \strng{authorfullhash}{cf548dd4af54ff0a9e1ac88d8de4f935}
       \field{sortinit}{K}
-      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Artificial intelligence ({AI})—defined as a system’s ability to correctly interpret external data, to learn from such data, and to use those learnings to achieve specific goals and tasks through flexible adaptation—is a topic in nearly every boardroom and at many dinner tables. Yet, despite this prominence, {AI} is still a surprisingly fuzzy concept and a lot of questions surrounding it are still open. In this article, we analyze how {AI} is different from related concepts, such as the Internet of Things and big data, and suggest that {AI} is not one monolithic term but instead needs to be seen in a more nuanced way. This can either be achieved by looking at {AI} through the lens of evolutionary stages (artificial narrow intelligence, artificial general intelligence, and artificial super intelligence) or by focusing on different types of {AI} systems (analytical {AI}, human-inspired {AI}, and humanized {AI}). Based on this classification, we show the potential and risk of {AI} using a series of case studies regarding universities, corporations, and governments. Finally, we present a framework that helps organizations think about the internal and external implications of {AI}, which we label the Three C Model of Confidence, Change, and Control.}
@@ -204,7 +204,7 @@
     \endentry
     \entry{muller_future_2016}{incollection}{}
       \name{author}{2}{}{%
-        {{hash=390cc4f77e679539f9647f4736646685}{%
+        {{hash=7345c509be779a76e6da0766d0999b99}{%
            family={Müller},
            familyi={M\bibinitperiod},
            given={Vincent\bibnamedelima C.},
@@ -216,7 +216,7 @@
            giveni={N\bibinitperiod}}}%
       }
       \name{editor}{1}{}{%
-        {{hash=390cc4f77e679539f9647f4736646685}{%
+        {{hash=7345c509be779a76e6da0766d0999b99}{%
            family={Müller},
            familyi={M\bibinitperiod},
            given={Vincent\bibnamedelima C.},
@@ -228,17 +228,17 @@
       \list{publisher}{1}{%
         {Springer International Publishing}%
       }
-      \strng{namehash}{1caf217e9a31fcf911a78aab87e5b15c}
-      \strng{fullhash}{1caf217e9a31fcf911a78aab87e5b15c}
-      \strng{bibnamehash}{1caf217e9a31fcf911a78aab87e5b15c}
-      \strng{authorbibnamehash}{1caf217e9a31fcf911a78aab87e5b15c}
-      \strng{authornamehash}{1caf217e9a31fcf911a78aab87e5b15c}
-      \strng{authorfullhash}{1caf217e9a31fcf911a78aab87e5b15c}
-      \strng{editorbibnamehash}{390cc4f77e679539f9647f4736646685}
-      \strng{editornamehash}{390cc4f77e679539f9647f4736646685}
-      \strng{editorfullhash}{390cc4f77e679539f9647f4736646685}
+      \strng{namehash}{4ff5963f706740e2cc03b4cd2609f44d}
+      \strng{fullhash}{4ff5963f706740e2cc03b4cd2609f44d}
+      \strng{bibnamehash}{4ff5963f706740e2cc03b4cd2609f44d}
+      \strng{authorbibnamehash}{4ff5963f706740e2cc03b4cd2609f44d}
+      \strng{authornamehash}{4ff5963f706740e2cc03b4cd2609f44d}
+      \strng{authorfullhash}{4ff5963f706740e2cc03b4cd2609f44d}
+      \strng{editorbibnamehash}{7345c509be779a76e6da0766d0999b99}
+      \strng{editornamehash}{7345c509be779a76e6da0766d0999b99}
+      \strng{editorfullhash}{7345c509be779a76e6da0766d0999b99}
       \field{sortinit}{M}
-      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{There is, in some quarters, concern about high–level machine intelligence and superintelligent {AI} coming up in a few decades, bringing with it significant risks for humanity. In other quarters, these issues are ignored or considered science fiction. We wanted to clarify what the distribution of opinions actually is, what probability the best experts currently assign to high–level machine intelligence coming up within a particular time–frame, which risks they see with that development, and how fast they see these developing. We thus designed a brief questionnaire and distributed it to four groups of experts in 2012/2013. The median estimate of respondents was for a one in two chance that high-level machine intelligence will be developed around 2040–2050, rising to a nine in ten chance by 2075. Experts expect that systems will move on to superintelligence in less than 30 years thereafter. They estimate the chance is about one in three that this development turns out to be ‘bad’ or ‘extremely bad’ for humanity.}
@@ -282,7 +282,7 @@
       \strng{authornamehash}{719cef83760a2633ab00d5f234432c26}
       \strng{authorfullhash}{719cef83760a2633ab00d5f234432c26}
       \field{sortinit}{W}
-      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Vorwort}
@@ -312,7 +312,7 @@
       \strng{authornamehash}{549a1c22e1c5452641bfaff6196bd013}
       \strng{authorfullhash}{549a1c22e1c5452641bfaff6196bd013}
       \field{sortinit}{Y}
-      \field{sortinithash}{b8d711a035f7be9840c721c82920477e}
+      \field{sortinithash}{6ae2ff5458ff901249c2745238c951b7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{Sam Harris}
