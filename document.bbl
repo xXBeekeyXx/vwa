@@ -269,6 +269,89 @@
       \endverb
       \keyw{Artificial intelligence,Big data,Deep learning,Expert systems,Internet of Things,Machine learning}
     \endentry
+    \entry{muehlhauser_intelligence_2012}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=ec325d39dbdd64d56c33182199f54389}{%
+           family={Muehlhauser},
+           familyi={M\bibinitperiod},
+           given={Luke},
+           giveni={L\bibinitperiod}}}%
+        {{hash=6941504c0d3fb73d8e4d13fa7ecd185c}{%
+           family={Salamon},
+           familyi={S\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod}}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=21b4c553296459cbc9eb46550e361349}{%
+           family={Eden},
+           familyi={E\bibinitperiod},
+           given={Amnon\bibnamedelima H.},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=4a4ffb7d1dd31d92d7011a14adea71b5}{%
+           family={Moor},
+           familyi={M\bibinitperiod},
+           given={James\bibnamedelima H.},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=33a34e95d546e8e20bd44e722b02cc7c}{%
+           family={Søraker},
+           familyi={S\bibinitperiod},
+           given={Johnny\bibnamedelima H.},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=7dac3710f028715d36556a6d4c3cb14a}{%
+           family={Steinhart},
+           familyi={S\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{0ac628d3c2640241213d65db3db6ecf9}
+      \strng{fullhash}{0ac628d3c2640241213d65db3db6ecf9}
+      \strng{bibnamehash}{0ac628d3c2640241213d65db3db6ecf9}
+      \strng{authorbibnamehash}{0ac628d3c2640241213d65db3db6ecf9}
+      \strng{authornamehash}{0ac628d3c2640241213d65db3db6ecf9}
+      \strng{authorfullhash}{0ac628d3c2640241213d65db3db6ecf9}
+      \strng{editorbibnamehash}{00ef14d95b3978b7f80022705136e891}
+      \strng{editornamehash}{dd6e55f735bc417a4a2f42a835e03878}
+      \strng{editorfullhash}{00ef14d95b3978b7f80022705136e891}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{In this chapter we review the evidence for and against three claims: that (1) there is a substantial chance we will create human-level {AI} before 2100, that (2) if human-level {AI} is created, there is a good chance vastly superhuman {AI} will follow via an “intelligence explosion,” and that (3) an uncontrolled intelligence explosion could destroy everything we value, but a controlled intelligence explosion would benefit humanity enormously if we can achieve it. We conclude with recommendations for increasing the odds of a controlled intelligence explosion relative to an uncontrolled intelligence explosion.}
+      \field{booktitle}{Singularity Hypotheses: A Scientific and Philosophical Assessment}
+      \field{isbn}{978-3-642-32560-1}
+      \field{langid}{english}
+      \field{series}{The Frontiers Collection}
+      \field{shorttitle}{Intelligence Explosion}
+      \field{title}{Intelligence Explosion: Evidence and Import}
+      \field{urlday}{30}
+      \field{urlmonth}{10}
+      \field{urlyear}{2019}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{15\bibrangedash 42}
+      \range{pages}{28}
+      \verb{doi}
+      \verb 10.1007/978-3-642-32560-1_2
+      \endverb
+      \verb{file}
+      \verb Muehlhauser und Salamon - 2012 - Intelligence Explosion Evidence and Import.pdf:C\:\\Users\\fsram\\Zotero\\storage\\CPT2XUIF\\Muehlhauser und Salamon - 2012 - Intelligence Explosion Evidence and Import.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-642-32560-1_2
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-642-32560-1_2
+      \endverb
+      \keyw{Artificial Intelligence,Intelligence Software,Machine Intelligence,Optimization Power,Transcranial Magnetic Stimulation}
+    \endentry
     \entry{muller_future_2016}{incollection}{}
       \name{author}{2}{}{%
         {{hash=7345c509be779a76e6da0766d0999b99}{%

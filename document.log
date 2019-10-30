@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.10.14)  29 OCT 2019 16:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.10.14)  30 OCT 2019 16:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1349,21 +1349,21 @@ chapter 2.
 
 
 
-] [8] [9]) [10]
+] [8] [9] [10]) [11]
 \openout2 = `kapitel2.aux'.
 
  (./kapitel2.tex
 chapter 3.
-[11
+[12
 
 
 
-]) [12]
+]) [13]
 \openout2 = `kapitel3.aux'.
 
  (./kapitel3.tex
 chapter 4.
-) [13
+) [14
 
 
 
@@ -1372,23 +1372,23 @@ chapter without number
 
 LaTeX Warning: Empty biblist 'shorthand' on input line 21.
 
+[15
+
+
+]
 
 LaTeX Warning: Empty bibliography on input line 23.
 
 
 LaTeX Warning: Empty bibliography on input line 24.
 
-[14
-
-
-]
 
 LaTeX Warning: Empty bibliography on input line 26.
 
 
 LaTeX Warning: Empty bibliography on input line 27.
 
-) [15]
+) [16]
 Package tocbasic Info: character protrusion at lof deactivated on input line 89
 .
  (./document.lof
@@ -1407,20 +1407,20 @@ Package cleveref Info: loaded `naustrian' language definitions on input line 4.
 \tf@lot=\write6
 \openout6 = `document.lot'.
 
- [16
+ [17
 
 ]
 \openout2 = `anhang.aux'.
 
  (./anhang.tex
 chapter A.
-) [17
+) [18
 
 
 ]
 chapter without number
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 130.
-[18
+[19
 
 
 
@@ -1433,16 +1433,21 @@ Package cleveref Info: loaded `naustrian' language definitions on input line 29
 (./kapitel1.aux) (./kapitel2.aux) (./kapitel3.aux) (./anhang.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 130.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 130.
+
+
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
+
 Package logreq Info: Writing requests to 'document.run.xml'.
 \openout1 = `document.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 35551 strings out of 492623
- 661076 string characters out of 6135668
- 1243658 words of memory out of 5000000
- 38773 multiletter control sequences out of 15000+600000
- 662812 words of font info for 190 fonts, out of 8000000 for 9000
+ 35571 strings out of 492623
+ 661566 string characters out of 6135668
+ 1244815 words of memory out of 5000000
+ 38782 multiletter control sequences out of 15000+600000
+ 663216 words of font info for 194 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  62i,6n,80p,9124b,2855s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf-dist/fo
@@ -1455,10 +1460,10 @@ e/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf-dist/fonts/type
 </usr/share/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf-dis
 t/fonts/type1/public/lm/lmtt10.pfb></usr/share/texmf-dist/fonts/type1/public/lm
 /lmtt12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmtt9.pfb>
-Output written on document.pdf (18 pages, 386846 bytes).
+Output written on document.pdf (19 pages, 390408 bytes).
 PDF statistics:
- 472 PDF objects out of 1000 (max. 8388607)
- 432 compressed objects within 5 object streams
- 108 named destinations out of 1000 (max. 500000)
+ 485 PDF objects out of 1000 (max. 8388607)
+ 444 compressed objects within 5 object streams
+ 111 named destinations out of 1000 (max. 500000)
  47942 words of extra memory for PDF output out of 51595 (max. 10000000)
 
