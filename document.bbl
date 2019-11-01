@@ -19,6 +19,28 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
+    \entry{noauthor_ai_nodate-1}{online}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Addressing {AI} safety myths: Why do we need research to ensure {AI} remains safe and beneficial? What are the benefits and risks of artificial intelligence?}
+      \field{langid}{american}
+      \field{title}{{AI} Safety Myths}
+      \field{titleaddon}{Future of Life Institute}
+      \field{urlday}{1}
+      \field{urlmonth}{11}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\fsram\\Zotero\\storage\\YBAUS76E\\aimyths.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://futureoflife.org/background/aimyths/
+      \endverb
+      \verb{url}
+      \verb https://futureoflife.org/background/aimyths/
+      \endverb
+    \endentry
     \entry{bostrom_superintelligence:_2014}{book}{}
       \name{author}{1}{}{%
         {{hash=892acb64b0a9f67cbe51c2705c652a49}{%
