@@ -2207,17 +2207,18 @@
     <bcf:citekey order="8">kaplan_siri_2019</bcf:citekey>
     <bcf:citekey order="9">bostrom_superintelligence:_2014</bcf:citekey>
     <bcf:citekey order="10">goertzel_advances_2007</bcf:citekey>
-    <bcf:citekey order="11">yudkowsky_intelligence_2013</bcf:citekey>
-    <bcf:citekey order="12">yudkowsky_what_2001</bcf:citekey>
-    <bcf:citekey order="13">yudkowsky_intelligence_2013</bcf:citekey>
-    <bcf:citekey order="14">hibbard_super-intelligent_2002</bcf:citekey>
-    <bcf:citekey order="15">yudkowsky_complex_2011</bcf:citekey>
-    <bcf:citekey order="16">muller_future_2016</bcf:citekey>
-    <bcf:citekey order="17">muehlhauser_intelligence_2012</bcf:citekey>
-    <bcf:citekey order="18">noauthor_ai_nodate-1</bcf:citekey>
+    <bcf:citekey order="11">paul_current_2019</bcf:citekey>
+    <bcf:citekey order="12">yudkowsky_intelligence_2013</bcf:citekey>
+    <bcf:citekey order="13">yudkowsky_what_2001</bcf:citekey>
+    <bcf:citekey order="14">yudkowsky_intelligence_2013</bcf:citekey>
+    <bcf:citekey order="15">hibbard_super-intelligent_2002</bcf:citekey>
+    <bcf:citekey order="16">yudkowsky_complex_2011</bcf:citekey>
+    <bcf:citekey order="17">muller_future_2016</bcf:citekey>
+    <bcf:citekey order="18">muehlhauser_intelligence_2012</bcf:citekey>
     <bcf:citekey order="19">noauthor_ai_nodate-1</bcf:citekey>
-    <bcf:citekey order="20">yudkowsky_complex_2011</bcf:citekey>
-    <bcf:citekey order="21">yudkowsky_intelligence_2013</bcf:citekey>
+    <bcf:citekey order="20">noauthor_ai_nodate-1</bcf:citekey>
+    <bcf:citekey order="21">yudkowsky_complex_2011</bcf:citekey>
+    <bcf:citekey order="22">hadfield-menell_inverse_2017</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">

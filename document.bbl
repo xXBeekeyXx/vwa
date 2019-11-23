@@ -194,6 +194,70 @@
       \field{year}{1979}
       \field{dateera}{ce}
     \endentry
+    \entry{hadfield-menell_inverse_2017}{article}{}
+      \name{author}{5}{}{%
+        {{hash=d39f872255b10943403c9e34b5f85174}{%
+           family={Hadfield-Menell},
+           familyi={H\bibinithyphendelim M\bibinitperiod},
+           given={Dylan},
+           giveni={D\bibinitperiod}}}%
+        {{hash=2f100ad1731293e580c2e7dbc5700fc2}{%
+           family={Milli},
+           familyi={M\bibinitperiod},
+           given={Smitha},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e28d4ee199593959d8c29980a64f1974}{%
+           family={Abbeel},
+           familyi={A\bibinitperiod},
+           given={Pieter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=143fa183327d9fcd9de18eec99d6ca97}{%
+           family={Russell},
+           familyi={R\bibinitperiod},
+           given={Stuart},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ac56afa5bcb9a863ab4555f3ac357ef5}{%
+           family={Dragan},
+           familyi={D\bibinitperiod},
+           given={Anca},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{2900ca25bbf799cd0ead2297960912b7}
+      \strng{fullhash}{6e3f636ff59fa7f0d52f88a9470c6ddb}
+      \strng{bibnamehash}{6e3f636ff59fa7f0d52f88a9470c6ddb}
+      \strng{authorbibnamehash}{6e3f636ff59fa7f0d52f88a9470c6ddb}
+      \strng{authornamehash}{2900ca25bbf799cd0ead2297960912b7}
+      \strng{authorfullhash}{6e3f636ff59fa7f0d52f88a9470c6ddb}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Autonomous agents optimize the reward function we give them. What they don't know is how hard it is for us to design a reward function that actually captures what we want. When designing the reward, we might think of some specific training scenarios, and make sure that the reward will lead to the right behavior in those scenarios. Inevitably, agents encounter new scenarios (e.g., new types of terrain) where optimizing that same reward may lead to undesired behavior. Our insight is that reward functions are merely observations about what the designer actually wants, and that they should be interpreted in the context in which they were designed. We introduce inverse reward design ({IRD}) as the problem of inferring the true objective based on the designed reward and the training {MDP}. We introduce approximate methods for solving {IRD} problems, and use their solution to plan risk-averse behavior in test {MDPs}. Empirical results suggest that this approach can help alleviate negative side effects of misspecified reward functions and mitigate reward hacking.}
+      \field{day}{7}
+      \field{eprinttype}{arxiv}
+      \field{journaltitle}{{arXiv}:1711.02827 [cs]}
+      \field{month}{11}
+      \field{title}{Inverse Reward Design}
+      \field{urlday}{15}
+      \field{urlmonth}{11}
+      \field{urlyear}{2019}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{eprint}
+      \verb 1711.02827
+      \endverb
+      \verb{file}
+      \verb arXiv Fulltext PDF:C\:\\Users\\fsram\\Zotero\\storage\\UIYRZ9AB\\Hadfield-Menell et al. - 2017 - Inverse Reward Design.pdf:application/pdf;arXiv.org Snapshot:C\:\\Users\\fsram\\Zotero\\storage\\NGLT4SAD\\1711.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/1711.02827
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/1711.02827
+      \endverb
+      \keyw{Computer Science - Artificial Intelligence,Computer Science - Machine Learning}
+    \endentry
     \entry{hibbard_super-intelligent_2002}{book}{}
       \name{author}{1}{}{%
         {{hash=17878621e0d7f3f13cd7d6df44f8a450}{%
@@ -439,6 +503,44 @@
       \endverb
       \keyw{Artificial intelligence,{AI},Expert opinion,Future of {AI},Humanity,Intelligence explosion,Machine intelligence,Opinion poll,Progress,Singularity,Superintelligence}
     \endentry
+    \entry{paul_current_2019}{unpublished}{}
+      \name{author}{1}{}{%
+        {{hash=d128f4d69c6f2f63c92f04553d22b23e}{%
+           family={Paul},
+           familyi={P\bibinitperiod},
+           given={Christiano},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {San Francisco}%
+      }
+      \strng{namehash}{d128f4d69c6f2f63c92f04553d22b23e}
+      \strng{fullhash}{d128f4d69c6f2f63c92f04553d22b23e}
+      \strng{bibnamehash}{d128f4d69c6f2f63c92f04553d22b23e}
+      \strng{authorbibnamehash}{d128f4d69c6f2f63c92f04553d22b23e}
+      \strng{authornamehash}{d128f4d69c6f2f63c92f04553d22b23e}
+      \strng{authorfullhash}{d128f4d69c6f2f63c92f04553d22b23e}
+      \field{sortinit}{P}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Paul Christiano, a researcher at {OpenAI}, discusses the current state of research on aligning {AI} with human values: what’s happening now, what needs to happen, and how people can help. This talk covers a broad set of subgoals within alignment research, from inferring human preferences to verifying the properties of advanced systems. To learn more about effective altruism, visit effectivealtruism.org This talk was filmed at {EA} Global 2019: San Francisco. You can learn more about these conferences at eaglobal.org}
+      \field{langid}{english}
+      \field{note}{Effective Altruism Global}
+      \field{title}{Current Work in {AI} Alignment}
+      \field{urlday}{2}
+      \field{urlmonth}{11}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=-vsYtevJ2bc
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=-vsYtevJ2bc
+      \endverb
+    \endentry
     \entry{Vorwort}{online}{}
       \name{author}{1}{}{%
         {{hash=719cef83760a2633ab00d5f234432c26}{%
@@ -532,13 +634,16 @@
       \endverb
       \keyw{anthropomorphism,Friendly {AI},machine ethics}
     \endentry
-    \entry{yudkowsky_intelligence_2013}{inproceedings}{}
+    \entry{yudkowsky_intelligence_2013}{report}{}
       \name{author}{1}{}{%
         {{hash=549a1c22e1c5452641bfaff6196bd013}{%
            family={Yudkowsky},
            familyi={Y\bibinitperiod},
            given={Eliezer},
            giveni={E\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Berkeley, {CA}: Machine Intelligence Research Institute}%
       }
       \strng{namehash}{549a1c22e1c5452641bfaff6196bd013}
       \strng{fullhash}{549a1c22e1c5452641bfaff6196bd013}
@@ -553,12 +658,13 @@
       \field{labeltitlesource}{title}
       \field{abstract}{I. J. Good’s thesis of the “intelligence explosion” states that a sufficiently advanced machine intelligence could build a smarter version of itself, which could in turn build an even smarter version, and that this process could continue to the point of vastly exceeding human intelligence. As Sandberg (2010) correctly notes, there have been several attempts to lay down return on investment formulas intended to represent sharp speedups in economic or technological growth, but very little attempt has been made to deal formally with Good’s intelligence explosion thesis as such. I identify the key issue as returns on cognitive reinvestment—the ability to invest more computing power, faster computers, or improved cognitive algorithms to yield cognitive labor which produces larger brains, faster brains, or better mind designs. There are many phenomena in the world which have been argued to be evidentially relevant to this question, from the observed course of hominid evolution, to Moore’s Law, to the competenceovertimeofmachinechess-playingsystems, andmanymore. Igointosome depth on some debates which then arise on how to interpret such evidence. I propose that the next step in analyzing positions on the intelligence explosion would be to formalize return on investment curves, so that each stance can formally state which possible microfoundations they hold to be falsified by historical observations. More generally,}
       \field{title}{Intelligence Explosion Microeconomics}
+      \field{type}{Technical report}
       \field{year}{2013}
       \field{dateera}{ce}
       \verb{file}
       \verb Full Text PDF:C\:\\Users\\fsram\\Zotero\\storage\\WXT65BN5\\Yudkowsky - 2013 - Intelligence Explosion Microeconomics.pdf:application/pdf
       \endverb
-      \keyw{Artificial intelligence,Intelligence explosion,Brain,Cognition Disorders,Computer,Computers,Hominidae,Large,Man-Machine Systems,Moore's law,Note (document)}
+      \keyw{Artificial intelligence,Brain,Cognition Disorders,Computer,Computers,Hominidae,Intelligence explosion,Large,Man-Machine Systems,Moore's law,Note (document)}
     \endentry
     \entry{yudkowsky_what_2001}{online}{}
       \name{author}{1}{}{%
