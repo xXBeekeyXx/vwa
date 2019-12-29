@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.0 $
+% $ biblatex bbl format version 3.1 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -27,12 +27,12 @@
       \field{langid}{american}
       \field{title}{{AI} Safety Myths}
       \field{titleaddon}{Future of Life Institute}
-      \field{urlday}{1}
-      \field{urlmonth}{11}
+      \field{urlday}{6}
+      \field{urlmonth}{8}
       \field{urlyear}{2019}
       \field{urldateera}{ce}
       \verb{file}
-      \verb Snapshot:C\:\\Users\\fsram\\Zotero\\storage\\YBAUS76E\\aimyths.html:text/html
+      \verb Snapshot:/home/franz/Zotero/storage/G86HX2B3/aimyths.html:text/html
       \endverb
       \verb{urlraw}
       \verb https://futureoflife.org/background/aimyths/
@@ -123,7 +123,7 @@
       \field{urlyear}{2019}
       \field{urldateera}{ce}
       \verb{file}
-      \verb Eliezer Yudkowsky on Intelligence Explosion - YouTube:C\:\\Users\\fsram\\Zotero\\storage\\EBHJDYBF\\watch.html:text/html
+      \verb Eliezer Yudkowsky on Intelligence Explosion - YouTube:/home/franz/Zotero/storage/EBHJDYBF/watch.html:text/html
       \endverb
       \verb{urlraw}
       \verb https://www.youtube.com/watch?v=D6peN9LiTWA
@@ -194,70 +194,6 @@
       \field{year}{1979}
       \field{dateera}{ce}
     \endentry
-    \entry{hadfield-menell_inverse_2017}{article}{}
-      \name{author}{5}{}{%
-        {{hash=d39f872255b10943403c9e34b5f85174}{%
-           family={Hadfield-Menell},
-           familyi={H\bibinithyphendelim M\bibinitperiod},
-           given={Dylan},
-           giveni={D\bibinitperiod}}}%
-        {{hash=2f100ad1731293e580c2e7dbc5700fc2}{%
-           family={Milli},
-           familyi={M\bibinitperiod},
-           given={Smitha},
-           giveni={S\bibinitperiod}}}%
-        {{hash=e28d4ee199593959d8c29980a64f1974}{%
-           family={Abbeel},
-           familyi={A\bibinitperiod},
-           given={Pieter},
-           giveni={P\bibinitperiod}}}%
-        {{hash=143fa183327d9fcd9de18eec99d6ca97}{%
-           family={Russell},
-           familyi={R\bibinitperiod},
-           given={Stuart},
-           giveni={S\bibinitperiod}}}%
-        {{hash=ac56afa5bcb9a863ab4555f3ac357ef5}{%
-           family={Dragan},
-           familyi={D\bibinitperiod},
-           given={Anca},
-           giveni={A\bibinitperiod}}}%
-      }
-      \strng{namehash}{2900ca25bbf799cd0ead2297960912b7}
-      \strng{fullhash}{6e3f636ff59fa7f0d52f88a9470c6ddb}
-      \strng{bibnamehash}{6e3f636ff59fa7f0d52f88a9470c6ddb}
-      \strng{authorbibnamehash}{6e3f636ff59fa7f0d52f88a9470c6ddb}
-      \strng{authornamehash}{2900ca25bbf799cd0ead2297960912b7}
-      \strng{authorfullhash}{6e3f636ff59fa7f0d52f88a9470c6ddb}
-      \field{sortinit}{H}
-      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Autonomous agents optimize the reward function we give them. What they don't know is how hard it is for us to design a reward function that actually captures what we want. When designing the reward, we might think of some specific training scenarios, and make sure that the reward will lead to the right behavior in those scenarios. Inevitably, agents encounter new scenarios (e.g., new types of terrain) where optimizing that same reward may lead to undesired behavior. Our insight is that reward functions are merely observations about what the designer actually wants, and that they should be interpreted in the context in which they were designed. We introduce inverse reward design ({IRD}) as the problem of inferring the true objective based on the designed reward and the training {MDP}. We introduce approximate methods for solving {IRD} problems, and use their solution to plan risk-averse behavior in test {MDPs}. Empirical results suggest that this approach can help alleviate negative side effects of misspecified reward functions and mitigate reward hacking.}
-      \field{day}{7}
-      \field{eprinttype}{arxiv}
-      \field{journaltitle}{{arXiv}:1711.02827 [cs]}
-      \field{month}{11}
-      \field{title}{Inverse Reward Design}
-      \field{urlday}{15}
-      \field{urlmonth}{11}
-      \field{urlyear}{2019}
-      \field{year}{2017}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \verb{eprint}
-      \verb 1711.02827
-      \endverb
-      \verb{file}
-      \verb arXiv Fulltext PDF:C\:\\Users\\fsram\\Zotero\\storage\\UIYRZ9AB\\Hadfield-Menell et al. - 2017 - Inverse Reward Design.pdf:application/pdf;arXiv.org Snapshot:C\:\\Users\\fsram\\Zotero\\storage\\NGLT4SAD\\1711.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb http://arxiv.org/abs/1711.02827
-      \endverb
-      \verb{url}
-      \verb http://arxiv.org/abs/1711.02827
-      \endverb
-      \keyw{Computer Science - Artificial Intelligence,Computer Science - Machine Learning}
-    \endentry
     \entry{hibbard_super-intelligent_2002}{book}{}
       \name{author}{1}{}{%
         {{hash=17878621e0d7f3f13cd7d6df44f8a450}{%
@@ -293,7 +229,7 @@
       \verb 10.1007/978-1-4615-0759-8
       \endverb
       \verb{file}
-      \verb Hibbard - 2002 - Super-Intelligent Machines.pdf:C\:\\Users\\fsram\\Zotero\\storage\\ZL4FVPZJ\\Hibbard - 2002 - Super-Intelligent Machines.pdf:application/pdf;Snapshot:C\:\\Users\\fsram\\Zotero\\storage\\6FQP63XZ\\9780306473883.html:text/html
+      \verb Hibbard - 2002 - Super-Intelligent Machines.pdf:/home/franz/Zotero/storage/ZL4FVPZJ/Hibbard - 2002 - Super-Intelligent Machines.pdf:application/pdf;Snapshot:/home/franz/Zotero/storage/6FQP63XZ/9780306473883.html:text/html
       \endverb
       \verb{urlraw}
       \verb https://www.springer.com/gp/book/9780306473883
@@ -301,6 +237,60 @@
       \verb{url}
       \verb https://www.springer.com/gp/book/9780306473883
       \endverb
+    \endentry
+    \entry{irving_ai_2018}{article}{}
+      \name{author}{3}{}{%
+        {{hash=edc6964c6549e1839ca94d3d61e03f76}{%
+           family={Irving},
+           familyi={I\bibinitperiod},
+           given={Geoffrey},
+           giveni={G\bibinitperiod}}}%
+        {{hash=cffdbdf7d0beb981d8bb8ea28506a4b2}{%
+           family={Christiano},
+           familyi={C\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=1e6adbf36ab730cd5fdadb838b4d2667}{%
+           family={Amodei},
+           familyi={A\bibinitperiod},
+           given={Dario},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{97e885f62f64b1fad0f3268346fe18cf}
+      \strng{fullhash}{3fc2c0fc0c7055153d0a882650c28117}
+      \strng{bibnamehash}{3fc2c0fc0c7055153d0a882650c28117}
+      \strng{authorbibnamehash}{3fc2c0fc0c7055153d0a882650c28117}
+      \strng{authornamehash}{97e885f62f64b1fad0f3268346fe18cf}
+      \strng{authorfullhash}{3fc2c0fc0c7055153d0a882650c28117}
+      \field{sortinit}{I}
+      \field{sortinithash}{9417e9a1288a9371e2691d999083ed39}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{To make {AI} systems broadly useful for challenging real-world tasks, we need them to learn complex human goals and preferences. One approach to specifying complex goals asks humans to judge during training which agent behaviors are safe and useful, but this approach can fail if the task is too complicated for a human to directly judge. To help address this concern, we propose training agents via self play on a zero sum debate game. Given a question or proposed action, two agents take turns making short statements up to a limit, then a human judges which of the agents gave the most true, useful information. In an analogy to complexity theory, debate with optimal play can answer any question in {PSPACE} given polynomial time judges (direct judging answers only {NP} questions). In practice, whether debate works involves empirical questions about humans and the tasks we want {AIs} to perform, plus theoretical questions about the meaning of {AI} alignment. We report results on an initial {MNIST} experiment where agents compete to convince a sparse classifier, boosting the classifier's accuracy from 59.4\% to 88.9\% given 6 pixels and from 48.2\% to 85.2\% given 4 pixels. Finally, we discuss theoretical and practical aspects of the debate model, focusing on potential weaknesses as the model scales up, and we propose future human and computer experiments to test these properties.}
+      \field{day}{22}
+      \field{eprinttype}{arxiv}
+      \field{journaltitle}{{arXiv}:1805.00899 [cs, stat]}
+      \field{month}{10}
+      \field{title}{{AI} safety via debate}
+      \field{urlday}{29}
+      \field{urlmonth}{12}
+      \field{urlyear}{2019}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{eprint}
+      \verb 1805.00899
+      \endverb
+      \verb{file}
+      \verb arXiv Fulltext PDF:/home/franz/Zotero/storage/YEE454KP/Irving et al. - 2018 - AI safety via debate.pdf:application/pdf;arXiv.org Snapshot:/home/franz/Zotero/storage/TM2TJ57M/1805.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/1805.00899
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/1805.00899
+      \endverb
+      \keyw{Computer Science - Machine Learning,Statistics - Machine Learning}
     \endentry
     \entry{kaplan_siri_2019}{article}{}
       \name{author}{2}{}{%
@@ -345,7 +335,7 @@
       \verb 10.1016/j.bushor.2018.08.004
       \endverb
       \verb{file}
-      \verb ScienceDirect Full Text PDF:C\:\\Users\\fsram\\Zotero\\storage\\UHADMB2F\\Kaplan und Haenlein - 2019 - Siri, Siri, in my hand Who’s the fairest in the l.pdf:application/pdf;ScienceDirect Snapshot:C\:\\Users\\fsram\\Zotero\\storage\\U8L65GNB\\S0007681318301393.html:text/html
+      \verb ScienceDirect Full Text PDF:/home/franz/Zotero/storage/UHADMB2F/Kaplan und Haenlein - 2019 - Siri, Siri, in my hand Who’s the fairest in the l.pdf:application/pdf;ScienceDirect Snapshot:/home/franz/Zotero/storage/U8L65GNB/S0007681318301393.html:text/html
       \endverb
       \verb{urlraw}
       \verb http://www.sciencedirect.com/science/article/pii/S0007681318301393
@@ -428,7 +418,7 @@
       \verb 10.1007/978-3-642-32560-1_2
       \endverb
       \verb{file}
-      \verb Muehlhauser und Salamon - 2012 - Intelligence Explosion Evidence and Import.pdf:C\:\\Users\\fsram\\Zotero\\storage\\CPT2XUIF\\Muehlhauser und Salamon - 2012 - Intelligence Explosion Evidence and Import.pdf:application/pdf
+      \verb Muehlhauser und Salamon - 2012 - Intelligence Explosion Evidence and Import.pdf:/home/franz/Zotero/storage/CPT2XUIF/Muehlhauser und Salamon - 2012 - Intelligence Explosion Evidence and Import.pdf:application/pdf
       \endverb
       \verb{urlraw}
       \verb https://doi.org/10.1007/978-3-642-32560-1_2
@@ -501,7 +491,7 @@
       \verb{url}
       \verb https://doi.org/10.1007/978-3-319-26485-1_33
       \endverb
-      \keyw{Artificial intelligence,{AI},Expert opinion,Future of {AI},Humanity,Intelligence explosion,Machine intelligence,Opinion poll,Progress,Singularity,Superintelligence}
+      \keyw{Artificial intelligence,Intelligence explosion,{AI},Expert opinion,Future of {AI},Humanity,Machine intelligence,Opinion poll,Progress,Singularity,Superintelligence}
     \endentry
     \entry{paul_current_2019}{unpublished}{}
       \name{author}{1}{}{%
@@ -571,6 +561,37 @@
       \verb http://www.ahs-vwa.at/pluginfile.php/31/mod_data/content/1315/02-VWA-Vorwort.pdf
       \endverb
     \endentry
+    \entry{EliezerPodcast}{audio}{}
+      \name{author}{1}{}{%
+        {{hash=549a1c22e1c5452641bfaff6196bd013}{%
+           family={Yudkowsky},
+           familyi={Y\bibinitperiod},
+           given={Eliezer},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{549a1c22e1c5452641bfaff6196bd013}
+      \strng{fullhash}{549a1c22e1c5452641bfaff6196bd013}
+      \strng{bibnamehash}{549a1c22e1c5452641bfaff6196bd013}
+      \strng{authorbibnamehash}{549a1c22e1c5452641bfaff6196bd013}
+      \strng{authornamehash}{549a1c22e1c5452641bfaff6196bd013}
+      \strng{authorfullhash}{549a1c22e1c5452641bfaff6196bd013}
+      \field{extraname}{1}
+      \field{sortinit}{Y}
+      \field{sortinithash}{6ae2ff5458ff901249c2745238c951b7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Sam Harris}
+      \field{month}{2}
+      \field{series}{Making Sense}
+      \field{title}{AI: Racing Toward the Brink}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://samharris.org/podcasts/116-ai-racing-toward-brink/
+      \endverb
+      \verb{url}
+      \verb https://samharris.org/podcasts/116-ai-racing-toward-brink/
+      \endverb
+    \endentry
     \entry{yudkowsky_complex_2011}{inproceedings}{}
       \name{author}{1}{}{%
         {{hash=549a1c22e1c5452641bfaff6196bd013}{%
@@ -611,7 +632,7 @@
       \strng{editorbibnamehash}{386fe6d42de14ddf6732f1ee1cf2b97a}
       \strng{editornamehash}{e7dd259071feec3b93fd30b821dbfaf0}
       \strng{editorfullhash}{386fe6d42de14ddf6732f1ee1cf2b97a}
-      \field{extraname}{1}
+      \field{extraname}{2}
       \field{sortinit}{Y}
       \field{sortinithash}{6ae2ff5458ff901249c2745238c951b7}
       \field{labelnamesource}{author}
@@ -630,7 +651,7 @@
       \verb 10.1007/978-3-642-22887-2_48
       \endverb
       \verb{file}
-      \verb Yudkowsky - 2011 - Complex Value Systems in Friendly AI.pdf:C\:\\Users\\fsram\\Zotero\\storage\\7IKMM2NN\\Yudkowsky - 2011 - Complex Value Systems in Friendly AI.pdf:application/pdf
+      \verb Yudkowsky - 2011 - Complex Value Systems in Friendly AI.pdf:/home/franz/Zotero/storage/7IKMM2NN/Yudkowsky - 2011 - Complex Value Systems in Friendly AI.pdf:application/pdf
       \endverb
       \keyw{anthropomorphism,Friendly {AI},machine ethics}
     \endentry
@@ -651,7 +672,7 @@
       \strng{authorbibnamehash}{549a1c22e1c5452641bfaff6196bd013}
       \strng{authornamehash}{549a1c22e1c5452641bfaff6196bd013}
       \strng{authorfullhash}{549a1c22e1c5452641bfaff6196bd013}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{Y}
       \field{sortinithash}{6ae2ff5458ff901249c2745238c951b7}
       \field{labelnamesource}{author}
@@ -662,7 +683,7 @@
       \field{year}{2013}
       \field{dateera}{ce}
       \verb{file}
-      \verb Full Text PDF:C\:\\Users\\fsram\\Zotero\\storage\\WXT65BN5\\Yudkowsky - 2013 - Intelligence Explosion Microeconomics.pdf:application/pdf
+      \verb Full Text PDF:/home/franz/Zotero/storage/WXT65BN5/Yudkowsky - 2013 - Intelligence Explosion Microeconomics.pdf:application/pdf
       \endverb
       \keyw{Artificial intelligence,Brain,Cognition Disorders,Computer,Computers,Hominidae,Intelligence explosion,Large,Man-Machine Systems,Moore's law,Note (document)}
     \endentry
@@ -680,14 +701,14 @@
       \strng{authorbibnamehash}{549a1c22e1c5452641bfaff6196bd013}
       \strng{authornamehash}{549a1c22e1c5452641bfaff6196bd013}
       \strng{authorfullhash}{549a1c22e1c5452641bfaff6196bd013}
-      \field{extraname}{3}
+      \field{extraname}{4}
       \field{sortinit}{Y}
       \field{sortinithash}{6ae2ff5458ff901249c2745238c951b7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{“What is Friendly {AI}?” is a short introductory article to the theory of “Friendly {AI},” which attempts to answer questions such as those above. Further material on Friendly {AI} can be found at the Singularity Institute website at http://singinst.org/friendly/whatis.html, including a book-length explanation.}
-      \field{day}{3}
-      \field{month}{5}
+      \field{day}{5}
+      \field{month}{3}
       \field{title}{What is Friendly {AI}? {|} Kurzweil}
       \field{titleaddon}{What is Friendly {AI}?}
       \field{urlday}{1}
@@ -697,7 +718,7 @@
       \field{dateera}{ce}
       \field{urldateera}{ce}
       \verb{file}
-      \verb What is Friendly AI? | Kurzweil:C\:\\Users\\fsram\\Zotero\\storage\\P8I4KGHB\\what-is-friendly-ai.html:text/html
+      \verb What is Friendly AI? | Kurzweil:/home/franz/Zotero/storage/P8I4KGHB/what-is-friendly-ai.html:text/html
       \endverb
       \verb{urlraw}
       \verb https://www.kurzweilai.net/what-is-friendly-ai
@@ -707,6 +728,7 @@
       \endverb
     \endentry
   \enddatalist
+  \missing{mussichauchmachen}
 \endrefsection
 \endinput
 
