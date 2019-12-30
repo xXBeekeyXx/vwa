@@ -6,6 +6,7 @@
    (add-to-list 'LaTeX-verbatim-macros-with-delims-local "path")
    (add-to-list 'LaTeX-verbatim-macros-with-delims-local "url")
    (LaTeX-add-labels
+    "Intelligenzbegriff"
     "Werte"))
  :latex)
 

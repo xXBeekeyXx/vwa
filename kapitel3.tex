@@ -1,11 +1,15 @@
 % !TeX root = document.tex
 \chapter{Maschinelle Werteanpassung}
 
-Es ist schwer menschliche Werte in Computersystemen zu programmieren (siehe Kapitel \ref{Werte}), deshalb haben \citeauthor{irving_ai_2018} einen anderen Ansatz der Werteanpassung verfolgt: die des menschlichen Feedbacks.
+Es ist schwer menschliche Werte in Computersystemen zu programmieren (siehe Kapitel \ref{Werte}), deshalb haben \citeauthor{irving_ai_2018} einen anderen Ansatz der Werteanpassung verfolgt: die des menschlichen Feedbacks (eng. \emph{human-feedback-loop}, siehe Abbildung \ref{humanfeedbackimg}).
 
-Hierbei fragt eine KI einen menschlichen Operator nach der Richtigkeit und Sicherheit ihres Verhaltens. Bei schlechter Bewertung passt die KI ihre Lösungsfunktion an. Dies funktiert so lange gut, bis der Operator nicht mehr in der Lage ist, das Handeln der KI nachzuvollziehen und zu beurteilen. \vgl{mussichauchmachen} 
+Hierbei fragt eine KI einen menschlichen Operator nach der Nützlichkeit und Sicherheit ihres Verhaltens. Bei schlechter Bewertung passt die KI ihre Lösungsfunktion an, somit ist keine riskante Zielsetzung im Vorhinein notwendig. \vgl{christiano_deep_2017} Dies funktioniert so lange gut, bis der Operator nicht mehr in der Lage ist, das Handeln der KI nachzuvollziehen und zu beurteilen. \vgl[1-2]{irving_ai_2018}
 
-
+\begin{figure}
+  \includegraphics{humanfeedback}
+  \caption{Repräsentation einer human-feedback-loop}
+  \label{humanfeedbackimg}
+\end{figure}
 
 
 %Was ist eine Reward function?

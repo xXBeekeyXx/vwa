@@ -2355,18 +2355,21 @@
     <bcf:citekey order="12">bostrom_superintelligence:_2014</bcf:citekey>
     <bcf:citekey order="13">goertzel_advances_2007</bcf:citekey>
     <bcf:citekey order="14">paul_current_2019</bcf:citekey>
-    <bcf:citekey order="15">yudkowsky_intelligence_2013</bcf:citekey>
-    <bcf:citekey order="16">yudkowsky_what_2001</bcf:citekey>
-    <bcf:citekey order="17">yudkowsky_intelligence_2013</bcf:citekey>
-    <bcf:citekey order="18">hibbard_super-intelligent_2002</bcf:citekey>
-    <bcf:citekey order="19">yudkowsky_complex_2011</bcf:citekey>
-    <bcf:citekey order="20">muller_future_2016</bcf:citekey>
-    <bcf:citekey order="21">muehlhauser_intelligence_2012</bcf:citekey>
-    <bcf:citekey order="22">noauthor_ai_nodate-1</bcf:citekey>
-    <bcf:citekey order="23">noauthor_ai_nodate-1</bcf:citekey>
-    <bcf:citekey order="24">yudkowsky_complex_2011</bcf:citekey>
-    <bcf:citekey order="25">irving_ai_2018</bcf:citekey>
-    <bcf:citekey order="26">mussichauchmachen</bcf:citekey>
+    <bcf:citekey order="15">omohundro_basic_2008</bcf:citekey>
+    <bcf:citekey order="16">yudkowsky_intelligence_2013</bcf:citekey>
+    <bcf:citekey order="17">yudkowsky_what_2001</bcf:citekey>
+    <bcf:citekey order="18">yudkowsky_intelligence_2013</bcf:citekey>
+    <bcf:citekey order="19">hibbard_super-intelligent_2002</bcf:citekey>
+    <bcf:citekey order="20">hibbard_super-intelligent_2002</bcf:citekey>
+    <bcf:citekey order="21">yudkowsky_complex_2011</bcf:citekey>
+    <bcf:citekey order="22">muller_future_2016</bcf:citekey>
+    <bcf:citekey order="23">muehlhauser_intelligence_2012</bcf:citekey>
+    <bcf:citekey order="24">noauthor_ai_nodate-1</bcf:citekey>
+    <bcf:citekey order="25">noauthor_ai_nodate-1</bcf:citekey>
+    <bcf:citekey order="26">yudkowsky_complex_2011</bcf:citekey>
+    <bcf:citekey order="27">irving_ai_2018</bcf:citekey>
+    <bcf:citekey order="28">christiano_deep_2017</bcf:citekey>
+    <bcf:citekey order="29">irving_ai_2018</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">

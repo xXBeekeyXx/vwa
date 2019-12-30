@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.11.23)  29 DEC 2019 12:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.11.23)  30 DEC 2019 01:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1160,18 +1160,11 @@ Package biblatex Info: Data encoding 'utf8' specified.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'document.bbl' found.
- (./document.bbl
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                mussichauchmachen
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-)
+ (./document.bbl)
 Package biblatex Info: Reference section=0 on input line 49.
 Package biblatex Info: Reference segment=0 on input line 49.
- (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+
+(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count412
 \scratchdimen=\dimen158
@@ -1381,13 +1374,18 @@ Package biblatex Warning: No driver for entry type 'audio'.
 
 
 
-] [7] [8] [9]) [10]
+]
+
+Package biblatex Warning: No driver for entry type 'video'.
+(biblatex)                Using fallback driver on input line 27.
+
+[7] [8] [9]) [10]
 \openout2 = `kapitel2.aux'.
 
  (./kapitel2.tex
 chapter 3.
 
-Overfull \hbox (13.1998pt too wide) in paragraph at lines 5--6
+Overfull \hbox (13.1998pt too wide) in paragraph at lines 4--5
 \T1/lmr/m/n/12 (-20) In der all-ge-mei-nen Be-völ-ke-rung über-wie-gen feh-ler-
 haf-te Vor-stel-lun-gen ei-ner KI-Katastrophe.
  []
@@ -1397,7 +1395,7 @@ haf-te Vor-stel-lun-gen ei-ner KI-Katastrophe.
 
 
 ]
-Overfull \hbox (98.2018pt too wide) in paragraph at lines 19--21
+Overfull \hbox (98.2018pt too wide) in paragraph at lines 18--20
 \T1/lmr/m/n/12 (-20) https://80000hours.org/podcast/episodes/allan-dafoe-politi
 cs-of-ai/ https://80000hours.org/topic/priority-
  []
@@ -1407,11 +1405,16 @@ cs-of-ai/ https://80000hours.org/topic/priority-
 
  (./kapitel3.tex
 chapter 4.
+<img/humanfeedback.png, id=248, 346.896pt x 158.2713pt>
+File: img/humanfeedback.png Graphic file (type png)
+<use img/humanfeedback.png>
+Package pdftex.def Info: img/humanfeedback.png  used on input line 9.
+(pdftex.def)             Requested size: 346.89514pt x 158.2709pt.
 ) [14
 
 
 
-]
+ <./img/humanfeedback.png>]
 \openout2 = `schluss.aux'.
 
  (./schluss.tex
@@ -1434,7 +1437,8 @@ Package biblatex Warning: No driver for entry type 'audio'.
 (biblatex)                Using fallback driver on input line 23.
 
 
-LaTeX Warning: Empty bibliography on input line 24.
+Package biblatex Warning: No driver for entry type 'video'.
+(biblatex)                Using fallback driver on input line 24.
 
 
 LaTeX Warning: Empty bibliography on input line 26.
@@ -1493,28 +1497,27 @@ Package logreq Info: Writing requests to 'document.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 37197 strings out of 492167
- 702434 string characters out of 6131557
- 1319780 words of memory out of 5000000
- 40797 multiletter control sequences out of 15000+600000
- 668491 words of font info for 217 fonts, out of 8000000 for 9000
+ 37235 strings out of 492167
+ 703423 string characters out of 6131557
+ 1317166 words of memory out of 5000000
+ 40827 multiletter control sequences out of 15000+600000
+ 665383 words of font info for 215 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 62i,6n,88p,10104b,2509s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,7n,88p,10104b,2508s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf-dist/fo
-nts/type1/public/lm/lmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmb
-x12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/share/te
-xmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf-dist/fonts/type1/pub
-lic/lm/lmr12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/sh
-are/texmf-dist/fonts/type1/public/lm/lmr9.pfb></usr/share/texmf-dist/fonts/type
-1/public/lm/lmri10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmri12.pfb>
-</usr/share/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/share/texmf-dist/
-fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf-dist/fonts/type1/public/lm
-/lmtt10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmtt12.pfb></usr/share
-/texmf-dist/fonts/type1/public/lm/lmtt9.pfb>
-Output written on document.pdf (20 pages, 421479 bytes).
+nts/type1/public/lm/lmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmc
+sc10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/share/tex
+mf-dist/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf-dist/fonts/type1/publ
+ic/lm/lmr8.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr9.pfb></usr/shar
+e/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf-dist/fonts/type
+1/public/lm/lmri12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmss12.pfb>
+</usr/share/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf-dis
+t/fonts/type1/public/lm/lmtt10.pfb></usr/share/texmf-dist/fonts/type1/public/lm
+/lmtt12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmtt9.pfb>
+Output written on document.pdf (20 pages, 601647 bytes).
 PDF statistics:
- 500 PDF objects out of 1000 (max. 8388607)
- 457 compressed objects within 5 object streams
- 119 named destinations out of 1000 (max. 500000)
- 48414 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 512 PDF objects out of 1000 (max. 8388607)
+ 468 compressed objects within 5 object streams
+ 128 named destinations out of 1000 (max. 500000)
+ 47915 words of extra memory for PDF output out of 51595 (max. 10000000)
 
