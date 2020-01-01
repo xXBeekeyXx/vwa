@@ -1,4 +1,4 @@
-% !TeX root = document.tex
+ !TeX root = document.tex
 \chapter{Maschinelle Werteanpassung}
 
 Es ist schwer menschliche Werte in Computersystemen zu programmieren (siehe Kapitel \ref{Werte}), deshalb haben \citeauthor{irving_ai_2018} einen anderen Ansatz der Werteanpassung verfolgt: die des menschlichen Feedbacks durch \emph{Deep reinforcement learning} (DRL, dt. \emph{mehrschichtiges bestärkendes Lernen}; siehe Abbildung \ref{humanfeedbackimg}). Die folgenden drei Kapitel dienen der Erklärung von wichtigen Grundbegriffen der KI-Forschung, um die wissenschaftlichen Arbeiten von \citeauthor{irving_ai_2018} zu verstehen.
@@ -9,7 +9,7 @@ Reinforcement Learning (RL, dt. \emph{bestärkendes Lernen}) beschreibt ein Lern
 Die Aufgabe von RL ist es, wahrgenommene Belohnungen und Bestrafungen zu benutzen, um die optimale Verfahrensweise (eng. \emph{policy}) in einer gegebenen Umgebung zu finden. Dabei hat die KI a priori kein Wissen über ihre Umgebung oder Nutzfunktion. Die Nutzfunktion, definiert über Umgebungszustände, zeigt dabei den Nutzen einer bestimmten Verfahrensweise. Die optimale Verfahrensweise ist diejenige, die den höchsten erwarteten Nutzen bringt.
 \vgl[830-831]{russell_artificial_2016}
 
-RL wird in Bereichen eingesetzt, in denen es nicht genug Daten gibt, oder in denen es nicht lohnenswert ist, die notwendige Menge an Daten zu verarbeiten, um eine KI auf alle möglichen Umgebungszustände vorzubereiten. Eine KI, die beispielsweise versucht, Schach zu lernen, müsste also $10^{120}$ (auch Shannon-Zahl genannt) verschiedene Schachspiele gesehen haben, um allein anhand der Daten auf jede Situation vorbereitet zu sein. \vgl[4]{shannon_programming_1988}
+RL wird in Bereichen eingesetzt, in denen es nicht genug Daten gibt, oder in denen es nicht lohnenswert ist, die notwendige Menge an Daten zu verarbeiten, um eine KI auf alle möglichen Umgebungszustände vorzubereiten. Eine KI, die beispielsweise versucht, Schach zu lernen, müsste also 10^{120} (auch Shannon-Zahl genannt) verschiedene Schachspiele gesehen haben, um allein anhand der Daten auf jede Situation vorbereitet zu sein. \vgl[4]{shannon_programming_1988}
 
 \section{Deep learning}
 

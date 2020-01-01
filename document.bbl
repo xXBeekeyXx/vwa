@@ -132,7 +132,7 @@
       \verb{file}
       \verb arXiv Fulltext PDF:/home/franz/Zotero/storage/8H8799U3/Christiano et al. - 2017 - Deep reinforcement learning from human preferences.pdf:application/pdf;arXiv.org Snapshot:/home/franz/Zotero/storage/SX4SHWTY/1706.html:text/html
       \endverb
-      \keyw{Computer Science - Artificial Intelligence,Computer Science - Human-Computer Interaction,Computer Science - Machine Learning,Statistics - Machine Learning}
+      \keyw{Computer Science - Artificial Intelligence,Computer Science - Machine Learning,Statistics - Machine Learning,Computer Science - Human-Computer Interaction}
     \endentry
     \entry{easterlin_worldwide_2000}{article}{}
       \name{author}{1}{}{%
@@ -496,7 +496,7 @@
       \verb{doi}
       \verb 10.1007/978-3-319-26485-1_33
       \endverb
-      \keyw{{AI},Artificial intelligence,Expert opinion,Future of {AI},Humanity,Intelligence explosion,Machine intelligence,Opinion poll,Progress,Singularity,Superintelligence}
+      \keyw{Artificial intelligence,Intelligence explosion,{AI},Expert opinion,Future of {AI},Humanity,Machine intelligence,Opinion poll,Progress,Singularity,Superintelligence}
     \endentry
     \entry{omohundro_basic_2008}{inproceedings}{}
       \name{author}{1}{}{%
@@ -522,7 +522,7 @@
       \field{volume}{171}
       \field{year}{2008}
       \field{dateera}{ce}
-      \keyw{Approximation algorithm,Artificial intelligence,Entity,Forge,Friendly artificial intelligence,Intelligent agent,Iteration,Social structure,System of measurement}
+      \keyw{Artificial intelligence,Approximation algorithm,Entity,Forge,Friendly artificial intelligence,Intelligent agent,Iteration,Social structure,System of measurement}
     \endentry
     \entry{paul_current_2019}{video}{}
       \name{author}{1}{}{%
@@ -560,6 +560,92 @@
       \verb{url}
       \verb https://www.youtube.com/watch?v=-vsYtevJ2bc
       \endverb
+    \endentry
+    \entry{russell_artificial_2016}{book}{}
+      \name{author}{2}{}{%
+        {{hash=143fa183327d9fcd9de18eec99d6ca97}{%
+           family={Russell},
+           familyi={R\bibinitperiod},
+           given={Stuart},
+           giveni={S\bibinitperiod}}}%
+        {{hash=5de798d5fa3c0236c0478134cd23f52a}{%
+           family={Norvig},
+           familyi={N\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Boston Columbus Indianapolis New York San Francisco Upper Saddle River Amsterdam, Cape Town Dubai London Madrid Milan Munich Paris Montreal Toronto Delhi Mexico City Sao Paulo Sydney Hong Kong Seoul Singapore Taipei Tokyo}%
+      }
+      \list{publisher}{1}{%
+        {Addison Wesley}%
+      }
+      \strng{namehash}{b280605b721b4ebcba5395298499f924}
+      \strng{fullhash}{b280605b721b4ebcba5395298499f924}
+      \strng{bibnamehash}{b280605b721b4ebcba5395298499f924}
+      \strng{authorbibnamehash}{b280605b721b4ebcba5395298499f924}
+      \strng{authornamehash}{b280605b721b4ebcba5395298499f924}
+      \strng{authorfullhash}{b280605b721b4ebcba5395298499f924}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{For one or two-semester, undergraduate or graduate-level courses in Artificial Intelligence. The long-anticipated revision of this best-selling text offers the most comprehensive, up-to-date introduction to the theory and practice of artificial intelligence.}
+      \field{edition}{3}
+      \field{isbn}{978-1-292-15396-4}
+      \field{pagetotal}{1132}
+      \field{shorttitle}{Artificial Intelligence}
+      \field{title}{Artificial Intelligence: A Modern Approach, Global Edition}
+      \field{year}{2016}
+      \field{dateera}{ce}
+    \endentry
+    \entry{shannon_programming_1988}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=536c91678d1dde76c9acd47047556291}{%
+           family={Shannon},
+           familyi={S\bibinitperiod},
+           given={Claude\bibnamedelima E.},
+           giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=ac69624a4475cfc7d4024efd4717374e}{%
+           family={Levy},
+           familyi={L\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, {NY}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{536c91678d1dde76c9acd47047556291}
+      \strng{fullhash}{536c91678d1dde76c9acd47047556291}
+      \strng{bibnamehash}{536c91678d1dde76c9acd47047556291}
+      \strng{authorbibnamehash}{536c91678d1dde76c9acd47047556291}
+      \strng{authornamehash}{536c91678d1dde76c9acd47047556291}
+      \strng{authorfullhash}{536c91678d1dde76c9acd47047556291}
+      \strng{editorbibnamehash}{ac69624a4475cfc7d4024efd4717374e}
+      \strng{editornamehash}{ac69624a4475cfc7d4024efd4717374e}
+      \strng{editorfullhash}{ac69624a4475cfc7d4024efd4717374e}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper is concerned with the problem of constructing a computing routine or “program” for a modern general purpose computer which will enable it to play chess. Although perhaps of no practical importance, the question is of theoretical interest, and it is hoped that a satisfactory solution of this problem will act as a wedge in attacking other problems of a similar nature and of greater significance. Some possibilities in this direction are:- (1) Machines for designing filters, equalizers, etc. (2) Machines for designing relay and switching circuits. (3) Machines which will handle routing of telephone calls based on the individual circumstances rather than by fixed patterns. (4) Machines for performing symbolic (non-numerical) mathematical operations. (5) Machines capable of translating from one language to another. (6) Machines for making strategic decisions in simplified military operations. (7) Machines capable of orchestrating a melody. (8) Machines capable of logical deduction.}
+      \field{booktitle}{Computer Chess Compendium}
+      \field{isbn}{978-1-4757-1968-0}
+      \field{langid}{english}
+      \field{title}{Programming a Computer for Playing Chess}
+      \field{year}{1988}
+      \field{dateera}{ce}
+      \field{pages}{2\bibrangedash 13}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1007/978-1-4757-1968-0_1
+      \endverb
+      \keyw{Chess Piece,Chess Player,General Purpose Computer,Human Player,Legal Move}
     \endentry
     \entry{Vorwort}{online}{}
       \name{author}{1}{}{%

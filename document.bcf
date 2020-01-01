@@ -2368,8 +2368,13 @@
     <bcf:citekey order="25">noauthor_ai_nodate-1</bcf:citekey>
     <bcf:citekey order="26">yudkowsky_complex_2011</bcf:citekey>
     <bcf:citekey order="27">irving_ai_2018</bcf:citekey>
-    <bcf:citekey order="28">christiano_deep_2017</bcf:citekey>
-    <bcf:citekey order="29">irving_ai_2018</bcf:citekey>
+    <bcf:citekey order="28">irving_ai_2018</bcf:citekey>
+    <bcf:citekey order="29">russell_artificial_2016</bcf:citekey>
+    <bcf:citekey order="30">russell_artificial_2016</bcf:citekey>
+    <bcf:citekey order="31">russell_artificial_2016</bcf:citekey>
+    <bcf:citekey order="32">shannon_programming_1988</bcf:citekey>
+    <bcf:citekey order="33">christiano_deep_2017</bcf:citekey>
+    <bcf:citekey order="34">irving_ai_2018</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">
