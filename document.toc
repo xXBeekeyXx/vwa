@@ -25,17 +25,17 @@
 \contentsline {section}{\numberline {4.1}Reinforcement Learning}{15}{section.4.1}% 
 \contentsline {section}{\numberline {4.2}Deep learning}{16}{section.4.2}% 
 \contentsline {section}{\numberline {4.3}Deep reinforcement learning}{16}{section.4.3}% 
-\contentsline {section}{\numberline {4.4}Deep reinforcement learning von menschlichen Werten}{16}{section.4.4}% 
-\contentsline {section}{\numberline {4.5}KI-Sicherheit durch KI-Debatten}{16}{section.4.5}% 
-\contentsline {section}{\numberline {4.6}AI Safety via Debate}{16}{section.4.6}% 
-\contentsline {section}{\numberline {4.7}Inverse Reward Design}{16}{section.4.7}% 
-\contentsline {chapter}{\numberline {5}Schluss}{17}{chapter.5}% 
-\contentsline {chapter}{\nonumberline Literaturverzeichnis}{18}{chapter*.4}% 
-\contentsline {section}{\nonumberline Print-Quellen}{18}{section*.5}% 
-\contentsline {section}{\nonumberline Audio-Quellen}{19}{section*.6}% 
-\contentsline {section}{\nonumberline Video-Quellen}{19}{section*.7}% 
-\contentsline {section}{\nonumberline Internet-Quellen}{19}{section*.8}% 
-\contentsline {chapter}{\nonumberline Abbildungsverzeichnis}{21}{chapter*.9}% 
-\contentsline {chapter}{\nonumberline Tabellenverzeichnis}{21}{chapter*.10}% 
-\contentsline {chapter}{\numberline {A}Hier könnte Ihr Anhang stehen}{22}{appendix.A}% 
-\contentsline {chapter}{\nonumberline Erklärungen}{23}{chapter*.11}% 
+\contentsline {section}{\numberline {4.4}Deep reinforcement learning von menschlichen Werten}{18}{section.4.4}% 
+\contentsline {section}{\numberline {4.5}KI-Sicherheit durch KI-Debatten}{18}{section.4.5}% 
+\contentsline {section}{\numberline {4.6}AI Safety via Debate}{18}{section.4.6}% 
+\contentsline {section}{\numberline {4.7}Inverse Reward Design}{18}{section.4.7}% 
+\contentsline {chapter}{\numberline {5}Schluss}{19}{chapter.5}% 
+\contentsline {chapter}{\nonumberline Literaturverzeichnis}{20}{chapter*.4}% 
+\contentsline {section}{\nonumberline Print-Quellen}{20}{section*.5}% 
+\contentsline {section}{\nonumberline Audio-Quellen}{21}{section*.6}% 
+\contentsline {section}{\nonumberline Video-Quellen}{21}{section*.7}% 
+\contentsline {section}{\nonumberline Internet-Quellen}{22}{section*.8}% 
+\contentsline {chapter}{\nonumberline Abbildungsverzeichnis}{23}{chapter*.9}% 
+\contentsline {chapter}{\nonumberline Tabellenverzeichnis}{23}{chapter*.10}% 
+\contentsline {chapter}{\numberline {A}Hier könnte Ihr Anhang stehen}{24}{appendix.A}% 
+\contentsline {chapter}{\nonumberline Erklärungen}{25}{chapter*.11}% 

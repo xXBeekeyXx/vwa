@@ -7,12 +7,20 @@ Es ist schwer menschliche Werte in Computersystemen zu programmieren (siehe Kapi
 Reinforcement Learning (RL, dt. \emph{bestärkendes Lernen}) beschreibt ein Lernverfahren einer KI, bei der sie durch durch Erfolg und Misserfolg, durch Belohnung und Bestrafung lernt. \citeauthor{russell_artificial_2016} erklären RL zusammengefasst so: \zit[831]{russell_artificial_2016}{Imagine playing a new game whose rules you don't know; after a hundred or so moves, your opponent announces, \enquote{You lose.} This is reinforcement learning in a nutshell.}
 
 Die Aufgabe von RL ist es, wahrgenommene Belohnungen und Bestrafungen zu benutzen, um die optimale Verfahrensweise (eng. \emph{policy}) in einer gegebenen Umgebung zu finden. Dabei hat die KI a priori kein Wissen über ihre Umgebung oder Nutzfunktion. Die Nutzfunktion, definiert über Umgebungszustände, zeigt dabei den Nutzen einer bestimmten Verfahrensweise. Die optimale Verfahrensweise ist diejenige, die den höchsten erwarteten Nutzen bringt.
+
+RL wird in Bereichen eingesetzt, in denen es nicht genug Daten gibt, oder in denen es nicht lohnenswert ist, die notwendige Menge an Daten zu verarbeiten, um eine KI auf alle möglichen Umgebungszustände vorzubereiten. Eine KI, die beispielsweise versucht, Schach zu lernen, müsste $10^{120}$ (auch Shannon-Zahl genannt) verschiedene Schachspiele gesehen haben, um allein anhand von Beispielen auf jede Situation vorbereitet zu sein. \vgl[4]{shannon_programming_1988} Bei RL vermittelt man der KI stattdessen, wann sie gewonnen oder verloren hat. Sie sucht dann auf Basis dieser Informationen eine Funktion, die die Gewinnwahrscheinlichkeit jeder gegebenen Position einigermaßen akkurat einschätzt.
 \vgl[830-831]{russell_artificial_2016}
 
-RL wird in Bereichen eingesetzt, in denen es nicht genug Daten gibt, oder in denen es nicht lohnenswert ist, die notwendige Menge an Daten zu verarbeiten, um eine KI auf alle möglichen Umgebungszustände vorzubereiten. Eine KI, die beispielsweise versucht, Schach zu lernen, müsste also $10^{120}$ (auch Shannon-Zahl genannt) verschiedene Schachspiele gesehen haben, um allein anhand der Daten auf jede Situation vorbereitet zu sein. \vgl[4]{shannon_programming_1988}
-
 \section{Deep learning}
+Deep Learning (DL, dt. \emph{mehrschichtiges Lernen}) ist ein Teilbereich des maschinellen Lernens. Dabei versucht eine KI Inputdaten mit Hilfe von Hierarchien von Konzepten zu verstehen. Der Grundansatz von DL ist das Verstehen von komplexen Konzepten durch Kombinieren von einfacheren Konzepten. \vgl[1-8]{Goodfellow-et-al-2016} Diese Konzeptschichten werden in DL fast immer mit Hilfe von künstlichen neuronalen Netzen (KNN, engl. \emph{artificial neural network, ANN}) gelernt. \vgl[8]{manning_unknown_deep_2017}
 
+
+
+\begin{figure}
+  \includegraphics[width=\textwidth]{deeplearning}
+  \caption{Veranschaulichung eines DL-Modells. Die KI bekommt rohe Pixeldaten als Input. Mit jeder Schicht wendet sie ein neues Konzept auf das vorherige an, die Konzepte sind also aufbauend.  \bildquelle[6]{Goodfellow-et-al-2016}}
+  \label{deeplearningimg}
+\end{figure}
 \section{Deep reinforcement learning}
 
 Deep reinforcement learning

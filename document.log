@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.11.23)  1 JAN 2020 17:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.11.23)  3 JAN 2020 01:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1408,17 +1408,23 @@ chapter 4.
 
 
 ]
-<img/humanfeedback.png, id=284, 346.896pt x 158.2713pt>
+<img/deeplearning.png, id=280, 144.0582pt x 111.5367pt>
+File: img/deeplearning.png Graphic file (type png)
+<use img/deeplearning.png>
+Package pdftex.def Info: img/deeplearning.png  used on input line 20.
+(pdftex.def)             Requested size: 437.46118pt x 338.76527pt.
+<img/humanfeedback.png, id=288, 346.896pt x 158.2713pt>
 File: img/humanfeedback.png Graphic file (type png)
 <use img/humanfeedback.png>
-Package pdftex.def Info: img/humanfeedback.png  used on input line 27.
+Package pdftex.def Info: img/humanfeedback.png  used on input line 35.
 (pdftex.def)             Requested size: 346.89514pt x 158.2709pt.
-) [16 <./img/humanfeedback.png>]
+ [16] [17 <./img/deeplearning.png>]) [18 <./img/humanfeedback.png>]
 \openout2 = `schluss.aux'.
 
- (./schluss.tex
+
+(./schluss.tex
 chapter 5.
-) [17
+) [19
 
 
 
@@ -1427,7 +1433,7 @@ chapter without number
 
 LaTeX Warning: Empty biblist 'shorthand' on input line 21.
 
-[18
+[20
 
 
 ]
@@ -1439,20 +1445,25 @@ Package biblatex Warning: No driver for entry type 'audio'.
 Package biblatex Warning: No driver for entry type 'video'.
 (biblatex)                Using fallback driver on input line 24.
 
-[19]
+[21]
 
 LaTeX Warning: Empty bibliography on input line 26.
 
 
 LaTeX Warning: Empty bibliography on input line 27.
 
-) [20]
+) [22]
 Package tocbasic Info: character protrusion at lof deactivated on input line 90
 .
  (./document.lof
 Package cleveref Info: loaded `naustrian' language definitions on input line 4.
 
-)
+pdfTeX warning (ext4): destination with the same identifier (name{cite.0:t:1:Go
+odfellow-et-al-2016}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.5 ...6]{Goodfellow-et-al-2016}}}{17}{figure.4.1}
+                                                  %)
 \tf@lof=\write5
 \openout5 = `document.lof'.
 
@@ -1465,20 +1476,21 @@ Package cleveref Info: loaded `naustrian' language definitions on input line 4.
 \tf@lot=\write6
 \openout6 = `document.lot'.
 
- [21
+ [23
 
 ]
 \openout2 = `anhang.aux'.
 
- (./anhang.tex
+
+(./anhang.tex
 chapter A.
-) [22
+) [24
 
 
 ]
 chapter without number
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 131.
-[23
+[25
 
 
 
@@ -1497,13 +1509,13 @@ Package logreq Info: Writing requests to 'document.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 37289 strings out of 492167
- 704328 string characters out of 6131557
- 1317444 words of memory out of 5000000
- 40848 multiletter control sequences out of 15000+600000
- 666268 words of font info for 223 fonts, out of 8000000 for 9000
+ 37328 strings out of 492167
+ 705136 string characters out of 6131557
+ 1317979 words of memory out of 5000000
+ 40865 multiletter control sequences out of 15000+600000
+ 666899 words of font info for 229 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 62i,7n,88p,10111b,2866s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,7n,88p,10111b,3454s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf-dist/fo
 nts/enc/dvips/lm/lm-rm.enc}</usr/share/texmf-dist/fonts/type1/public/lm/lmbx12.
 pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/share/texmf-
@@ -1515,10 +1527,10 @@ r/share/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/share/texmf-dist/font
 s/type1/public/lm/lmssbx10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmt
 t10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmtt12.pfb></usr/share/tex
 mf-dist/fonts/type1/public/lm/lmtt9.pfb>
-Output written on document.pdf (23 pages, 609655 bytes).
+Output written on document.pdf (25 pages, 804695 bytes).
 PDF statistics:
- 582 PDF objects out of 1000 (max. 8388607)
- 534 compressed objects within 6 object streams
- 145 named destinations out of 1000 (max. 500000)
- 47971 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 615 PDF objects out of 1000 (max. 8388607)
+ 562 compressed objects within 6 object streams
+ 155 named destinations out of 1000 (max. 500000)
+ 47976 words of extra memory for PDF output out of 51595 (max. 10000000)
 

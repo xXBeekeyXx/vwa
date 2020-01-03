@@ -224,6 +224,41 @@
       \field{dateera}{ce}
       \keyw{Computers / Intelligence ({AI}) \& Semantics}
     \endentry
+    \entry{Goodfellow-et-al-2016}{book}{}
+      \name{author}{3}{}{%
+        {{hash=5d2585c11210cf1d4512e6e0a03ec315}{%
+           family={Goodfellow},
+           familyi={G\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod}}}%
+        {{hash=40a8e4774982146adc2688546f54efb2}{%
+           family={Bengio},
+           familyi={B\bibinitperiod},
+           given={Yoshua},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=ccec1ccd2e1aa86960eb2e872c6b7020}{%
+           family={Courville},
+           familyi={C\bibinitperiod},
+           given={Aaron},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press}%
+      }
+      \strng{namehash}{d17e6557c5836d2d978179999ea1037f}
+      \strng{fullhash}{3ae53fe582e8a815b118d26947eaa326}
+      \strng{bibnamehash}{3ae53fe582e8a815b118d26947eaa326}
+      \strng{authorbibnamehash}{3ae53fe582e8a815b118d26947eaa326}
+      \strng{authornamehash}{d17e6557c5836d2d978179999ea1037f}
+      \strng{authorfullhash}{3ae53fe582e8a815b118d26947eaa326}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{\url{http://www.deeplearningbook.org}}
+      \field{title}{Deep Learning}
+      \field{year}{2016}
+    \endentry
     \entry{grzimek_grzimeks_1979}{book}{}
       \name{author}{1}{}{%
         {{hash=90a0fde02c78b6cba7e17536d06dc7c9}{%
@@ -369,6 +404,36 @@
       \verb ScienceDirect Full Text PDF:/home/franz/Zotero/storage/UHADMB2F/Kaplan und Haenlein - 2019 - Siri, Siri, in my hand Who’s the fairest in the l.pdf:application/pdf;ScienceDirect Snapshot:/home/franz/Zotero/storage/U8L65GNB/S0007681318301393.html:text/html
       \endverb
       \keyw{Artificial intelligence,Big data,Deep learning,Expert systems,Internet of Things,Machine learning}
+    \endentry
+    \entry{manning_unknown_deep_2017}{book}{}
+      \name{author}{1}{}{%
+        {{hash=9351070449d7a0e043db0f13a6c663d1}{%
+           family={Manning{\textbackslash}\_Unknown},
+           familyi={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Shelter Island, New York}%
+      }
+      \list{publisher}{1}{%
+        {Manning Publications}%
+      }
+      \strng{namehash}{9351070449d7a0e043db0f13a6c663d1}
+      \strng{fullhash}{9351070449d7a0e043db0f13a6c663d1}
+      \strng{bibnamehash}{9351070449d7a0e043db0f13a6c663d1}
+      \strng{authorbibnamehash}{9351070449d7a0e043db0f13a6c663d1}
+      \strng{authornamehash}{9351070449d7a0e043db0f13a6c663d1}
+      \strng{authorfullhash}{9351070449d7a0e043db0f13a6c663d1}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{{SummaryDeep} Learning with Python introduces the field of deep learning using the Python language and the powerful Keras library. Written by Keras creator and Google {AI} researcher François Chollet, this book builds your understanding through intuitive explanations and practical examples.Purchase of the print book includes a free {eBook} in {PDF}, Kindle, and {ePub} formats from Manning Publications.About the {TechnologyMachine} learning has made remarkable progress in recent years. We went from near-unusable speech and image recognition, to near-human accuracy. We went from machines that couldn't beat a serious Go player, to defeating a world champion. Behind this progress is deep learning—a combination of engineering advances, best practices, and theory that enables a wealth of previously impossible smart applications.About the {BookDeep} Learning with Python introduces the field of deep learning using the Python language and the powerful Keras library. Written by Keras creator and Google {AI} researcher François Chollet, this book builds your understanding through intuitive explanations and practical examples. You'll explore challenging concepts and practice with applications in computer vision, natural-language processing, and generative models. By the time you finish, you'll have the knowledge and hands-on skills to apply deep learning in your own projects. What's {InsideDeep} learning from first {principlesSetting} up your own deep-learning environment Image-classification {modelsDeep} learning for text and {sequencesNeural} style transfer, text generation, and image {generationAbout} the {ReaderReaders} need intermediate Python skills. No previous experience with Keras, {TensorFlow}, or machine learning is required.About the {AuthorFrançois} Chollet works on deep learning at Google in Mountain View, {CA}. He is the creator of the Keras deep-learning library, as well as a contributor to the {TensorFlow} machine-learning framework. He also does deep-learning research, with a focus on computer vision and the application of machine learning to formal reasoning. His papers have been published at major conferences in the field, including the Conference on Computer Vision and Pattern Recognition ({CVPR}), the Conference and Workshop on Neural Information Processing Systems ({NIPS}), the International Conference on Learning Representations ({ICLR}), and others.Table of {ContentsPART} 1 - {FUNDAMENTALS} {OF} {DEEP} {LEARNING} What is deep learning?Before we begin: the mathematical building blocks of neural networks Getting started with neural {networksFundamentals} of machine {learningPART} 2 - {DEEP} {LEARNING} {IN} {PRACTICEDeep} learning for computer {visionDeep} learning for text and {sequencesAdvanced} deep-learning best {practicesGenerative} deep {learningConclusionsappendix} A - Installing Keras and its dependencies on Ubuntuappendix B - Running Jupyter notebooks on an {EC}2 {GPU} instance}
+      \field{edition}{1st}
+      \field{isbn}{978-1-61729-443-3}
+      \field{pagetotal}{384}
+      \field{title}{Deep Learning with Python}
+      \field{year}{2017}
+      \field{dateera}{ce}
     \endentry
     \entry{muehlhauser_intelligence_2012}{incollection}{}
       \name{author}{2}{}{%

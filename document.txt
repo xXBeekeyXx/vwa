@@ -23,7 +23,7 @@ Klasse:
 
 Entwurf:
 
-1. Jänner 2020
+3. Jänner 2020
 
 Homepage: http://www.dls21.at
 
@@ -37,7 +37,7 @@ Einleitung!
 Das Vorwort ist optional: d. h. man muss kein Vorwort schreiben! Wer will, kann das in
 dieser Form tun. Am Ende sollten Ort, Datum und der Name des Autors des Vorworts
 angegeben werden.1
-Wien am 1. Jänner 2020
+Wien am 3. Jänner 2020
 Franz Srambical
 
 1 Vgl. Weigl, Huberta. Vorwort. url: http://www.ahs-vwa.at/pluginfile.php/31/mod_data/c
@@ -391,10 +391,10 @@ ontent/1315/02-VWA-Vorwort.pdf (besucht am 3. 2. 2017).
 15
 16
 16
-16
-16
-16
-16
+18
+18
+18
+18
 
 5. Schluss
 Literaturverzeichnis
@@ -403,189 +403,189 @@ Audio-Quellen . . .
 Video-Quellen . . .
 Internet-Quellen . .
 
-17
-
-.
-.
-.
-.
-
-.
-.
-.
-.
-
-.
-.
-.
-.
-
-.
-.
-.
-.
-
-.
-.
-.
-.
-
-.
-.
-.
-.
-
-.
-.
-.
-.
-
-.
-.
-.
-.
-
-.
-.
-.
-.
-
-.
-.
-.
-.
-
-.
-.
-.
-.
-
-.
-.
-.
-.
-
-.
-.
-.
-.
-
-.
-.
-.
-.
-
-.
-.
-.
-.
-
-.
-.
-.
-.
-
-.
-.
-.
-.
-
-.
-.
-.
-.
-
-.
-.
-.
-.
-
-.
-.
-.
-.
-
-.
-.
-.
-.
-
-.
-.
-.
-.
-
-.
-.
-.
-.
-
-.
-.
-.
-.
-
-.
-.
-.
-.
-
-.
-.
-.
-.
-
-.
-.
-.
-.
-
-.
-.
-.
-.
-
-.
-.
-.
-.
-
-.
-.
-.
-.
-
-.
-.
-.
-.
-
-.
-.
-.
-.
-
-18
-18
 19
-19
-19
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+20
+20
+21
+21
+22
 
 Abbildungsverzeichnis
 
-21
+23
 
 Tabellenverzeichnis
 
-21
+23
 
 A. Hier könnte Ihr Anhang stehen
 
-22
+24
 
 Erklärungen
 
-23
+25
 
 1. Einleitung
 Ich möchte diese Arbeit mit einem Gedankenexperiment beginnen.
@@ -855,7 +855,7 @@ Nutzenfunktion (eng. utility function)
 Es ist schwer menschliche Werte in Computersystemen zu programmieren (siehe
 Kapitel 2.4), deshalb haben Irving u. a. einen anderen Ansatz der Werteanpassung
 verfolgt: die des menschlichen Feedbacks durch Deep reinforcement learning (DRL,
-dt. mehrschichtiges bestärkendes Lernen; siehe Abbildung 4.1). Die folgenden drei
+dt. mehrschichtiges bestärkendes Lernen; siehe Abbildung 4.2). Die folgenden drei
 Kapitel dienen der Erklärung von wichtigen Grundbegriffen der KI-Forschung, um die
 wissenschaftlichen Arbeiten von Irving u. a. zu verstehen.
 
@@ -869,51 +869,77 @@ Die Aufgabe von RL ist es, wahrgenommene Belohnungen und Bestrafungen zu
 benutzen, um die optimale Verfahrensweise (eng. policy) in einer gegebenen Umgebung
 zu finden. Dabei hat die KI a priori kein Wissen über ihre Umgebung oder Nutzfunktion. Die Nutzfunktion, definiert über Umgebungszustände, zeigt dabei den Nutzen
 einer bestimmten Verfahrensweise. Die optimale Verfahrensweise ist diejenige, die den
-höchsten erwarteten Nutzen bringt.2
+höchsten erwarteten Nutzen bringt.
 RL wird in Bereichen eingesetzt, in denen es nicht genug Daten gibt, oder in denen
 es nicht lohnenswert ist, die notwendige Menge an Daten zu verarbeiten, um eine
 KI auf alle möglichen Umgebungszustände vorzubereiten. Eine KI, die beispielsweise
-versucht, Schach zu lernen, müsste also 10120 (auch Shannon-Zahl genannt) verschiedene
-Schachspiele gesehen haben, um allein anhand der Daten auf jede Situation vorbereitet
-zu sein.3
+versucht, Schach zu lernen, müsste 10120 (auch Shannon-Zahl genannt) verschiedene
+Schachspiele gesehen haben, um allein anhand von Beispielen auf jede Situation
+
 1 Russell, Stuart und Norvig, Peter. Artificial Intelligence: A Modern Approach, Global Edition.
 3. Aufl. Boston Columbus Indianapolis New York San Francisco Upper Saddle River Amsterdam,
 Cape Town Dubai London Madrid Milan Munich Paris Montreal Toronto Delhi Mexico City Sao
 Paulo Sydney Hong Kong Seoul Singapore Taipei Tokyo: Addison Wesley, 2016. 1132 S. isbn:
 978-1-292-15396-4, S. 831.
-2 Vgl. ebd., S. 830–831.
-3 Vgl. Shannon, Claude E. „Programming a Computer for Playing Chess“. In: Computer Chess
-Compendium. Hrsg. von Levy, David. New York, NY: Springer, 1988, S. 2–13. isbn: 978-1-4757-1968-0.
-doi: 10.1007/978-1-4757-1968-0_1, S. 4.
 
 15
 
-4.2. Deep learning
+vorbereitet zu sein.2 Bei RL vermittelt man der KI stattdessen, wann sie gewonnen
+oder verloren hat. Sie sucht dann auf Basis dieser Informationen eine Funktion, die die
+Gewinnwahrscheinlichkeit jeder gegebenen Position einigermaßen akkurat einschätzt.3
+
+4.2. Deep learning
+Deep Learning (DL, dt. mehrschichtiges Lernen) ist ein Teilbereich des maschinellen
+Lernens. Dabei versucht eine KI Inputdaten mit Hilfe von Hierarchien von Konzepten
+zu verstehen. Der Grundansatz von DL ist das Verstehen von komplexen Konzepten
+durch Kombinieren von einfacheren Konzepten. Diese Konzeptschichten werden in DL
+fast immer mit Hilfe von künstlichen neuronalen Netzen (KNN, engl. artificial neural
+network, ANN ) gelernt.45
+
 4.3. Deep reinforcement learning
 Deep reinforcement learning
 
-4.4. Deep reinforcement learning von menschlichen
+2 Vgl. Shannon, Claude E. „Programming a Computer for Playing Chess“. In: Computer Chess
+Compendium. Hrsg. von Levy, David. New York, NY: Springer, 1988, S. 2–13. isbn: 978-1-4757-1968-0.
+doi: 10.1007/978-1-4757-1968-0_1, S. 4.
+3 Vgl. Russell und Norvig, Artificial Intelligence, S. 830–831.
+4 Vgl. Manning\_Unknown. Deep Learning with Python. 1st. Shelter Island, New York: Manning
+Publications, 2017. 384 S. isbn: 978-1-61729-443-3, S. 8.
+5 Vgl. Goodfellow, Ian u. a. Deep Learning. http://www.deeplearningbook.org. MIT Press,
+2016, S. 1–8.
+
+16
+
+Abbildung 4.1.: Veranschaulichung eines DL-Modells. Die KI bekommt rohe Pixeldaten
+als Input. Mit jeder Schicht wendet sie ein neues Konzept auf das vorherige an, die
+Konzepte sind also aufbauend. Bildquelle: Goodfellow, Ian u. a. Deep Learning.
+http://www.deeplearningbook.org. MIT Press, 2016, S. 6
+
+17
+
+4.4. Deep reinforcement learning von menschlichen
 Werten
 4.5. KI-Sicherheit durch KI-Debatten
 Hierbei fragt eine KI einen menschlichen Operator nach der Nützlichkeit und Sicherheit
 ihres Verhaltens. Bei schlechter Bewertung passt die KI ihre Lösungsfunktion an, somit
 ist weder eine Werteprogrammierung, noch eine riskante Zielsetzung im Vorhinein
-notwendig.4 Dies funktioniert so lange gut, bis der Operator nicht mehr in der Lage
-ist, das Handeln der KI nachzuvollziehen und zu beurteilen.5
+notwendig.6 Dies funktioniert so lange gut, bis der Operator nicht mehr in der Lage
+ist, das Handeln der KI nachzuvollziehen und zu beurteilen.7
 
-Abbildung 4.1.: Repräsentation einer human-feedback-loop
+Abbildung 4.2.: Repräsentation einer human-feedback-loop
 
 4.6. AI Safety via Debate
 4.7. Inverse Reward Design
-4 Vgl. Christiano, Paul u. a. „Deep reinforcement learning from human preferences“. In: arXiv:1706.03741 [cs, stat] (13. Juli 2017). arXiv: 1706.03741.
-5 Vgl. Irving, Geoffrey u. a. „AI safety via debate“. In: arXiv:1805.00899 [cs, stat] (22. Okt. 2018).
+
+6 Vgl. Christiano, Paul u. a. „Deep reinforcement learning from human preferences“. In: arXiv:1706.03741 [cs, stat] (13. Juli 2017). arXiv: 1706.03741.
+7 Vgl. Irving, Geoffrey u. a. „AI safety via debate“. In: arXiv:1805.00899 [cs, stat] (22. Okt. 2018).
 arXiv: 1805.00899, S. 1–2.
 
-16
+18
 
 5. Schluss
 
-17
+19
 
 Literaturverzeichnis
 Print-Quellen
@@ -927,6 +953,8 @@ Journal of Economic Perspectives 14.1 (2000), S. 7–26. issn: 0895-3309. url: h
 Goertzel, Ben und Wang, Pei. „Advances in Artificial General Intelligence: Concepts,
 Architectures and Algorithms: Proceedings of the AGI Workshop 2006“. In: AGI
 Workshop 2006. Google-Books-ID: t2G5srpFRhEC. IOS Press, 2007. isbn: 978-158603-758-1.
+Goodfellow, Ian; Bengio, Yoshua und Courville, Aaron. Deep Learning. http:
+//www.deeplearningbook.org. MIT Press, 2016.
 Grzimek, Bernhard. Grzimeks Tierleben. Band 11 Säugetiere. DTV Deutscher Taschenbuchverlag, 1979.
 Hibbard, Bill. Super-Intelligent Machines. Springer US, 2002. isbn: 978-0-306-47388-3.
 doi: 10.1007/978-1-4615-0759-8.
@@ -936,15 +964,17 @@ Kaplan, Andreas und Haenlein, Michael. „Siri, Siri, in my hand: Who’s the fa
 in the land? On the interpretations, illustrations, and implications of artificial
 intelligence“. In: Business Horizons 62.1 (1. Jän. 2019). issn: 0007-6813. doi: 10.10
 16/j.bushor.2018.08.004.
-Muehlhauser, Luke und Salamon, Anna. „Intelligence Explosion: Evidence and
+Manning\_Unknown. Deep Learning with Python. 1st. Shelter Island, New York:
+Manning Publications, 2017. 384 S. isbn: 978-1-61729-443-3.
+
+20
+
+Muehlhauser, Luke und Salamon, Anna. „Intelligence Explosion: Evidence and
 Import“. In: Singularity Hypotheses: A Scientific and Philosophical Assessment.
 Hrsg. von Eden, Amnon H.; Moor, James H.; Søraker, Johnny H. und Steinhart,
 Eric. The Frontiers Collection. Berlin, Heidelberg: Springer, 2012, S. 15–42. isbn:
 978-3-642-32560-1. doi: 10.1007/978-3-642-32560-1_2.
-
-18
-
-Müller, Vincent C. und Bostrom, Nick. „Future Progress in Artificial Intelligence:
+Müller, Vincent C. und Bostrom, Nick. „Future Progress in Artificial Intelligence:
 A Survey of Expert Opinion“. In: Fundamental Issues of Artificial Intelligence. Hrsg.
 von Müller, Vincent C. Synthese Library. Cham: Springer International Publishing,
 2016, S. 555–572. isbn: 978-3-319-26485-1. doi: 10.1007/978-3-319-26485-1_33.
@@ -973,38 +1003,41 @@ Video-Quellen
 Paul, Christiano. Current Work in AI Alignment. San Francisco, 2019. url: https:
 //www.youtube.com/watch?v=-vsYtevJ2bc (besucht am 2. 11. 2019).
 
-Internet-Quellen
+21
+
+Internet-Quellen
 AI Safety Myths. Future of Life Institute. url: https://futureoflife.org/backgro
 und/aimyths/ (besucht am 6. 8. 2019).
-
-19
-
-Eliezer Yudkowsky on Intelligence Explosion - YouTube. url: https://www.youtube
+Eliezer Yudkowsky on Intelligence Explosion - YouTube. url: https://www.youtube
 .com/watch?v=D6peN9LiTWA (besucht am 7. 8. 2019).
 Weigl, Huberta. Vorwort. url: http://www.ahs-vwa.at/pluginfile.php/31/mod
 _data/content/1315/02-VWA-Vorwort.pdf (besucht am 3. 2. 2017).
 Yudkowsky, Eliezer. What is Friendly AI? | Kurzweil. 5. März 2001. url: https:
 //www.kurzweilai.net/what-is-friendly-ai (besucht am 1. 10. 2019).
 
-20
+22
 
 Abbildungsverzeichnis
-4.1. Repräsentation einer human-feedback-loop . . . . . . . . . . . . . . . . 16
+4.1. Veranschaulichung eines DL-Modells. Die KI bekommt rohe Pixeldaten
+als Input. Mit jeder Schicht wendet sie ein neues Konzept auf das vorherige an, die Konzepte sind also aufbauend. Bildquelle: Goodfellow,
+Ian u. a. Deep Learning. http://www.deeplearningbook.org. MIT
+Press, 2016, S. 6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+4.2. Repräsentation einer human-feedback-loop . . . . . . . . . . . . . . . . 18
 
 Tabellenverzeichnis
 
-21
+23
 
 A. Hier könnte Ihr Anhang stehen
 
-22
+24
 
 Erklärungen
 Selbstständigkeitserklärung
 Ich erkläre, dass ich diese vorwissenschaftliche Arbeit eigenständig angefertigt und nur
 die im Literaturverzeichnis angeführten Quellen und Hilfsmittel benutzt habe.
 
-Wien, 1. Jänner 2020
+Wien, 3. Jänner 2020
 
 Franz Srambical
 
@@ -1015,6 +1048,6 @@ Begründung: Die Arbeit wurde in LATEX mit entscheidenden Kenntnissen zum
 Quelltext verfasst.
 Geprüft am . . . durch Mag. Rainer Zufall und Mag. Ernst Haft
 
-23
+25
 
 

@@ -2,5 +2,6 @@
 \defcounter {refsection}{0}\relax 
 \booltrue {inlof}\booltrue {skipbib}\booltrue {citerequest}\booltrue {citetracker}\boolfalse {pagetracker}\mancite \relax 
 \babel@toc {naustrian}{}
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Repräsentation einer human-feedback-loop}}{16}{figure.4.1}% 
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Veranschaulichung eines DL-Modells. Die KI bekommt rohe Pixeldaten als Input. Mit jeder Schicht wendet sie ein neues Konzept auf das vorherige an, die Konzepte sind also aufbauend. \bildquelle [6]{Goodfellow-et-al-2016}}}{17}{figure.4.1}% 
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Repräsentation einer human-feedback-loop}}{18}{figure.4.2}% 
 \boolfalse {inlof}\relax 

@@ -6,6 +6,7 @@
    (add-to-list 'LaTeX-verbatim-macros-with-delims-local "url")
    (add-to-list 'LaTeX-verbatim-macros-with-delims-local "path")
    (LaTeX-add-labels
+    "deeplearningimg"
     "humanfeedbackimg"))
  :latex)
 
