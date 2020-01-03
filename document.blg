@@ -1,26 +1,26 @@
 [0] Config.pm:304> INFO - This is Biber 2.13
 [0] Config.pm:307> INFO - Logfile is 'document.blg'
-[23] biber:315> INFO - === Fri Jan  3, 2020, 01:34:48
-[35] Biber.pm:375> INFO - Reading 'document.bcf'
-[102] Biber.pm:905> INFO - Found 23 citekeys in bib section 0
-[119] Biber.pm:4196> INFO - Processing section 0
-[119] Utils.pm:75> INFO - Globbing data source 'meineBibliothek.bib'
-[119] Utils.pm:91> INFO - Globbed data source 'meineBibliothek.bib' to meineBibliothek.bib
-[119] Utils.pm:75> INFO - Globbing data source 'quellen.bib'
-[119] Utils.pm:91> INFO - Globbed data source 'quellen.bib' to quellen.bib
-[129] Biber.pm:4373> INFO - Looking for bibtex format file 'meineBibliothek.bib' for section 0
-[135] bibtex.pm:1462> INFO - LaTeX decoding ...
-[233] bibtex.pm:1281> INFO - Found BibTeX data source 'meineBibliothek.bib'
-[334] Biber.pm:4373> INFO - Looking for bibtex format file 'quellen.bib' for section 0
-[335] bibtex.pm:1462> INFO - LaTeX decoding ...
-[366] bibtex.pm:1281> INFO - Found BibTeX data source 'quellen.bib'
-[401] UCollate.pm:68> INFO - Overriding locale 'de-AT' defaults 'variable = shifted' with 'variable = non-ignorable'
-[401] UCollate.pm:68> INFO - Overriding locale 'de-AT' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[401] Biber.pm:4024> INFO - Sorting list 'shorthand:shorthand/global//global/global' of type 'list' with template 'shorthand' and locale 'de-AT'
-[401] Biber.pm:4030> INFO - No sort tailoring available for locale 'de-AT'
-[427] UCollate.pm:68> INFO - Overriding locale 'de-AT' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[428] UCollate.pm:68> INFO - Overriding locale 'de-AT' defaults 'variable = shifted' with 'variable = non-ignorable'
-[428] Biber.pm:4024> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'de-AT'
-[428] Biber.pm:4030> INFO - No sort tailoring available for locale 'de-AT'
-[449] bbl.pm:648> INFO - Writing 'document.bbl' with encoding 'UTF-8'
-[464] bbl.pm:751> INFO - Output to document.bbl
+[23] biber:315> INFO - === Fri Jan  3, 2020, 15:43:22
+[36] Biber.pm:375> INFO - Reading 'document.bcf'
+[103] Biber.pm:905> INFO - Found 26 citekeys in bib section 0
+[120] Biber.pm:4196> INFO - Processing section 0
+[121] Utils.pm:75> INFO - Globbing data source 'meineBibliothek.bib'
+[121] Utils.pm:91> INFO - Globbed data source 'meineBibliothek.bib' to meineBibliothek.bib
+[121] Utils.pm:75> INFO - Globbing data source 'quellen.bib'
+[121] Utils.pm:91> INFO - Globbed data source 'quellen.bib' to quellen.bib
+[130] Biber.pm:4373> INFO - Looking for bibtex format file 'meineBibliothek.bib' for section 0
+[136] bibtex.pm:1462> INFO - LaTeX decoding ...
+[240] bibtex.pm:1281> INFO - Found BibTeX data source 'meineBibliothek.bib'
+[373] Biber.pm:4373> INFO - Looking for bibtex format file 'quellen.bib' for section 0
+[374] bibtex.pm:1462> INFO - LaTeX decoding ...
+[405] bibtex.pm:1281> INFO - Found BibTeX data source 'quellen.bib'
+[443] UCollate.pm:68> INFO - Overriding locale 'de-AT' defaults 'variable = shifted' with 'variable = non-ignorable'
+[444] UCollate.pm:68> INFO - Overriding locale 'de-AT' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[444] Biber.pm:4024> INFO - Sorting list 'shorthand:shorthand/global//global/global' of type 'list' with template 'shorthand' and locale 'de-AT'
+[444] Biber.pm:4030> INFO - No sort tailoring available for locale 'de-AT'
+[475] UCollate.pm:68> INFO - Overriding locale 'de-AT' defaults 'variable = shifted' with 'variable = non-ignorable'
+[475] UCollate.pm:68> INFO - Overriding locale 'de-AT' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[475] Biber.pm:4024> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'de-AT'
+[475] Biber.pm:4030> INFO - No sort tailoring available for locale 'de-AT'
+[501] bbl.pm:648> INFO - Writing 'document.bbl' with encoding 'UTF-8'
+[520] bbl.pm:751> INFO - Output to document.bbl

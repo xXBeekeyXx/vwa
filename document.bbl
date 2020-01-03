@@ -19,6 +19,41 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
+    \entry{abbeel_apprenticeship_2004}{article}{}
+      \name{author}{2}{}{%
+        {{hash=e28d4ee199593959d8c29980a64f1974}{%
+           family={Abbeel},
+           familyi={A\bibinitperiod},
+           given={Pieter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=bdb4d740fc9548d1c32a62103c30169d}{%
+           family={Ng},
+           familyi={N\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{7d8da272615bbcc798c9919175e74694}
+      \strng{fullhash}{7d8da272615bbcc798c9919175e74694}
+      \strng{bibnamehash}{7d8da272615bbcc798c9919175e74694}
+      \strng{authorbibnamehash}{7d8da272615bbcc798c9919175e74694}
+      \strng{authornamehash}{7d8da272615bbcc798c9919175e74694}
+      \strng{authorfullhash}{7d8da272615bbcc798c9919175e74694}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We consider learning in a Markov decision process where we are not explicitly given a reward function, but where instead we can observe an expert demonstrating the task that we want to learn to perform. This setting is useful in applications (such as the task of driving) where it may be di\#cult to write down an explicit reward function specifying exactly how di\#erent desiderata should be traded o\#. We think of the expert as trying to maximize a reward function that is expressible as a linear combination of known features, and give an algorithm for learning the task demonstrated by the expert. Our algorithm is based on using "inverse reinforcement learning" to try to recover the unknown reward function. We show that our algorithm terminates in a small number of iterations, and that even though we may never recover the expert's reward function, the policy output by the algorithm will attain performance close to that of the expert, where here performance is measured with respect to the expert 's unknown reward function.}
+      \field{day}{20}
+      \field{journaltitle}{Proceedings, Twenty-First International Conference on Machine Learning, {ICML} 2004}
+      \field{month}{9}
+      \field{shortjournal}{Proceedings, Twenty-First International Conference on Machine Learning, {ICML} 2004}
+      \field{title}{Apprenticeship Learning via Inverse Reinforcement Learning}
+      \field{year}{2004}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.1007/978-0-387-30164-8_417
+      \endverb
+    \endentry
     \entry{noauthor_ai_nodate-1}{online}{}
       \field{sortinit}{A}
       \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
@@ -73,6 +108,38 @@
       \field{shorttitle}{Superintelligence}
       \field{title}{Superintelligence: Paths, Dangers, Strategies}
       \field{year}{2014}
+      \field{dateera}{ce}
+    \endentry
+    \entry{chollet_deep_2017}{book}{}
+      \name{author}{1}{}{%
+        {{hash=14134a39113404b1f80969c9ccc1f71e}{%
+           family={Chollet},
+           familyi={C\bibinitperiod},
+           given={François},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Shelter Island, New York}%
+      }
+      \list{publisher}{1}{%
+        {Manning Publications}%
+      }
+      \strng{namehash}{14134a39113404b1f80969c9ccc1f71e}
+      \strng{fullhash}{14134a39113404b1f80969c9ccc1f71e}
+      \strng{bibnamehash}{14134a39113404b1f80969c9ccc1f71e}
+      \strng{authorbibnamehash}{14134a39113404b1f80969c9ccc1f71e}
+      \strng{authornamehash}{14134a39113404b1f80969c9ccc1f71e}
+      \strng{authorfullhash}{14134a39113404b1f80969c9ccc1f71e}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{{SummaryDeep} Learning with Python introduces the field of deep learning using the Python language and the powerful Keras library. Written by Keras creator and Google {AI} researcher François Chollet, this book builds your understanding through intuitive explanations and practical examples.Purchase of the print book includes a free {eBook} in {PDF}, Kindle, and {ePub} formats from Manning Publications.About the {TechnologyMachine} learning has made remarkable progress in recent years. We went from near-unusable speech and image recognition, to near-human accuracy. We went from machines that couldn't beat a serious Go player, to defeating a world champion. Behind this progress is deep learning—a combination of engineering advances, best practices, and theory that enables a wealth of previously impossible smart applications.About the {BookDeep} Learning with Python introduces the field of deep learning using the Python language and the powerful Keras library. Written by Keras creator and Google {AI} researcher François Chollet, this book builds your understanding through intuitive explanations and practical examples. You'll explore challenging concepts and practice with applications in computer vision, natural-language processing, and generative models. By the time you finish, you'll have the knowledge and hands-on skills to apply deep learning in your own projects. What's {InsideDeep} learning from first {principlesSetting} up your own deep-learning environment Image-classification {modelsDeep} learning for text and {sequencesNeural} style transfer, text generation, and image {generationAbout} the {ReaderReaders} need intermediate Python skills. No previous experience with Keras, {TensorFlow}, or machine learning is required.About the {AuthorFrançois} Chollet works on deep learning at Google in Mountain View, {CA}. He is the creator of the Keras deep-learning library, as well as a contributor to the {TensorFlow} machine-learning framework. He also does deep-learning research, with a focus on computer vision and the application of machine learning to formal reasoning. His papers have been published at major conferences in the field, including the Conference on Computer Vision and Pattern Recognition ({CVPR}), the Conference and Workshop on Neural Information Processing Systems ({NIPS}), the International Conference on Learning Representations ({ICLR}), and others.Table of {ContentsPART} 1 - {FUNDAMENTALS} {OF} {DEEP} {LEARNING} What is deep learning?Before we begin: the mathematical building blocks of neural networks Getting started with neural {networksFundamentals} of machine {learningPART} 2 - {DEEP} {LEARNING} {IN} {PRACTICEDeep} learning for computer {visionDeep} learning for text and {sequencesAdvanced} deep-learning best {practicesGenerative} deep {learningConclusionsappendix} A - Installing Keras and its dependencies on Ubuntuappendix B - Running Jupyter notebooks on an {EC}2 {GPU} instance}
+      \field{edition}{1st}
+      \field{isbn}{978-1-61729-443-3}
+      \field{pagetotal}{384}
+      \field{title}{Deep Learning with Python}
+      \field{year}{2017}
       \field{dateera}{ce}
     \endentry
     \entry{christiano_deep_2017}{article}{}
@@ -405,35 +472,133 @@
       \endverb
       \keyw{Artificial intelligence,Big data,Deep learning,Expert systems,Internet of Things,Machine learning}
     \endentry
-    \entry{manning_unknown_deep_2017}{book}{}
-      \name{author}{1}{}{%
-        {{hash=9351070449d7a0e043db0f13a6c663d1}{%
-           family={Manning{\textbackslash}\_Unknown},
-           familyi={M\bibinitperiod}}}%
+    \entry{mnih_human-level_2015}{article}{}
+      \name{author}{19}{}{%
+        {{hash=f7d23cfe4ca0e6bf7a8c251bfa78aca6}{%
+           family={Mnih},
+           familyi={M\bibinitperiod},
+           given={Volodymyr},
+           giveni={V\bibinitperiod}}}%
+        {{hash=481308b301166b521c74fde6566e97e6}{%
+           family={Kavukcuoglu},
+           familyi={K\bibinitperiod},
+           given={Koray},
+           giveni={K\bibinitperiod}}}%
+        {{hash=89dbd30410c2085cd059f32c57d4593e}{%
+           family={Silver},
+           familyi={S\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=677dfee41a39b5ac7e138f5ce14467e9}{%
+           family={Rusu},
+           familyi={R\bibinitperiod},
+           given={Andrei\bibnamedelima A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=1cbd91f7404b2298b46bb46c47c08251}{%
+           family={Veness},
+           familyi={V\bibinitperiod},
+           given={Joel},
+           giveni={J\bibinitperiod}}}%
+        {{hash=eae3aa0ab9cb8b33a1ade80739e79e57}{%
+           family={Bellemare},
+           familyi={B\bibinitperiod},
+           given={Marc\bibnamedelima G.},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=dfca94b0427da7f9088af596e23b46c0}{%
+           family={Graves},
+           familyi={G\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod}}}%
+        {{hash=9449802bcb467309c0ebced658096818}{%
+           family={Riedmiller},
+           familyi={R\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=be3d55306c5ab7ee716f96f137dddba6}{%
+           family={Fidjeland},
+           familyi={F\bibinitperiod},
+           given={Andreas\bibnamedelima K.},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=46cc21fb5dec973c05ceb0f321e02ca0}{%
+           family={Ostrovski},
+           familyi={O\bibinitperiod},
+           given={Georg},
+           giveni={G\bibinitperiod}}}%
+        {{hash=4e381e44037009b1cd834d794735c311}{%
+           family={Petersen},
+           familyi={P\bibinitperiod},
+           given={Stig},
+           giveni={S\bibinitperiod}}}%
+        {{hash=03cf4f0976cc27112d267a8916a2d169}{%
+           family={Beattie},
+           familyi={B\bibinitperiod},
+           given={Charles},
+           giveni={C\bibinitperiod}}}%
+        {{hash=b827d5121d467eeb30ccac8c61094591}{%
+           family={Sadik},
+           familyi={S\bibinitperiod},
+           given={Amir},
+           giveni={A\bibinitperiod}}}%
+        {{hash=af540e84ef1ecdaa70b1f7c90f59fd7d}{%
+           family={Antonoglou},
+           familyi={A\bibinitperiod},
+           given={Ioannis},
+           giveni={I\bibinitperiod}}}%
+        {{hash=59998a15386f62e4d2776176ab58d49c}{%
+           family={King},
+           familyi={K\bibinitperiod},
+           given={Helen},
+           giveni={H\bibinitperiod}}}%
+        {{hash=a425c81c03d315597e3f92690763e24d}{%
+           family={Kumaran},
+           familyi={K\bibinitperiod},
+           given={Dharshan},
+           giveni={D\bibinitperiod}}}%
+        {{hash=d7805381550fb5f8360345f7f72c0b49}{%
+           family={Wierstra},
+           familyi={W\bibinitperiod},
+           given={Daan},
+           giveni={D\bibinitperiod}}}%
+        {{hash=afdf5ed50a24cdca0f42433e4f4848d5}{%
+           family={Legg},
+           familyi={L\bibinitperiod},
+           given={Shane},
+           giveni={S\bibinitperiod}}}%
+        {{hash=b160026950ebb1e2286dfb40c15482f5}{%
+           family={Hassabis},
+           familyi={H\bibinitperiod},
+           given={Demis},
+           giveni={D\bibinitperiod}}}%
       }
-      \list{location}{1}{%
-        {Shelter Island, New York}%
-      }
-      \list{publisher}{1}{%
-        {Manning Publications}%
-      }
-      \strng{namehash}{9351070449d7a0e043db0f13a6c663d1}
-      \strng{fullhash}{9351070449d7a0e043db0f13a6c663d1}
-      \strng{bibnamehash}{9351070449d7a0e043db0f13a6c663d1}
-      \strng{authorbibnamehash}{9351070449d7a0e043db0f13a6c663d1}
-      \strng{authornamehash}{9351070449d7a0e043db0f13a6c663d1}
-      \strng{authorfullhash}{9351070449d7a0e043db0f13a6c663d1}
+      \strng{namehash}{aff24b211b34cdd515b2fd148ce0c920}
+      \strng{fullhash}{29e1f598b04c2ec7e97aaeb02f70e0c8}
+      \strng{bibnamehash}{29e1f598b04c2ec7e97aaeb02f70e0c8}
+      \strng{authorbibnamehash}{29e1f598b04c2ec7e97aaeb02f70e0c8}
+      \strng{authornamehash}{aff24b211b34cdd515b2fd148ce0c920}
+      \strng{authorfullhash}{29e1f598b04c2ec7e97aaeb02f70e0c8}
       \field{sortinit}{M}
       \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{{SummaryDeep} Learning with Python introduces the field of deep learning using the Python language and the powerful Keras library. Written by Keras creator and Google {AI} researcher François Chollet, this book builds your understanding through intuitive explanations and practical examples.Purchase of the print book includes a free {eBook} in {PDF}, Kindle, and {ePub} formats from Manning Publications.About the {TechnologyMachine} learning has made remarkable progress in recent years. We went from near-unusable speech and image recognition, to near-human accuracy. We went from machines that couldn't beat a serious Go player, to defeating a world champion. Behind this progress is deep learning—a combination of engineering advances, best practices, and theory that enables a wealth of previously impossible smart applications.About the {BookDeep} Learning with Python introduces the field of deep learning using the Python language and the powerful Keras library. Written by Keras creator and Google {AI} researcher François Chollet, this book builds your understanding through intuitive explanations and practical examples. You'll explore challenging concepts and practice with applications in computer vision, natural-language processing, and generative models. By the time you finish, you'll have the knowledge and hands-on skills to apply deep learning in your own projects. What's {InsideDeep} learning from first {principlesSetting} up your own deep-learning environment Image-classification {modelsDeep} learning for text and {sequencesNeural} style transfer, text generation, and image {generationAbout} the {ReaderReaders} need intermediate Python skills. No previous experience with Keras, {TensorFlow}, or machine learning is required.About the {AuthorFrançois} Chollet works on deep learning at Google in Mountain View, {CA}. He is the creator of the Keras deep-learning library, as well as a contributor to the {TensorFlow} machine-learning framework. He also does deep-learning research, with a focus on computer vision and the application of machine learning to formal reasoning. His papers have been published at major conferences in the field, including the Conference on Computer Vision and Pattern Recognition ({CVPR}), the Conference and Workshop on Neural Information Processing Systems ({NIPS}), the International Conference on Learning Representations ({ICLR}), and others.Table of {ContentsPART} 1 - {FUNDAMENTALS} {OF} {DEEP} {LEARNING} What is deep learning?Before we begin: the mathematical building blocks of neural networks Getting started with neural {networksFundamentals} of machine {learningPART} 2 - {DEEP} {LEARNING} {IN} {PRACTICEDeep} learning for computer {visionDeep} learning for text and {sequencesAdvanced} deep-learning best {practicesGenerative} deep {learningConclusionsappendix} A - Installing Keras and its dependencies on Ubuntuappendix B - Running Jupyter notebooks on an {EC}2 {GPU} instance}
-      \field{edition}{1st}
-      \field{isbn}{978-1-61729-443-3}
-      \field{pagetotal}{384}
-      \field{title}{Deep Learning with Python}
-      \field{year}{2017}
+      \field{abstract}{An artificial agent is developed that learns to play\&nbsp;a diverse range of classic Atari 2600 computer games directly from sensory experience, achieving a\&nbsp;performance comparable to that of an expert human player; this work paves the way to building general-purpose learning algorithms that bridge the divide between perception and action.}
+      \field{issn}{1476-4687}
+      \field{journaltitle}{Nature}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{number}{7540}
+      \field{shortjournal}{Nature}
+      \field{title}{Human-level control through deep reinforcement learning}
+      \field{volume}{518}
+      \field{year}{2015}
       \field{dateera}{ce}
+      \field{pages}{529\bibrangedash 533}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1038/nature14236
+      \endverb
+      \verb{file}
+      \verb Snapshot:/home/franz/Zotero/storage/KTWGLWGL/nature14236.html:text/html
+      \endverb
     \endentry
     \entry{muehlhauser_intelligence_2012}{incollection}{}
       \name{author}{2}{}{%
@@ -562,6 +727,42 @@
       \verb 10.1007/978-3-319-26485-1_33
       \endverb
       \keyw{Artificial intelligence,Intelligence explosion,{AI},Expert opinion,Future of {AI},Humanity,Machine intelligence,Opinion poll,Progress,Singularity,Superintelligence}
+    \endentry
+    \entry{nicholson_beginners_nodate}{online}{}
+      \name{author}{1}{}{%
+        {{hash=271c695715a60bf579bdac576e2f4fa2}{%
+           family={Nicholson},
+           familyi={N\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{271c695715a60bf579bdac576e2f4fa2}
+      \strng{fullhash}{271c695715a60bf579bdac576e2f4fa2}
+      \strng{bibnamehash}{271c695715a60bf579bdac576e2f4fa2}
+      \strng{authorbibnamehash}{271c695715a60bf579bdac576e2f4fa2}
+      \strng{authornamehash}{271c695715a60bf579bdac576e2f4fa2}
+      \strng{authorfullhash}{271c695715a60bf579bdac576e2f4fa2}
+      \field{sortinit}{N}
+      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Reinforcement learning refers to goal-oriented algorithms, which learn how to attain a complex objective (goal) or maximize along a particular dimension over many steps.}
+      \field{langid}{english}
+      \field{title}{A Beginner's Guide to Deep Reinforcement Learning}
+      \field{titleaddon}{Pathmind}
+      \field{urlday}{3}
+      \field{urlmonth}{1}
+      \field{urlyear}{2020}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/home/franz/Zotero/storage/DKIHK269/deep-reinforcement-learning.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://pathmind.com/wiki/deep-reinforcement-learning
+      \endverb
+      \verb{url}
+      \verb http://pathmind.com/wiki/deep-reinforcement-learning
+      \endverb
     \endentry
     \entry{omohundro_basic_2008}{inproceedings}{}
       \name{author}{1}{}{%

@@ -8,7 +8,7 @@ In der Laienwelt sowie in großen Teilen der KI-Forschung ist eine These bekannt
 Ein in der Populärliteratur besonders stark ausgeprägter Mythos ist jener einer existenziellen Bedrohung durch Roboter, die die Welt erobern. Geschuldet ist dies nicht nur den klassischen Science-Fiction-Romanen. Es ist eine domänenübergreifend anzutreffende Neigung der Spezies Mensch, Wesen oder Systeme, die einem unverständlich sind, zu vermenschlichen. Von den Wikingern, nach denen ein menschenähnliches Wesen namens Thor Donner und Blitz lenkt, zu den modernen Weltreligionen, in denen Antropomorphismus in selbigem Ausmaß gang und gäbe ist, ist dieses Phänomen schon seit jeher in der Geschichte des Menschen zu beobachten. Ich erkäre mir den Antropomorphismus als einen misslungenen Erklärungsversuch unseres Gehirns für unverständliche Beobachtungen.
 
 Die größte Sorge der Forschung nach einer sicheren AKI gilt nicht möglichen Robotern, sondern der Intelligenz selbst, genauer gesagt einer Intelligenz, deren Ziele nicht eindeutig mit den unseren übereinstimmen. Intelligenz ermöglicht Kontrolle, und eine fortgeschrittene Intelligenz braucht auch keine Roboter, um ihre Ziele zu erreichen. Heutzutage reicht eine Internetverbindung völlig aus. \vgl{noauthor_ai_nodate-1}
-\subsection{Bösartige AKI} \label{bösartigeKI}
+\subsection{Bösartige AKI}
 Eine AKI, deren Ziele nicht eindeutig mit den unseren übereinstimmen, ist nicht die Folge ihres \emph{bösartigen} Willens, sondern die Folge einer unzureichend spezifizierten Zielsetzung. Ein autonomes Fahrzeug, dessen alleiniges Ziel es ist, seine Insassen vom Ort A zum Ort B zu befördern, wird nicht auf die Gesundheit anderer Verkehrsteilnehmer achten, die Straßenverkehrsordnung nicht befolgen, nicht nur auf Straßen fahren, unangenehm Bremsen, unökologisch Beschleunigen und nicht nach den weiteren unzähligen, geschriebenen und ungeschriebenen menschlichen Werten und Normen handeln.
 
 Es gibt keinen \emph{Geist in der Maschine}, der unser geschriebenes Programm durchliest und uns auf alle Stellen aufmerksam macht, die wir nicht so gemeint haben, wie wir sie geschrieben haben. Eine AKI ist nicht \emph{gut} oder \emph{böse}, sie folgt nur unseren Anweisungen. \vgl[1]{yudkowsky_complex_2011}
@@ -43,4 +43,4 @@ https://80000hours.org/topic/priority-paths/ai-policy/
 %%% Local Variables:
 %%% mode: latex
 %%% TeX-master: "document"
-%%% End:
+%%% End

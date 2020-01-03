@@ -2373,13 +2373,26 @@
     <bcf:citekey order="30">russell_artificial_2016</bcf:citekey>
     <bcf:citekey order="31">shannon_programming_1988</bcf:citekey>
     <bcf:citekey order="32">russell_artificial_2016</bcf:citekey>
-    <bcf:citekey order="33">Goodfellow-et-al-2016</bcf:citekey>
-    <bcf:citekey order="34">manning_unknown_deep_2017</bcf:citekey>
+    <bcf:citekey order="33">chollet_deep_2017</bcf:citekey>
+    <bcf:citekey order="34">Goodfellow-et-al-2016</bcf:citekey>
     <bcf:citekey order="35">Goodfellow-et-al-2016</bcf:citekey>
     <bcf:citekey order="36">Goodfellow-et-al-2016</bcf:citekey>
-    <bcf:citekey order="37">christiano_deep_2017</bcf:citekey>
-    <bcf:citekey order="38">irving_ai_2018</bcf:citekey>
-    <bcf:citekey order="39">Goodfellow-et-al-2016</bcf:citekey>
+    <bcf:citekey order="37">Goodfellow-et-al-2016</bcf:citekey>
+    <bcf:citekey order="38">nicholson_beginners_nodate</bcf:citekey>
+    <bcf:citekey order="39">mnih_human-level_2015</bcf:citekey>
+    <bcf:citekey order="40">mnih_human-level_2015</bcf:citekey>
+    <bcf:citekey order="41">nicholson_beginners_nodate</bcf:citekey>
+    <bcf:citekey order="42">nicholson_beginners_nodate</bcf:citekey>
+    <bcf:citekey order="43">abbeel_apprenticeship_2004</bcf:citekey>
+    <bcf:citekey order="44">christiano_deep_2017</bcf:citekey>
+    <bcf:citekey order="45">yudkowsky_complex_2011</bcf:citekey>
+    <bcf:citekey order="46">christiano_deep_2017</bcf:citekey>
+    <bcf:citekey order="47">christiano_deep_2017</bcf:citekey>
+    <bcf:citekey order="48">christiano_deep_2017</bcf:citekey>
+    <bcf:citekey order="49">christiano_deep_2017</bcf:citekey>
+    <bcf:citekey order="50">irving_ai_2018</bcf:citekey>
+    <bcf:citekey order="51">Goodfellow-et-al-2016</bcf:citekey>
+    <bcf:citekey order="52">nicholson_beginners_nodate</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">

@@ -15,27 +15,25 @@
 \contentsline {subsection}{\numberline {3.1.3}Bösartige AKI}{13}{subsection.3.1.3}% 
 \contentsline {section}{\numberline {3.2}Auswirkungen einer AKI}{13}{section.3.2}% 
 \contentsline {subsection}{\numberline {3.2.1}Destruktives Potential}{13}{subsection.3.2.1}% 
-\contentsline {subsection}{\numberline {3.2.2}Machtverschiebung -und konzentration}{14}{subsection.3.2.2}% 
-\contentsline {subsection}{\numberline {3.2.3}Missbrauch}{14}{subsection.3.2.3}% 
-\contentsline {section}{\numberline {3.3}Verzerrungen}{14}{section.3.3}% 
-\contentsline {subsection}{\numberline {3.3.1}Verzerrung in der Risikoeinschätzung}{14}{subsection.3.3.1}% 
-\contentsline {subsection}{\numberline {3.3.2}Verzerrung in der Werteformulierung}{14}{subsection.3.3.2}% 
-\contentsline {subsection}{\numberline {3.3.3}Verzerrung in der Kodierung}{14}{subsection.3.3.3}% 
-\contentsline {chapter}{\numberline {4}Maschinelle Werteanpassung}{15}{chapter.4}% 
-\contentsline {section}{\numberline {4.1}Reinforcement Learning}{15}{section.4.1}% 
-\contentsline {section}{\numberline {4.2}Deep learning}{16}{section.4.2}% 
-\contentsline {section}{\numberline {4.3}Deep reinforcement learning}{16}{section.4.3}% 
-\contentsline {section}{\numberline {4.4}Deep reinforcement learning von menschlichen Werten}{18}{section.4.4}% 
-\contentsline {section}{\numberline {4.5}KI-Sicherheit durch KI-Debatten}{18}{section.4.5}% 
-\contentsline {section}{\numberline {4.6}AI Safety via Debate}{18}{section.4.6}% 
-\contentsline {section}{\numberline {4.7}Inverse Reward Design}{18}{section.4.7}% 
-\contentsline {chapter}{\numberline {5}Schluss}{19}{chapter.5}% 
-\contentsline {chapter}{\nonumberline Literaturverzeichnis}{20}{chapter*.4}% 
-\contentsline {section}{\nonumberline Print-Quellen}{20}{section*.5}% 
-\contentsline {section}{\nonumberline Audio-Quellen}{21}{section*.6}% 
-\contentsline {section}{\nonumberline Video-Quellen}{21}{section*.7}% 
-\contentsline {section}{\nonumberline Internet-Quellen}{22}{section*.8}% 
-\contentsline {chapter}{\nonumberline Abbildungsverzeichnis}{23}{chapter*.9}% 
-\contentsline {chapter}{\nonumberline Tabellenverzeichnis}{23}{chapter*.10}% 
-\contentsline {chapter}{\numberline {A}Hier könnte Ihr Anhang stehen}{24}{appendix.A}% 
-\contentsline {chapter}{\nonumberline Erklärungen}{25}{chapter*.11}% 
+\contentsline {subsection}{\numberline {3.2.2}Machtverschiebung -und konzentration}{13}{subsection.3.2.2}% 
+\contentsline {subsection}{\numberline {3.2.3}Missbrauch}{13}{subsection.3.2.3}% 
+\contentsline {chapter}{\numberline {4}Maschinelle Werteanpassung}{14}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}KI-Lernverfahren}{14}{section.4.1}% 
+\contentsline {subsection}{\numberline {4.1.1}Reinforcement Learning}{14}{subsection.4.1.1}% 
+\contentsline {subsection}{\numberline {4.1.2}Deep Learning}{15}{subsection.4.1.2}% 
+\contentsline {subsection}{\numberline {4.1.3}Deep Reinforcement Learning}{15}{subsection.4.1.3}% 
+\contentsline {subsection}{\numberline {4.1.4}Inverse Reinforcement Learning}{17}{subsection.4.1.4}% 
+\contentsline {section}{\numberline {4.2}Deep Reinforcement Learning von menschlichen Werten}{18}{section.4.2}% 
+\contentsline {section}{\numberline {4.3}KI-Sicherheit durch KI-Debatten}{19}{section.4.3}% 
+\contentsline {section}{\numberline {4.4}AI Safety via Debate}{19}{section.4.4}% 
+\contentsline {section}{\numberline {4.5}Inverse Reward Design}{19}{section.4.5}% 
+\contentsline {chapter}{\numberline {5}Schluss}{20}{chapter.5}% 
+\contentsline {chapter}{\nonumberline Literaturverzeichnis}{21}{chapter*.4}% 
+\contentsline {section}{\nonumberline Print-Quellen}{21}{section*.5}% 
+\contentsline {section}{\nonumberline Audio-Quellen}{23}{section*.6}% 
+\contentsline {section}{\nonumberline Video-Quellen}{23}{section*.7}% 
+\contentsline {section}{\nonumberline Internet-Quellen}{23}{section*.8}% 
+\contentsline {chapter}{\nonumberline Abbildungsverzeichnis}{24}{chapter*.9}% 
+\contentsline {chapter}{\nonumberline Tabellenverzeichnis}{24}{chapter*.10}% 
+\contentsline {chapter}{\numberline {A}Hier könnte Ihr Anhang stehen}{25}{appendix.A}% 
+\contentsline {chapter}{\nonumberline Erklärungen}{26}{chapter*.11}% 
