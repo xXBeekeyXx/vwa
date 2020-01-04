@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.11.23)  4 JAN 2020 01:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.11.23)  4 JAN 2020 16:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1421,11 +1421,11 @@ Package pdftex.def Info: img/deepreinforcementlearning.png  used on input line
 (pdftex.def)             Requested size: 437.46118pt x 248.16315pt.
  [15] [16 <./img/deeplearning.png>] [17 <./img/deepreinforcementlearning.png>] 
 [18]
-<img/humanfeedback.png, id=351, 346.896pt x 158.2713pt>
+<img/humanfeedback.png, id=348, 138.5175pt x 64.0794pt>
 File: img/humanfeedback.png Graphic file (type png)
 <use img/humanfeedback.png>
-Package pdftex.def Info: img/humanfeedback.png  used on input line 71.
-(pdftex.def)             Requested size: 346.89514pt x 158.2709pt.
+Package pdftex.def Info: img/humanfeedback.png  used on input line 67.
+(pdftex.def)             Requested size: 437.46118pt x 202.39774pt.
  [19]) [20 <./img/humanfeedback.png>]
 \openout2 = `schluss.aux'.
 
@@ -1476,6 +1476,12 @@ as been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.6 ...cholson_beginners_nodate}}}{17}{figure.4.2}
+                                                  %pdfTeX warning (ext4): desti
+nation with the same identifier (name{cite.0:t:1:amodei_learning_2017}) has bee
+n already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.7 ...le {amodei_learning_2017}}}{20}{figure.4.3}
                                                   %)
 \tf@lof=\write5
 \openout5 = `document.lof'.
@@ -1517,15 +1523,20 @@ Package cleveref Info: loaded `naustrian' language definitions on input line 30
 (./anhang.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 131.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 131.
+
+
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
+
 Package logreq Info: Writing requests to 'document.run.xml'.
 \openout1 = `document.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 37408 strings out of 492167
- 706680 string characters out of 6131557
- 1320134 words of memory out of 5000000
- 40893 multiletter control sequences out of 15000+600000
+ 37411 strings out of 492167
+ 706829 string characters out of 6131557
+ 1320269 words of memory out of 5000000
+ 40895 multiletter control sequences out of 15000+600000
  668514 words of font info for 244 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  62i,7n,88p,10111b,3454s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1546,10 +1557,10 @@ type1/public/lm/lmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy8.p
 fb></usr/share/texmf-dist/fonts/type1/public/lm/lmtt10.pfb></usr/share/texmf-di
 st/fonts/type1/public/lm/lmtt12.pfb></usr/share/texmf-dist/fonts/type1/public/l
 m/lmtt9.pfb>
-Output written on document.pdf (27 pages, 930537 bytes).
+Output written on document.pdf (27 pages, 743223 bytes).
 PDF statistics:
- 707 PDF objects out of 1000 (max. 8388607)
- 643 compressed objects within 7 object streams
- 177 named destinations out of 1000 (max. 500000)
+ 717 PDF objects out of 1000 (max. 8388607)
+ 652 compressed objects within 7 object streams
+ 178 named destinations out of 1000 (max. 500000)
  47965 words of extra memory for PDF output out of 51595 (max. 10000000)
 

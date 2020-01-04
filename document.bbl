@@ -76,6 +76,56 @@
       \verb https://futureoflife.org/background/aimyths/
       \endverb
     \endentry
+    \entry{amodei_learning_2017}{online}{}
+      \name{author}{3}{}{%
+        {{hash=1e6adbf36ab730cd5fdadb838b4d2667}{%
+           family={Amodei},
+           familyi={A\bibinitperiod},
+           given={Dario},
+           giveni={D\bibinitperiod}}}%
+        {{hash=d128f4d69c6f2f63c92f04553d22b23e}{%
+           family={Paul},
+           familyi={P\bibinitperiod},
+           given={Christiano},
+           giveni={C\bibinitperiod}}}%
+        {{hash=143fa59d90387ae4a6aa650dcf1c7ceb}{%
+           family={Ray},
+           familyi={R\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{b54650cfd3849013bfc13a4308a2812d}
+      \strng{fullhash}{e6bb45ada4100359447ffa735366ec2d}
+      \strng{bibnamehash}{e6bb45ada4100359447ffa735366ec2d}
+      \strng{authorbibnamehash}{e6bb45ada4100359447ffa735366ec2d}
+      \strng{authornamehash}{b54650cfd3849013bfc13a4308a2812d}
+      \strng{authorfullhash}{e6bb45ada4100359447ffa735366ec2d}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{One step towards building safe {AI} systems is to remove the need for humans to write goal functions, since using a simple proxy for a complex goal, or getting the complex goal a bit wrong, can lead to undesirable and even dangerous behavior. In collaboration with {DeepMind}'s safety team, we've}
+      \field{day}{13}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{title}{Learning from Human Preferences}
+      \field{titleaddon}{{OpenAI}}
+      \field{urlday}{4}
+      \field{urlmonth}{1}
+      \field{urlyear}{2020}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/home/franz/Zotero/storage/46ITXHYE/deep-reinforcement-learning-from-human-preferences.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://openai.com/blog/deep-reinforcement-learning-from-human-preferences/
+      \endverb
+      \verb{url}
+      \verb https://openai.com/blog/deep-reinforcement-learning-from-human-preferences/
+      \endverb
+    \endentry
     \entry{bostrom_superintelligence:_2014}{book}{}
       \name{author}{1}{}{%
         {{hash=892acb64b0a9f67cbe51c2705c652a49}{%

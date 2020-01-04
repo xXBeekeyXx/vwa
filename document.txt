@@ -23,7 +23,7 @@ Klasse:
 
 Entwurf:
 
-3. Jänner 2020
+4. Jänner 2020
 
 Homepage: http://www.dls21.at
 
@@ -37,7 +37,7 @@ Einleitung!
 Das Vorwort ist optional: d. h. man muss kein Vorwort schreiben! Wer will, kann das in
 dieser Form tun. Am Ende sollten Ort, Datum und der Name des Autors des Vorworts
 angegeben werden.1
-Wien am 3. Jänner 2020
+Wien am 4. Jänner 2020
 Franz Srambical
 
 1 Vgl. Weigl, Huberta. Vorwort. url: http://www.ahs-vwa.at/pluginfile.php/31/mod_data/c
@@ -366,9 +366,9 @@ ontent/1315/02-VWA-Vorwort.pdf (besucht am 3. 2. 2017).
 15
 17
 18
-19
-19
-19
+20
+20
+20
 
 5. Schluss
 
@@ -942,7 +942,7 @@ Im zweiten Schritt optimiert die KI ihre Nutzfunktion, sie versucht sich also so
 verhalten, dass der menschliche Begutachter möglichst zufriedengestellt ist. So handelt
 die KI nach den menschlichen Werten und ihre Ziele stimmen mit den unseren überein.
 Diese beiden Schritte werden so lange wiederholt, bis die KI das gewünschte Verhalten
-zeigt.12 Es folgt eine formelle Ausformulierung.
+zeigt (siehe Abbildung 4.3).12 Es folgt eine formelle Ausformulierung.
 Zu jedem Zeitpunkt t empfängt die KI eine Umgebungsobservation ot ∈ O und
 sendet dann eine Aktion at ∈ A an die Umgebung. Wir nehmen an, dass ein menschlicher Begutachter seine Präferenz zwischen Trajektoriensegmenten auswählt, wo-
 
@@ -956,7 +956,7 @@ sendet dann eine Aktion at ∈ A an die Umgebung. Wir nehmen an, dass ein mensch
 
 bei ein Trajektoriensegment eine Abfolge von Observationen und Aktionen ist: σ =
 ((o0 , a0 ), (o1 , a1 ), ..., (ok−1 , ak−1 )) ∈ (O × A)k . Man schreibt σ 1  σ 2 , um auszudrücken,
-dass der Begutachter das Trajektoriensegment σ 1 über σ 2 bevorzugt.13
+dass der Begutachter das Trajektoriensegment σ 1 über dem Segment σ 2 bevorzugt.13
 In den Experimenten von Christiano u. a. bekommt der menschliche Begutachter
 Trajektoriensegmente in Form von ein- bis zweisekündigen Videoclips zugespielt. Die
 Begutachtung kommt in eine Datenbank D bestehend aus dreidimensionalen Arrays
@@ -967,31 +967,53 @@ gewichtet.
 Konstante.
 3. Falls die Segmente als nicht vergleichbar eingestuft werden, dann wird der jeweilige
 Vergleich aus der Datenbank D exkludiert.14
+Weiters stellen Christiano u. a. eine Formel zur Berechnung der Wahrscheinlichkeit
+P̂ auf, dass ein Begutachter das Trajektoriensegment σ 1 bevorzugt.
+exp r̂(o1t , a1t )
+P̂ [σ  σ ] =
+P
+P
+exp r̂(o1t , a1t ) + exp r̂(o2t , a2t )
+1
+
+P
+
+2
+
+(4.1)
+
+r̂ ist eine Belohnungsfunktion, also eine Funktion, die die Wahrscheinlichkeit angibt,
+dass die Trajektorie (o1 , a1 ) zum Zeitpunkt t zu einer Belohnung führt. Die Summe
+der Belohnungsfunktionen zu allen Zeitpunkten t ergibt die gesamte erwartete Belohnung für das Trajektoriensegment σ 1 . Der Quotient von der Gesamtbelohnung von
+σ 1 und der Summe der Gesamtbelohnungen beider Segmente ergibt P̂ . Man bemerke,
+dass die Autoren alle Summen der Gleichung exponieren. Das liegt daran, dass die
+Belohnungswahrscheinlichkeit mit zunehmender Zeit exponentiell steigt. Genauso wie
+der Elopunkten-Unterschied zwischen verschiedenen Schachspielern in etwa die Wahrscheinlichkeit angibt, dass einer gegen den anderen gewinnt, zeigt der Unterschied des
+erwarteten Gewinns zweier Trajektoriensegmente in etwa die Wahrscheinlichkeit, dass
+eines vom Begutachter präferiert wird.15
+
+13 Vgl. Christiano u. a., „Deep reinforcement learning from human preferences“, S. 3–4.
+14 Vgl. ebd., S. 5.
+15 Vgl. ebd., S. 5.
+
+19
+
+Abbildung 4.3.: Repräsentation einer human-feedback-loop Bildquelle: Amodei, Dario
+u. a. Learning from Human Preferences. OpenAI. 13. Juni 2017. url: https://opena
+i.com/blog/deep-reinforcement-learning-from-human-preferences/ (besucht
+am 4. 1. 2020)
 
 4.3. KI-Sicherheit durch KI-Debatten
-Hierbei fragt eine KI einen menschlichen Operator nach der Nützlichkeit und Sicherheit
-ihres Verhaltens. Bei schlechter Bewertung passt die KI ihre Lösungsfunktion an, somit
-ist weder eine Werteprogrammierung, noch eine riskante Zielsetzung im Vorhinein
-notwendig.15 Dies funktioniert so lange gut, bis der Operator nicht mehr in der Lage
-ist, das Handeln der KI nachzuvollziehen und zu beurteilen.16
+DRL von menschlichen Werten ist ein funktionierender Ansatz, damit eine (A)KI
+die komplexen Werte und Ziele der Menschheit erkennt und sich ihnen ausrichtet. Er
+funktioniert aber nur so lange, bis der Begutachter nicht mehr in der Lage ist, das
+Handeln der KI nachzuvollziehen und zu beurteilen.16
 
 4.4. AI Safety via Debate
 4.5. Inverse Reward Design
 
-13
-14
-15
-16
-
-Vgl. Christiano u. a., „Deep reinforcement learning from human preferences“, S. 3–4.
-Vgl. ebd., S. 5.
-Vgl. ebd.
-Vgl. Irving, Geoffrey u. a. „AI safety via debate“. In: arXiv:1805.00899 [cs, stat] (22. Okt. 2018).
+16 Vgl. Irving, Geoffrey u. a. „AI safety via debate“. In: arXiv:1805.00899 [cs, stat] (22. Okt. 2018).
 arXiv: 1805.00899, S. 1–2.
-
-19
-
-Abbildung 4.3.: Repräsentation einer human-feedback-loop
 
 20
 
@@ -1075,6 +1097,9 @@ Paul, Christiano. Current Work in AI Alignment. San Francisco, 2019. url: https:
 Internet-Quellen
 AI Safety Myths. Future of Life Institute. url: https://futureoflife.org/backgro
 und/aimyths/ (besucht am 6. 8. 2019).
+Amodei, Dario; Paul, Christiano und Ray, Alex. Learning from Human Preferences.
+OpenAI. 13. Juni 2017. url: https://openai.com/blog/deep-reinforcement-l
+earning-from-human-preferences/ (besucht am 4. 1. 2020).
 Eliezer Yudkowsky on Intelligence Explosion - YouTube. url: https://www.youtube
 .com/watch?v=D6peN9LiTWA (besucht am 7. 8. 2019).
 Nicholson, Chris. A Beginner’s Guide to Deep Reinforcement Learning. Pathmind.
@@ -1102,7 +1127,10 @@ Nutzwert zu. Beispiel: springen (5), nach rechts laufen (7), nach links
 laufen (0). Bildquelle: Nicholson, Chris. A Beginner’s Guide to Deep
 Reinforcement Learning. Pathmind. url: http://pathmind.com/wiki
 /deep-reinforcement-learning (besucht am 3. 1. 2020) . . . . . . . . 17
-4.3. Repräsentation einer human-feedback-loop . . . . . . . . . . . . . . . . 20
+4.3. Repräsentation einer human-feedback-loop Bildquelle: Amodei, Dario
+u. a. Learning from Human Preferences. OpenAI. 13. Juni 2017. url:
+https://openai.com/blog/deep-reinforcement-learning-from-h
+uman-preferences/ (besucht am 4. 1. 2020) . . . . . . . . . . . . . . . 20
 
 Tabellenverzeichnis
 
@@ -1117,7 +1145,7 @@ Selbstständigkeitserklärung
 Ich erkläre, dass ich diese vorwissenschaftliche Arbeit eigenständig angefertigt und nur
 die im Literaturverzeichnis angeführten Quellen und Hilfsmittel benutzt habe.
 
-Wien, 3. Jänner 2020
+Wien, 4. Jänner 2020
 
 Franz Srambical
 

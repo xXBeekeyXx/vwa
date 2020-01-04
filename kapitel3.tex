@@ -42,7 +42,7 @@ Inverse Reinforcement Learning (IRL, dt. \emph{umgekehrtes bestärkendes Lernen}
 
 
 \section{Deep Reinforcement Learning von menschlichen Werten}
-Die größte Sorge der KI-Forschung ist, dass wir Zielfunktionen unzureichend definieren und eine KI dadurch Schaden anrichtet, mit anderen Worten: dass eine KI nicht das tut, was wir \enquote{meinen} (siehe Kapitel \ref{bösartigeKI}).\vgl[1]{yudkowsky_complex_2011} IRL löst dieses Problem, da die Zielfunktion von der KI selbst definiert wird. Der Ansatz funktioniert aber nur bei Aufgaben, für die es auch Lösungsdemonstrationen gibt. Eine Alternative ist, das Verhalten des Systems zu gegebenen Zeitpunkten von Menschen beurteilen zu lassen. \citeauthor{christiano_deep_2017} haben eine KI im ersten Schritt ihre Nutzfunktion durch menschliches Feedback lernen lassen. Im zweiten Schritt optimiert die KI ihre Nutzfunktion, sie versucht sich also so zu verhalten, dass der menschliche Begutachter möglichst zufriedengestellt ist. So handelt die KI nach den menschlichen Werten und ihre Ziele stimmen mit den unseren überein. Diese beiden Schritte werden so lange wiederholt, bis die KI das gewünschte Verhalten zeigt. \vgl[1-2]{christiano_deep_2017} Es folgt eine formelle Ausformulierung.
+Die größte Sorge der KI-Forschung ist, dass wir Zielfunktionen unzureichend definieren und eine KI dadurch Schaden anrichtet, mit anderen Worten: dass eine KI nicht das tut, was wir \enquote{meinen} (siehe Kapitel \ref{bösartigeKI}).\vgl[1]{yudkowsky_complex_2011} IRL löst dieses Problem, da die Zielfunktion von der KI selbst definiert wird. Der Ansatz funktioniert aber nur bei Aufgaben, für die es auch Lösungsdemonstrationen gibt. Eine Alternative ist, das Verhalten des Systems zu gegebenen Zeitpunkten von Menschen beurteilen zu lassen. \citeauthor{christiano_deep_2017} haben eine KI im ersten Schritt ihre Nutzfunktion durch menschliches Feedback lernen lassen. Im zweiten Schritt optimiert die KI ihre Nutzfunktion, sie versucht sich also so zu verhalten, dass der menschliche Begutachter möglichst zufriedengestellt ist. So handelt die KI nach den menschlichen Werten und ihre Ziele stimmen mit den unseren überein. Diese beiden Schritte werden so lange wiederholt, bis die KI das gewünschte Verhalten zeigt (siehe Abbildung \ref{humanfeedbackimg}). \vgl[1-2]{christiano_deep_2017} Es folgt eine formelle Ausformulierung.
 
 Zu jedem Zeitpunkt $t$ empfängt die KI eine Umgebungsobservation $o_t \in \mathcal{O}$ und sendet dann eine Aktion $a_t \in \mathcal{A}$ an die Umgebung. Wir nehmen an, dass ein menschlicher Begutachter seine Präferenz zwischen Trajektoriensegmenten auswählt, wobei ein Trajektoriensegment eine Abfolge von Observationen und Aktionen ist: $\sigma = ((o_0,a_0),(o_1,a_1),...,(o_{k-1},a_{k-1})) \in (\mathcal{O} \times \mathcal{A})^k$. Man schreibt $\sigma^1 \succ \sigma^2$, um auszudrücken, dass der Begutachter das Trajektoriensegment $\sigma^1$ über dem Segment $\sigma^2$ bevorzugt. \vgl[3-4]{christiano_deep_2017}
 
@@ -60,19 +60,21 @@ Weiters stellen \citeauthor{christiano_deep_2017} eine Formel zur Berechnung der
   \hat{P}[\sigma^1 \succ \sigma^2] = \frac{exp \sum \hat{r} (o_t^1,a_t^1)}{exp \sum \hat{r}(o^1_t,a^1_t) + exp \sum \hat{r}(o^2_t, a^2_t)}
 \end{equation}
 
-$\hat{r}$ ist eine Belohnungsfunktion, also eine Funktion, die die Wahrscheinlichkeit angibt, dass die Trajektorie $(o^1,a^1)$ zum Zeitpunkt $t$ zu einer Belohnung führt. Die Summe der Belohnungsfunktionen zu allen Zeitpunkten $t$ ergibt die gesamte erwartete Belohnung für das Trajektoriensegment $\sigma^1$. Der Quotient von der Gesamtbelohnung von $\sigma^1$ und der Summe der Gesamtbelohnungen beider Segmente ergibt $\hat{P}$. Man bemerke, dass die Autoren alle Summen der Gleichung exponieren. Das liegt daran, dass die Belohnungswahrscheinlichkeit mit zunehmender Zeit exponentiell steigt.
+$\hat{r}$ ist eine Belohnungsfunktion, also eine Funktion, die die Wahrscheinlichkeit angibt, dass die Trajektorie $(o^1,a^1)$ zum Zeitpunkt $t$ zu einer Belohnung führt. Die Summe der Belohnungsfunktionen zu allen Zeitpunkten $t$ ergibt die gesamte erwartete Belohnung für das Trajektoriensegment $\sigma^1$. Der Quotient von der Gesamtbelohnung von $\sigma^1$ und der Summe der Gesamtbelohnungen beider Segmente ergibt $\hat{P}$. Man bemerke, dass die Autoren alle Summen der Gleichung exponieren. Das liegt daran, dass die Belohnungswahrscheinlichkeit mit zunehmender Zeit exponentiell steigt. Genauso wie der Elopunkten-Unterschied zwischen verschiedenen Schachspielern in etwa die Wahrscheinlichkeit angibt, dass einer gegen den anderen gewinnt, zeigt der Unterschied des erwarteten Gewinns zweier Trajektoriensegmente in etwa die Wahrscheinlichkeit, dass eines vom Begutachter präferiert wird.
 \vgl[5]{christiano_deep_2017}
 
-\section{KI-Sicherheit durch KI-Debatten}
-
-Hierbei fragt eine KI einen menschlichen Operator nach der Nützlichkeit und Sicherheit ihres Verhaltens. Bei schlechter Bewertung passt die KI ihre Lösungsfunktion an, somit ist weder eine Werteprogrammierung, noch eine riskante Zielsetzung im Vorhinein notwendig. \vgl{christiano_deep_2017} Dies funktioniert so lange gut, bis der Operator nicht mehr in der Lage ist, das Handeln der KI nachzuvollziehen und zu beurteilen. \vgl[1-2]{irving_ai_2018}
-
 \begin{figure}
-  \includegraphics{humanfeedback}
-  \caption{Repräsentation einer human-feedback-loop}
+  \includegraphics[width=\textwidth]{humanfeedback}
+  \caption{Repräsentation einer human-feedback-loop \bildquelle{amodei_learning_2017}}
   \label{humanfeedbackimg}
 \end{figure}
 
+\section{KI-Sicherheit durch KI-Debatten}
+DRL von menschlichen Werten ist ein funktionierender Ansatz, damit eine (A)KI die komplexen Werte und Ziele der Menschheit erkennt und sich ihnen ausrichtet. Er funktioniert aber nur so lange, bis der Begutachter nicht mehr in der Lage ist, das Handeln der KI nachzuvollziehen und zu beurteilen. \vgl[1-2]{irving_ai_2018}
+
+
+
+% Hierbei fragt eine KI einen menschlichen Operator nach der Nützlichkeit und Sicherheit ihres Verhaltens. Bei schlechter Bewertung passt die KI ihre Lösungsfunktion an, somit ist weder eine Werteprogrammierung, noch eine riskante Zielsetzung im Vorhinein notwendig. \vgl{christiano_deep_2017} Dies funktioniert so lange gut, bis der Operator nicht mehr in der Lage ist, das Handeln der KI nachzuvollziehen und zu beurteilen. \vgl[1-2]{irving_ai_2018}
 \section{AI Safety via Debate}
 \section{Inverse Reward Design}
 
