@@ -2392,9 +2392,11 @@
     <bcf:citekey order="49">christiano_deep_2017</bcf:citekey>
     <bcf:citekey order="50">christiano_deep_2017</bcf:citekey>
     <bcf:citekey order="51">christiano_deep_2017</bcf:citekey>
-    <bcf:citekey order="52">irving_ai_2018</bcf:citekey>
-    <bcf:citekey order="53">Goodfellow-et-al-2016</bcf:citekey>
-    <bcf:citekey order="54">nicholson_beginners_nodate</bcf:citekey>
+    <bcf:citekey order="52">christiano_deep_2017</bcf:citekey>
+    <bcf:citekey order="53">christiano_deep_2017</bcf:citekey>
+    <bcf:citekey order="54">irving_ai_2018</bcf:citekey>
+    <bcf:citekey order="55">Goodfellow-et-al-2016</bcf:citekey>
+    <bcf:citekey order="56">nicholson_beginners_nodate</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">
