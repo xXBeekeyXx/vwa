@@ -8,6 +8,7 @@
    (LaTeX-add-labels
     "deeplearningimg"
     "deepreinforcementlearningimg"
-    "humanfeedbackimg"))
+    "humanfeedbackimg"
+    "debattierspielmaschinellimg"))
  :latex)
 

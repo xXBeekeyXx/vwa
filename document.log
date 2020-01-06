@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.11.23)  5 JAN 2020 11:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2019.11.23)  6 JAN 2020 21:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1408,12 +1408,12 @@ chapter 4.
 
 
 ]
-<img/deeplearning.png, id=273, 144.0582pt x 111.5367pt>
+<img/deeplearning.png, id=287, 144.0582pt x 111.5367pt>
 File: img/deeplearning.png Graphic file (type png)
 <use img/deeplearning.png>
 Package pdftex.def Info: img/deeplearning.png  used on input line 22.
 (pdftex.def)             Requested size: 437.46118pt x 338.76527pt.
-<img/deepreinforcementlearning.png, id=282, 619.31375pt x 351.3125pt>
+<img/deepreinforcementlearning.png, id=296, 619.31375pt x 351.3125pt>
 File: img/deepreinforcementlearning.png Graphic file (type png)
 <use img/deepreinforcementlearning.png>
 Package pdftex.def Info: img/deepreinforcementlearning.png  used on input line 
@@ -1421,17 +1421,24 @@ Package pdftex.def Info: img/deepreinforcementlearning.png  used on input line
 (pdftex.def)             Requested size: 437.46118pt x 248.16315pt.
  [15] [16 <./img/deeplearning.png>] [17 <./img/deepreinforcementlearning.png>] 
 [18]
-<img/humanfeedback.png, id=347, 138.5175pt x 64.0794pt>
+<img/humanfeedback.png, id=361, 138.5175pt x 64.0794pt>
 File: img/humanfeedback.png Graphic file (type png)
 <use img/humanfeedback.png>
 Package pdftex.def Info: img/humanfeedback.png  used on input line 67.
 (pdftex.def)             Requested size: 437.46118pt x 202.39774pt.
- [19]) [20 <./img/humanfeedback.png>]
+ [19] [20 <./img/humanfeedback.png>]
+<img/debattierspielmaschinell.png, id=394, 167.6664pt x 51.5526pt>
+File: img/debattierspielmaschinell.png Graphic file (type png)
+<use img/debattierspielmaschinell.png>
+Package pdftex.def Info: img/debattierspielmaschinell.png  used on input line 8
+9.
+(pdftex.def)             Requested size: 437.46118pt x 134.51419pt.
+ [21] [22 <./img/debattierspielmaschinell.png>]) [23]
 \openout2 = `schluss.aux'.
 
  (./schluss.tex
 chapter 5.
-) [21
+) [24
 
 
 
@@ -1440,26 +1447,26 @@ chapter without number
 
 LaTeX Warning: Empty biblist 'shorthand' on input line 21.
 
-[22
+[25
 
 
-]
+] [26]
 
 Package biblatex Warning: No driver for entry type 'audio'.
 (biblatex)                Using fallback driver on input line 23.
 
-[23]
 
 Package biblatex Warning: No driver for entry type 'video'.
 (biblatex)                Using fallback driver on input line 24.
 
+[27]
 
 LaTeX Warning: Empty bibliography on input line 26.
 
 
 LaTeX Warning: Empty bibliography on input line 27.
 
-) [24]
+) [28]
 Package tocbasic Info: character protrusion at lof deactivated on input line 90
 .
  (./document.lof
@@ -1482,6 +1489,12 @@ n already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.7 ...le {amodei_learning_2017}}}{20}{figure.4.3}
+                                                  %pdfTeX warning (ext4): desti
+nation with the same identifier (name{cite.0:t:1:irving_ai_2018}) has been alre
+ady used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.8 ...uelle [8]{irving_ai_2018}}}{22}{figure.4.4}
                                                   %)
 \tf@lof=\write5
 \openout5 = `document.lof'.
@@ -1495,7 +1508,7 @@ Package cleveref Info: loaded `naustrian' language definitions on input line 4.
 \tf@lot=\write6
 \openout6 = `document.lot'.
 
- [25
+ [29
 
 ]
 \openout2 = `anhang.aux'.
@@ -1503,13 +1516,13 @@ Package cleveref Info: loaded `naustrian' language definitions on input line 4.
 
 (./anhang.tex
 chapter A.
-) [26
+) [30
 
 
 ]
 chapter without number
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 131.
-[27
+[31
 
 
 
@@ -1528,13 +1541,13 @@ Package logreq Info: Writing requests to 'document.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 37411 strings out of 492167
- 706829 string characters out of 6131557
- 1320269 words of memory out of 5000000
- 40895 multiletter control sequences out of 15000+600000
- 668514 words of font info for 244 fonts, out of 8000000 for 9000
+ 37480 strings out of 492167
+ 708156 string characters out of 6131557
+ 1325050 words of memory out of 5000000
+ 40923 multiletter control sequences out of 15000+600000
+ 669368 words of font info for 252 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 62i,7n,88p,10111b,3454s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,7n,88p,10111b,3456s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/share/texmf-dis
 t/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm
 -mathit.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/tex
@@ -1552,10 +1565,10 @@ type1/public/lm/lmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy8.p
 fb></usr/share/texmf-dist/fonts/type1/public/lm/lmtt10.pfb></usr/share/texmf-di
 st/fonts/type1/public/lm/lmtt12.pfb></usr/share/texmf-dist/fonts/type1/public/l
 m/lmtt9.pfb>
-Output written on document.pdf (27 pages, 743069 bytes).
+Output written on document.pdf (31 pages, 794196 bytes).
 PDF statistics:
- 716 PDF objects out of 1000 (max. 8388607)
- 651 compressed objects within 7 object streams
- 178 named destinations out of 1000 (max. 500000)
- 47965 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 796 PDF objects out of 1000 (max. 8388607)
+ 724 compressed objects within 8 object streams
+ 203 named destinations out of 1000 (max. 500000)
+ 47978 words of extra memory for PDF output out of 51595 (max. 10000000)
 

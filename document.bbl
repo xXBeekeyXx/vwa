@@ -76,6 +76,52 @@
       \verb https://futureoflife.org/background/aimyths/
       \endverb
     \endentry
+    \entry{allen_paul_2011}{online}{}
+      \name{author}{2}{}{%
+        {{hash=6df4438bdd483502e1ce98c4cacca9ac}{%
+           family={Allen},
+           familyi={A\bibinitperiod},
+           given={Paul\bibnamedelima G.},
+           giveni={P\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=20fd340102b9e48ebdd2c99f27cfc148}{%
+           family={Greaves},
+           familyi={G\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{5053caa98f1ad7255b3f23e77c8877f4}
+      \strng{fullhash}{5053caa98f1ad7255b3f23e77c8877f4}
+      \strng{bibnamehash}{5053caa98f1ad7255b3f23e77c8877f4}
+      \strng{authorbibnamehash}{5053caa98f1ad7255b3f23e77c8877f4}
+      \strng{authornamehash}{5053caa98f1ad7255b3f23e77c8877f4}
+      \strng{authorfullhash}{5053caa98f1ad7255b3f23e77c8877f4}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The Singularity Summit approaches this weekend in New York. But the Microsoft cofounder and a colleague say the singularity itself is a long way off.}
+      \field{day}{12}
+      \field{langid}{american}
+      \field{month}{10}
+      \field{shorttitle}{Paul Allen}
+      \field{title}{Paul Allen: The Singularity Isn't Near}
+      \field{titleaddon}{{MIT} Technology Review}
+      \field{urlday}{5}
+      \field{urlmonth}{1}
+      \field{urlyear}{2020}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/home/franz/Zotero/storage/QVPIV5Z7/paul-allen-the-singularity-isnt-near.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.technologyreview.com/s/425733/paul-allen-the-singularity-isnt-near/
+      \endverb
+      \verb{url}
+      \verb https://www.technologyreview.com/s/425733/paul-allen-the-singularity-isnt-near/
+      \endverb
+    \endentry
     \entry{amodei_learning_2017}{online}{}
       \name{author}{3}{}{%
         {{hash=1e6adbf36ab730cd5fdadb838b4d2667}{%
@@ -465,15 +511,11 @@
       \field{labeltitlesource}{title}
       \field{abstract}{To make {AI} systems broadly useful for challenging real-world tasks, we need them to learn complex human goals and preferences. One approach to specifying complex goals asks humans to judge during training which agent behaviors are safe and useful, but this approach can fail if the task is too complicated for a human to directly judge. To help address this concern, we propose training agents via self play on a zero sum debate game. Given a question or proposed action, two agents take turns making short statements up to a limit, then a human judges which of the agents gave the most true, useful information. In an analogy to complexity theory, debate with optimal play can answer any question in {PSPACE} given polynomial time judges (direct judging answers only {NP} questions). In practice, whether debate works involves empirical questions about humans and the tasks we want {AIs} to perform, plus theoretical questions about the meaning of {AI} alignment. We report results on an initial {MNIST} experiment where agents compete to convince a sparse classifier, boosting the classifier's accuracy from 59.4\% to 88.9\% given 6 pixels and from 48.2\% to 85.2\% given 4 pixels. Finally, we discuss theoretical and practical aspects of the debate model, focusing on potential weaknesses as the model scales up, and we propose future human and computer experiments to test these properties.}
       \field{day}{22}
-      \field{eprinttype}{arxiv}
       \field{journaltitle}{{arXiv}:1805.00899 [cs, stat]}
       \field{month}{10}
       \field{title}{{AI} safety via debate}
       \field{year}{2018}
       \field{dateera}{ce}
-      \verb{eprint}
-      \verb 1805.00899
-      \endverb
       \verb{file}
       \verb arXiv Fulltext PDF:/home/franz/Zotero/storage/YEE454KP/Irving et al. - 2018 - AI safety via debate.pdf:application/pdf;arXiv.org Snapshot:/home/franz/Zotero/storage/TM2TJ57M/1805.html:text/html
       \endverb
@@ -521,6 +563,38 @@
       \verb ScienceDirect Full Text PDF:/home/franz/Zotero/storage/UHADMB2F/Kaplan und Haenlein - 2019 - Siri, Siri, in my hand Who’s the fairest in the l.pdf:application/pdf;ScienceDirect Snapshot:/home/franz/Zotero/storage/U8L65GNB/S0007681318301393.html:text/html
       \endverb
       \keyw{Artificial intelligence,Big data,Deep learning,Expert systems,Internet of Things,Machine learning}
+    \endentry
+    \entry{lanier_who_2013}{book}{}
+      \name{author}{1}{}{%
+        {{hash=3bd903a5fb3856bf248ac4da6254be32}{%
+           family={Lanier},
+           familyi={L\bibinitperiod},
+           given={Jaron},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Simon \& Schuster}%
+      }
+      \strng{namehash}{3bd903a5fb3856bf248ac4da6254be32}
+      \strng{fullhash}{3bd903a5fb3856bf248ac4da6254be32}
+      \strng{bibnamehash}{3bd903a5fb3856bf248ac4da6254be32}
+      \strng{authorbibnamehash}{3bd903a5fb3856bf248ac4da6254be32}
+      \strng{authornamehash}{3bd903a5fb3856bf248ac4da6254be32}
+      \strng{authorfullhash}{3bd903a5fb3856bf248ac4da6254be32}
+      \field{sortinit}{L}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The dazzling new masterwork from the prophet of silicon valley.Jaron Lanier is the father of virtual reality and one of the world’s most brilliant thinkers. Who Owns the Future? is his visionary reckoning with the most urgent economic and social trend of our age: the poisonous concentration of money and power in our digital networks.Lanier has predicted how technology will transform our humanity for decades, and his insight has never been more urgently needed. He shows how Siren Servers, which exploit big data and the free sharing of information, led our economy into recession, imperiled personal privacy, and hollowed out the middle class. The networks that define our world—including social media, financial institutions, and intelligence agencies—now threaten to destroy it.But there is an alternative. In this provocative, poetic, and deeply humane book, Lanier charts a path toward a brighter future: an information economy that rewards ordinary people for what they do and share on the web.}
+      \field{edition}{Export}
+      \field{isbn}{978-1-4767-2986-2}
+      \field{pagetotal}{416}
+      \field{title}{Who Owns the Future?}
+      \field{year}{2013}
+      \field{dateera}{ce}
     \endentry
     \entry{mnih_human-level_2015}{article}{}
       \name{author}{19}{}{%
@@ -962,6 +1036,124 @@
       \verb 10.1007/978-1-4757-1968-0_1
       \endverb
       \keyw{Chess Piece,Chess Player,General Purpose Computer,Human Player,Legal Move}
+    \endentry
+    \entry{silver_mastering_2017}{article}{}
+      \name{author}{17}{}{%
+        {{hash=89dbd30410c2085cd059f32c57d4593e}{%
+           family={Silver},
+           familyi={S\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=8fad8df927bc0014c0bd6a9feb7aa71d}{%
+           family={Schrittwieser},
+           familyi={S\bibinitperiod},
+           given={Julian},
+           giveni={J\bibinitperiod}}}%
+        {{hash=9d16b7284df92c9adaee86c37ab992df}{%
+           family={Simonyan},
+           familyi={S\bibinitperiod},
+           given={Karen},
+           giveni={K\bibinitperiod}}}%
+        {{hash=af540e84ef1ecdaa70b1f7c90f59fd7d}{%
+           family={Antonoglou},
+           familyi={A\bibinitperiod},
+           given={Ioannis},
+           giveni={I\bibinitperiod}}}%
+        {{hash=ba4b200ce1412a2570cb113366cc9559}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Aja},
+           giveni={A\bibinitperiod}}}%
+        {{hash=4131bd14e5ca890278ecd351e356dc34}{%
+           family={Guez},
+           familyi={G\bibinitperiod},
+           given={Arthur},
+           giveni={A\bibinitperiod}}}%
+        {{hash=80c63e95a9e243591a33a7e3156f1d78}{%
+           family={Hubert},
+           familyi={H\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=fe79638c2bf15e9cd4021e09ca0fa07b}{%
+           family={Baker},
+           familyi={B\bibinitperiod},
+           given={Lucas},
+           giveni={L\bibinitperiod}}}%
+        {{hash=f311ac3fec4a3d3207fdec17a9887704}{%
+           family={Lai},
+           familyi={L\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod}}}%
+        {{hash=fa98d81082da72fd49892566108f9cbe}{%
+           family={Bolton},
+           familyi={B\bibinitperiod},
+           given={Adrian},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5759ff4990bdd8c6f85835738834874a}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Yutian},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=3a6fdf4df9a25f1d2d506ad9e86e1f6c}{%
+           family={Lillicrap},
+           familyi={L\bibinitperiod},
+           given={Timothy},
+           giveni={T\bibinitperiod}}}%
+        {{hash=59f6c5b7be30cd01647770d56f297a69}{%
+           family={Hui},
+           familyi={H\bibinitperiod},
+           given={Fan},
+           giveni={F\bibinitperiod}}}%
+        {{hash=50d24de916599d306c5cb1a77156e4b9}{%
+           family={Sifre},
+           familyi={S\bibinitperiod},
+           given={Laurent},
+           giveni={L\bibinitperiod}}}%
+        {{hash=54c5c572d4fdc5d822c240b59fcadad4}{%
+           family={Driessche},
+           familyi={D\bibinitperiod},
+           given={George\bibnamedelimb van\bibnamedelima den},
+           giveni={G\bibinitperiod\bibinitdelim v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+        {{hash=368b9b2de627b852658c433b062d4e1e}{%
+           family={Graepel},
+           familyi={G\bibinitperiod},
+           given={Thore},
+           giveni={T\bibinitperiod}}}%
+        {{hash=b160026950ebb1e2286dfb40c15482f5}{%
+           family={Hassabis},
+           familyi={H\bibinitperiod},
+           given={Demis},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{4ccacac34637df06f749428b6ec5052e}
+      \strng{fullhash}{34faf92840e9c6b68a2c64d4df1b42c3}
+      \strng{bibnamehash}{34faf92840e9c6b68a2c64d4df1b42c3}
+      \strng{authorbibnamehash}{34faf92840e9c6b68a2c64d4df1b42c3}
+      \strng{authornamehash}{4ccacac34637df06f749428b6ec5052e}
+      \strng{authorfullhash}{34faf92840e9c6b68a2c64d4df1b42c3}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Starting from zero knowledge and without human data, {AlphaGo} Zero was able to teach itself to play Go and to develop novel strategies that provide new insights into the oldest of games.}
+      \field{issn}{1476-4687}
+      \field{journaltitle}{Nature}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{number}{7676}
+      \field{shortjournal}{Nature}
+      \field{title}{Mastering the game of Go without human knowledge}
+      \field{volume}{550}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{pages}{354\bibrangedash 359}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1038/nature24270
+      \endverb
+      \verb{file}
+      \verb Snapshot:/home/franz/Zotero/storage/W2KVIIIV/nature24270.html:text/html
+      \endverb
     \endentry
     \entry{Vorwort}{online}{}
       \name{author}{1}{}{%

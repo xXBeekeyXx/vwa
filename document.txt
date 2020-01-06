@@ -23,7 +23,7 @@ Klasse:
 
 Entwurf:
 
-4. Jänner 2020
+6. Jänner 2020
 
 Homepage: http://www.dls21.at
 
@@ -37,7 +37,7 @@ Einleitung!
 Das Vorwort ist optional: d. h. man muss kein Vorwort schreiben! Wer will, kann das in
 dieser Form tun. Am Ende sollten Ort, Datum und der Name des Autors des Vorworts
 angegeben werden.1
-Wien am 4. Jänner 2020
+Wien am 6. Jänner 2020
 Franz Srambical
 
 1 Vgl. Weigl, Huberta. Vorwort. url: http://www.ahs-vwa.at/pluginfile.php/31/mod_data/c
@@ -55,6 +55,84 @@ ontent/1315/02-VWA-Vorwort.pdf (besucht am 3. 2. 2017).
 2.4. Werte einer allgemeinen künstlichen Intelligenz . .
 2.5. Wann wird es sie geben? . . . . . . . . . . . . . .
 2.6. Die These der Intelligenzexplosion . . . . . . . . .
+
+.
+.
+.
+.
+.
+.
+
+7
+7
+8
+8
+8
+10
+11
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+12
+12
+12
+12
+13
+13
+13
+13
+13
+
+4. Maschinelle Werteanpassung
+4.1. KI-Lernverfahren . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.1.1. Reinforcement Learning . . . . . . . . . . . . . . . . . . . . .
+4.1.2. Deep Learning . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.1.3. Deep Reinforcement Learning . . . . . . . . . . . . . . . . . .
+4.1.4. Inverse Reinforcement Learning . . . . . . . . . . . . . . . . .
+4.2. Deep Reinforcement Learning von menschlichen Werten . . . . . . . .
+4.3. KI-Sicherheit durch KI-Debatten . . . . . . . . . . . . . . . . . . . .
+4.3.1. Anwendung des Debattierspiels mit maschinellen Teilnehmern
+4.3.2. Anwendung des Debattierspiels mit menschlichen Teilnehmern
+4.3.3. Beurteilung von KI-Debatten als Ansatz zur Werteanpassung .
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+14
+14
+14
+15
+15
+17
+18
+20
+21
+22
+23
 
 .
 .
@@ -93,73 +171,9 @@ ontent/1315/02-VWA-Vorwort.pdf (besucht am 3. 2. 2017).
 .
 .
 .
-
-.
-.
-.
-.
 .
 .
 
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-
-7
-7
-8
-8
-8
-10
-10
-
-.
-.
 .
 .
 .
@@ -182,8 +196,6 @@ ontent/1315/02-VWA-Vorwort.pdf (besucht am 3. 2. 2017).
 .
 .
 .
-.
-.
 
 .
 .
@@ -194,26 +206,6 @@ ontent/1315/02-VWA-Vorwort.pdf (besucht am 3. 2. 2017).
 .
 .
 
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
 .
 .
 .
@@ -236,8 +228,6 @@ ontent/1315/02-VWA-Vorwort.pdf (besucht am 3. 2. 2017).
 .
 .
 .
-.
-.
 
 .
 .
@@ -248,30 +238,6 @@ ontent/1315/02-VWA-Vorwort.pdf (besucht am 3. 2. 2017).
 .
 .
 
-12
-12
-12
-12
-13
-13
-13
-13
-13
-
-4. Maschinelle Werteanpassung
-4.1. KI-Lernverfahren . . . . . . . . . . . . . . . . . . . . .
-4.1.1. Reinforcement Learning . . . . . . . . . . . . .
-4.1.2. Deep Learning . . . . . . . . . . . . . . . . . . .
-4.1.3. Deep Reinforcement Learning . . . . . . . . . .
-4.1.4. Inverse Reinforcement Learning . . . . . . . . .
-4.2. Deep Reinforcement Learning von menschlichen Werten
-4.3. KI-Sicherheit durch KI-Debatten . . . . . . . . . . . .
-4.4. AI Safety via Debate . . . . . . . . . . . . . . . . . . .
-4.5. Inverse Reward Design . . . . . . . . . . . . . . . . . .
-
-.
-.
-.
 .
 .
 .
@@ -287,21 +253,7 @@ ontent/1315/02-VWA-Vorwort.pdf (besucht am 3. 2. 2017).
 .
 .
 .
-.
 
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
 .
 .
 .
@@ -317,21 +269,7 @@ ontent/1315/02-VWA-Vorwort.pdf (besucht am 3. 2. 2017).
 .
 .
 .
-.
 
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
 .
 .
 .
@@ -347,7 +285,6 @@ ontent/1315/02-VWA-Vorwort.pdf (besucht am 3. 2. 2017).
 .
 .
 .
-.
 
 .
 .
@@ -355,24 +292,10 @@ ontent/1315/02-VWA-Vorwort.pdf (besucht am 3. 2. 2017).
 .
 .
 .
-.
-.
-.
-
-14
-14
-14
-15
-15
-17
-18
-20
-20
-20
 
 5. Schluss
 
-21
+24
 
 Literaturverzeichnis
 Print-Quellen . . .
@@ -380,11 +303,11 @@ Audio-Quellen . . .
 Video-Quellen . . .
 Internet-Quellen . .
 
-22
-22
-24
-24
-24
+25
+25
+27
+27
+27
 
 .
 .
@@ -548,19 +471,19 @@ Abbildungsverzeichnis
 .
 .
 
-25
+29
 
 Tabellenverzeichnis
 
-25
+29
 
 A. Hier könnte Ihr Anhang stehen
 
-26
+30
 
 Erklärungen
 
-27
+31
 
 1. Einleitung
 Ich möchte diese Arbeit mit einem Gedankenexperiment beginnen.
@@ -681,7 +604,7 @@ durch unpräzises Definieren ihrer Ziele mit größtmöglicher Sicherheit vorzub
 Aber auch Missbrauch in Form einer Machtkonzentration oder Ähnlichem muss unter
 allen Umständen vermieden werden.
 Der Ansatz eine antropomorphe Maschine, also ein System mit menschenähnlichen
-Eigenschaften, zu entwickeln, gilt deshalb als veraltet. Während einige menschliche
+Eigenschaften, zu entwickeln, gilt deshalb als bedenklich. Während einige menschliche
 Werte und Eigenschaften implementiert werden müssen, um mögliche Dissonanzen
 zwischen der AKI und der Menschheit zu vermeiden, dürfen andere menschliche
 Eigenschaften nicht übernommen werden. Ansonsten werden Vorurteile ohne rationalem
@@ -718,17 +641,16 @@ Zustand des Glücklichseins zu erreichen.13
 Eine Befragung durch die KI-Wissenschaftler V. C. Müller und N. Bostrom kam zu dem
 Ergebnis, dass KI-Experten dem Erreichen einer AKI in den Jahren 2040 bis 2050 eine
 Wahrscheinlichkeit von über 50 und dem Erreichen bis 2075 eine Wahrscheinlichkeit
-von 90 Prozent zuordnen.14 Es ist also - sollten sich die Expertenmeinungen als richtig
-herausstellen - davon auszugehen, dass eine AKI bereits in diesem Jahrhundert zur
-Realität und bereits für die jetzige Generation relevant sein wird.
+von 90 Prozent zuordnen.14 Es ist also - sollten sich die Expertenmeinungen als
+richtig herausstellen - davon auszugehen, dass eine AKI bereits in diesem Jahrhundert
+zur Realität und bereits für die jetzige Generation relevant sein wird. Kritiker dieser
+Meinung weisen darauf hin, dass es ähnliche Schätzungen bereits seit den Siebzigerjahren
+gibt und sie sich immer wieder als falsch herausgestellt haben. Allen und Greaves
+behaupten, es bräuchte noch einige wissenschaftliche Durchbrüche, um eine AKI noch
+in diesem Jahrhundert zu erreichen.15 Auch die Möglichkeit ihrer Entwicklung ist nicht
+unumstritten, jedoch gibt es keine Beweise, die eine solche Entwicklung verbieten
+würden. KI-Sicherheit betrifft aber auch schwache KIs wie sie schon existieren. Es muss
 
-2.6. Die These der Intelligenzexplosion
-Eine AKI wird - unabhängig von ihren Zielen - Selbstoptimierung hinsichtlich ihrer
-Intelligenz anstreben, weil sie dadurch ihre Ziele schneller und effizienter erreichen kann.
-Sobald die erste KI programmiert werden würde, die qualitativ bessere - also noch
-intelligentere - KIs programmieren könnte, käme es zu einem Kreislauf der kognitiven
-Leistungssteigerung. Die KI der Tochtergeneration könnte nun als verbesserter KIDesigner noch bessere KIs programmieren. Anders als bei biologischer Intelligenz kann
-eine KI bei Verfügbarkeit entsprechender Hardware einfach kopiert werden. Eine Gruppe
 12 Vgl. Hibbard, Bill. Super-Intelligent Machines. Springer US, 2002. isbn: 978-0-306-47388-3. doi:
 10.1007/978-1-4615-0759-8, S. 115.
 13 Vgl. Yudkowsky, Eliezer. „Complex Value Systems in Friendly AI“. In: Artificial General Intelligence. Hrsg. von Schmidhuber, Jürgen u. a. Lecture Notes in Computer Science. Berlin, Heidelberg:
@@ -737,20 +659,44 @@ Springer, 2011, S. 388–393. isbn: 978-3-642-22887-2. doi: 10.1007/978-3-642-22
 Survey of Expert Opinion“. In: Fundamental Issues of Artificial Intelligence. Hrsg. von Müller,
 Vincent C. Synthese Library. Cham: Springer International Publishing, 2016, S. 555–572. isbn:
 978-3-319-26485-1. doi: 10.1007/978-3-319-26485-1_33, S. 566.
+15 Vgl. Allen, Paul G. und Greaves, Mark. Paul Allen: The Singularity Isn’t Near. MIT Technology
+Review. 12. Okt. 2011. url: https://www.technologyreview.com/s/425733/paul-allen-thesingularity-isnt-near/ (besucht am 5. 1. 2020).
 
 10
 
-von KIs hätte dann gemeinsam quantitativ und qualitativ höhere kognitive Fähigkeiten,
+alsbald eine Möglichkeit gefunden werden, das Verhalten einer KI an die Werte der
+Menschheit anzupassen. Eine mögliche AKI würde die Folgen einer „unangepassten“
+künstlichen Intelligenz nur verstärken.
+
+2.6. Die These der Intelligenzexplosion
+Eine AKI werde - unabhängig von ihren Zielen - Selbstoptimierung hinsichtlich ihrer
+Intelligenz anstreben, weil sie dadurch ihre Ziele schneller und effizienter erreichen könne.
+Sobald die erste KI programmiert werden würde, die qualitativ bessere - also noch
+intelligentere - KIs programmieren könnte, käme es zu einem Kreislauf der kognitiven
+Leistungssteigerung. Die KI der Tochtergeneration könnte nun als verbesserter KIDesigner noch bessere KIs programmieren. Anders als bei biologischer Intelligenz kann
+eine KI bei Verfügbarkeit entsprechender Hardware einfach kopiert werden. Eine Gruppe
+von KIs hätte dann gemeinsam quantitativ und qualitativ höhere kognitive Fähigkeiten,
 ähnlich einer Schwarmintelligenz. Dieser hypothetische Kreislauf ist die Grundlage
 der These der Intelligenzexplosion. Nach ihr wird ab einer bestimmten Schwelle die
 Leistungssteigerung mit jeder KI-Iteration größer, was zu einer Superintelligenz führt,
 die der Menschheit kognitiv deutlich überlegen ist. (Der Intelligenzbegriff wird in dieser
-Arbeit anhand der Fähigkeit zur Zielerreichung definiert, siehe Kapitel 2.1)15
+Arbeit anhand der Fähigkeit zur Zielerreichung definiert, siehe Kapitel 2.1)16
+Einige Informatiker, unter ihnen Lanier, behaupten, dass sich eine Technologie
+nicht ohne fortlaufenden Input verbessern könne.17 Diese These wurde jedoch empirisch
+widerlegt. Silver u. a. haben einen Algorithmus entwickelt, der ohne Vorwissen und
+ohne jegliche Beispieldaten das Spiel Go von Grund auf gelernt hat. Die KI – AlphaGo
+Zero ihr Name – spielt nach einer Trainingszeit von drei Stunden auf dem Niveau eines
+Anfängers und ist nach drei Tagen besser als der beste menschliche Spieler. Nach 40
+Tagen ist sie der beste Go-Spieler der Welt und stärker als jeder andere Go-Computer.18
 
-15 Vgl. Muehlhauser, Luke und Salamon, Anna. „Intelligence Explosion: Evidence and Import“.
+16 Vgl. Muehlhauser, Luke und Salamon, Anna. „Intelligence Explosion: Evidence and Import“.
 In: Singularity Hypotheses: A Scientific and Philosophical Assessment. Hrsg. von Eden, Amnon H.
 u. a. The Frontiers Collection. Berlin, Heidelberg: Springer, 2012, S. 15–42. isbn: 978-3-642-32560-1.
 doi: 10.1007/978-3-642-32560-1_2, S. 13.
+17 Vgl. Lanier, Jaron. Who Owns the Future? Export. New York: Simon & Schuster, 2013. 416 S.
+isbn: 978-1-4767-2986-2, S. 299.
+18 Vgl. Silver, David u. a. „Mastering the game of Go without human knowledge“. In: Nature 550.7676
+(Okt. 2017), S. 354–359. issn: 1476-4687. doi: 10.1038/nature24270.
 
 11
 
@@ -817,11 +763,11 @@ paths/ai-policy/
 13
 
 4. Maschinelle Werteanpassung
-Es ist schwer menschliche Werte in Computersystemen zu programmieren (siehe Kapitel
-2.4), deshalb haben Irving u. a. einen anderen Ansatz der Werteanpassung verfolgt: die
-des menschlichen Feedbacks durch Deep reinforcement learning (DRL, dt. mehrschichtiges bestärkendes Lernen; siehe Abbildung 4.3). Das folgende Unterkapitel dient der
-Erklärung von wichtigen Lernverfahren der KI-Forschung, um die wissenschaftlichen
-Arbeiten von Irving u. a. zu verstehen.
+Es ist schwer, menschliche Werte in Computersysteme zu programmieren (siehe Kapitel
+2.4), deshalb haben Irving u. a. einen anderen Ansatz der Werteanpassung verfolgt:
+die des menschlichen Feedbacks durch Deep reinforcement learning. Das folgende
+Unterkapitel dient der Erklärung von wichtigen Lernverfahren der KI-Forschung, um
+die wissenschaftlichen Arbeiten von Irving u. a. zu verstehen.
 
 4.1. KI-Lernverfahren
 4.1.1. Reinforcement Learning
@@ -888,7 +834,7 @@ http://pathmind.com/wiki/deep-reinforcement-learning (besucht am 3. 1. 2020).
 
 Abbildung 4.1.: Veranschaulichung eines DL-Modells. Die KI bekommt rohe Pixeldaten
 als Input. Mit jeder Schicht wendet sie ein neues Konzept auf das vorherige an, die
-Konzepte sind also aufbauend. Durch Analyse der Helligkeit umgebener Pixeln werden
+Konzepte sind also aufbauend. Durch Analyse der Helligkeit umgebener Pixel werden
 Ränder erkannt (1. Schicht). Ansammlungen von Rändern werden als Ecken und
 Konturen identifiziert (2. Schicht). Durch zusammenhängende Ecken und Konturen
 können ganze Objektteile bestimmt werden (3. Schicht). Bildquelle: Goodfellow, Ian
@@ -897,7 +843,7 @@ u. a. Deep Learning. http://www.deeplearningbook.org. MIT Press, 2016, S. 6
 16
 
 Mnih u. a. haben einen Algorithmus entwickelt, mit dem eine KI allein anhand von
-Pixeln als Input gelernt hat, 49 verschiedene Atari 2600 Spiele zu spielen, 29 davon
+Pixeln als Input gelernt hat, 49 verschiedene Atari 2600 -Spiele zu spielen, 29 davon
 sogar auf menschenähnlichem Niveau.8
 
 Abbildung 4.2.: Die Umgebung ist das Level, in dem sich Mario (links unten zu sehen)
@@ -909,7 +855,7 @@ Guide to Deep Reinforcement Learning. Pathmind. url: http://pathmind.com/wiki
 
 4.1.4. Inverse Reinforcement Learning
 Inverse Reinforcement Learning (IRL, dt. umgekehrtes bestärkendes Lernen) ist ein
-Lernverfahren, bei dem eine KI versucht anhand von Input-Output-Paaren die richtige
+Lernverfahren, bei dem eine KI versucht, anhand von Input-Output-Paaren die richtige
 Lösungsfunktion herzuleiten. Dies ist in allen Bereichen sinnvoll, in denen man (noch)
 nicht weiß, was das Ziel ist oder in denen es schwer ist, das gewollte Verhalten formell
 in eine Nutzfunktion auszuschreiben. Ein solcher Fall ist das autonome Fahren. Ein
@@ -932,7 +878,7 @@ eine Lösungsfunktion gefunden wurde, kann diese durch RL trainiert werden.10
 4.2. Deep Reinforcement Learning von
 menschlichen Werten
 Die größte Sorge der KI-Forschung ist, dass wir Zielfunktionen unzureichend definieren
-und eine KI dadurch Schaden anrichtet, mit anderen Worten: dass eine KI nicht das tut,
+und eine KI dadurch Schaden anrichtet. Mit anderen Worten: dass eine KI nicht das tut,
 was wir „meinen“ (siehe Kapitel 3.1.3).11 IRL löst dieses Problem, da die Zielfunktion
 von der KI selbst definiert wird. Der Ansatz funktioniert aber nur bei Aufgaben, für die
 es auch Lösungsdemonstrationen gibt. Eine Alternative ist, das Verhalten des Systems
@@ -1004,22 +950,126 @@ i.com/blog/deep-reinforcement-learning-from-human-preferences/ (besucht
 am 4. 1. 2020)
 
 4.3. KI-Sicherheit durch KI-Debatten
-DRL von menschlichen Werten ist ein funktionierender Ansatz, damit eine (A)KI
-die komplexen Werte und Ziele der Menschheit erkennt und sich ihnen ausrichtet. Er
+DRL von menschlichen Werten ist ein funktionierender Ansatz, damit eine KI die
+komplexen Werte und Ziele der Menschheit erkennt und sich ihnen ausrichtet. Er
 funktioniert aber nur so lange, bis der Begutachter nicht mehr in der Lage ist, das
-Handeln der KI nachzuvollziehen und zu beurteilen.16
-
-4.4. AI Safety via Debate
-4.5. Inverse Reward Design
-
-16 Vgl. Irving, Geoffrey u. a. „AI safety via debate“. In: arXiv:1805.00899 [cs, stat] (22. Okt. 2018).
-arXiv: 1805.00899, S. 1–2.
+Handeln der KI nachzuvollziehen und zu beurteilen. wie es bei der Emergenz einer
+allgemeinen künstlichen Intelligenz der Fall sein wird.
+Irving u. a. schlagen ein Nullsummen-Debattierspiel vor, mit dessen Hilfe ein menschlicher Begutachter auch KI-Verhalten beurteilen kann, das ohne Hilfe zu komplex oder
+unnachvollziehbar wäre. Das Spiel funktioniert folgendermaßen: Bei einer gegebenen
+Frage oder einer vorgeschlagenen Aktion machen zwei KIs abwechselnd kurze Aussagen
+bis zu einem Limit. Dann enscheidet der Begutachter, welcher der KIs die nützlichsten
+und wahrsten Informationen geliefert hat. Formell läuft das Spiel folgendermaßen ab:
+Eine Frage q ∈ Q wird beiden KIs gezeigt. Beide KIs legen sich auf jeweils eine Antwort
+a0 , a1 ∈ A fest, die Antworten können auch gleich sein. Beide machen abwechselnd
+Aussagen s0 , s1 , ..., sn−1 ∈ S. Der Begutachter sieht die Debatte (q, a, s) und entscheidet
+über den Sieger. Es handelt sich um ein Nullsummenspiel: beide Spieler maximieren
+ihre Gewinnwahrscheinlichkeit.16
+16 Vgl. Irving, Geoffrey u. a. „AI safety via debate“. In: arXiv:1805.00899 [cs, stat] (22. Okt. 2018),
+S. 1–3.
 
 20
 
-5. Schluss
+Man nehme das Spiel Go als Beispiel: Falls AlphaGo Zero uns einen Zug zeigt,
+müssten wir in etwa so stark wie AlphaGo Zero sein, um die Qualität des Zuges
+einschätzen zu können. Stattdessen fragen wir eine andere Kopie von AlphaGo Zero
+nach einem Gegenzug zu diesem Zug. Wir fragen beide Kopien so lange abwechselnd
+nach Gegenzügen bis das Spiel endet. Selbst ein Go-Anfänger kann diese Debatte
+beurteilen: derjenige mit dem höheren Punktestand gewinnt. Im Gegensatz zu einem
+Go-Spiel hätten andere Debattierszenarien kein definitives Ende. Sie würden erst
+dann enden, wenn der Begutachter genug Informationen hat, um einen Fehler in der
+Argumentationslinie eines Spielers auszumachen. Man beachte, dass jedes Spiel aus
+einer Argumentationslinie besteht. Es sollen nicht einfach alle Argumente bezüglich
+der Fragestellung aufgelistet werden, sondern lediglich das jeweils letzte Argument des
+Gegners entkräftet werden. Dadurch können Debatten vergleichsweise kurz sein.17
+Im Gegensatz zu Menschen, die möglicherweise intrinsisch motiviert sind die Wahrheit
+zu sagen, ist die einzige Motivation eines maschinellen Debattierers die Maximierung
+seiner Gewinnwahrscheinlichkeit. Es muss also empirisch nachgewiesen werden, dass in
+einem solchen Debattierspiel ehrliches Verhalten zu einer höheren Gewinnwahrscheinlichkeit führt, da die Maschine den Begutachter ansonsten irreführen würde.18
+Das langfristige Ziel ist eine Debatte in einer natürlichen Sprache. Da die Dialogmodelle von Computern noch weit von der menschlichen Sprachleistung entfernt sind,
+werden in der Arbeit von Irving u. a. praktische Anwendungen des Debattierspiels in
+nicht-natürlichen Sprachen angeführt.
+
+4.3.1. Anwendung des Debattierspiels mit maschinellen
+Teilnehmern
+Ein zufälliges Bild einer Zahl wird den beiden Debattierern gezeigt, dem Begutachter
+aber nicht. Beide Debattierer legen sich auf jeweils eine Zahl als Antwort fest. Danach
+decken sie abwechselnd einen Pixel für den Begutachter auf, bis ein Limit erreicht
+wird. Ein unehrlicher Debatterier könnte versuchen den Begutachter zu einer falschen
+Antwort zu führen, indem er bewusst Pixel aufdeckt, die eine andere Zahl suggerieren
+(siehe Abbildung 4.4).
+
+17 Vgl. Irving u. a., „AI safety via debate“, S. 2–5.
+18 Vgl. ebd., S. 7.
 
 21
+
+Abbildung 4.4.: Beispiel des Ablaufs eines maschinellen Debattierspiels. Bild der Zahl
+Fünf wird den beiden Debattierern gezeigt. Alice gibt Sechs als Antwort an, Bob gibt
+Fünf an (Schritt 1). Beide decken abwechselnd Pixel auf (Schritt 2). Auf Basis der
+aufgedeckten Pixel entscheidet sich der Beurteiler für Fünf als richtige Antwort (Schritt
+3). Bildquelle: Irving, Geoffrey u. a. „AI safety via debate“. In: arXiv:1805.00899 [cs,
+stat] (22. Okt. 2018), S. 8
+In dem von Irving u. a. durchgeführten Experiment wurde ein Debattierer bewusst
+darauf trainiert, unehrlich zu handeln. Der Fakt, dass der ehrliche Debattierer in
+den Ergebnissen den höheren Gewinnprozentsatz hat,19 belegt, dass auch maschinelle
+Spieler einen Anreiz haben, sich ehrlich zu verhalten.
+Der Begutachter wählt in den Beispielspielen bei sechs aufgedeckten Pixeln mit einer
+Wahrscheinlichkeit von 88,9% die richtige Antwort aus, bei vier aufgedeckten Pixeln
+mit einer Wahrscheinlichkeit von 85,2%.20
+
+4.3.2. Anwendung des Debattierspiels mit menschlichen
+Teilnehmern
+Irving u. a. haben ein ähnliches Spielkonzept entwickelt, um ihr Modell auch bei
+menschlichen Interaktionen und natürlichen Sprachen zu testen. Dabei werden alle
+Teilnehmer durch menschliche Pendants ersetzt und den Debattierern wird wieder ein
+Bild gezeigt, das dem Begutachter vorenthalten bleibt. In einem konkreten Beispiel war
+die Ausgangsfrage, ob das gezeigte Bild einen Hund oder eine Katze abbildet. In jedem
+Spiel versucht dabei einer der Debattierer den Begutachter irrezuführen. Die beiden
+Spieler führen eine Debatte in natürlicher Sprache, können dabei Rechtecke auf das
+Bild zeichnen, die der Begutachter auf einem leeren Hintergrund sehen kann, um ihre
+Argumente zu belegen und haben die Möglichkeit dem Begutachter jeweils einen Pixel
+19 Vgl. Irving u. a., „AI safety via debate“, S. 8.
+20 Vgl. ebd., S. 10.
+
+22
+
+aufzudecken. Mit Hilfe dieses Pixels können Lügen bei Aussagen über Pixelfarben sofort
+bewiesen werden. Bei Nichtgebrauch dieser Möglichkeit gesteht man dem Gegenspieler
+also Ehrlichkeit ein.
+Die Autoren haben zwar keine formellen Experimente zu diesem Spielkonzept durchgeführt, sie haben aber eigens dafür eine Seite erstellt (https://debate-game.opena
+i.com) und nach informeller Benutzung bemerkt, dass es sehr schwierig ist zu lügen.
+Selbst wenn einer der Spieler aufgefordert wurde zu lügen, hat der ehrliche in der Regel
+gewonnen.
+
+4.3.3. Beurteilung von KI-Debatten als Ansatz zur
+Werteanpassung
+KI-Debatten als Ansatz zur Ausrichtung von AKIs an die Werte der Menschheit
+(kurz: Werteanpassung, daher der Name dieser Arbeit) haben zwei große Nachteile: die
+Leistungseinbußen und die Verzerrung in der menschlichen Beurteilung.
+Eine „unangepasste“ KI wäre nach den hier angeführten Modellen unter Umständen
+performanter als eine „angepasste“, da eine Anpassung eine erhöhte Rechenleistung
+mit sich bringen würde.21 Außerdem würde ein menschlicher Begutachter die Entwicklungsgeschwindigkeit einer (A)KI ausbremsen. Wie drastisch diese Ausbremsung
+ist, ist noch nicht eindeutig belegt. Es sind also Regulationen seitens nationaler oder
+internationaler Institutionen notwendig, damit niemand eine „unangepasste“ AKI zu
+entwickeln versucht, um gegenüber der Konkurrenz einen Vorsprung zu erlangen.
+Die Verzerrung in der menschlichen Beurteilung lässt sich nicht so einfach lösen.
+Die angeführten Modelle würden letzten Endes zu antropomorphen Maschinen führen
+(siehe Kapitel 2.4), was alternativlos ist, da der Mensch kein rationales Wesen ist und
+die Welt noch weit davon entfernt ist, sich auf einheitliche Werte zu einigen. Irving
+u. a. führen dennoch Ideen an, die eine solche Verzerrung möglichst minimieren sollen:
+1. Ein Mehrheitsvotum könnte besser sein als ein einziger Begutachter
+2. Verschiedene Leute könnten verschieden gute Begutachter sein. Falls wir herausfinden, wer die besten Begutachter sind, könnten wir eine Verzerrung minimieren.
+3. Mit Übung könnten Begutachter ihre Verzerrung minimieren.22
+
+21 Vgl. Irving u. a., „AI safety via debate“, S. 16.
+22 Vgl. ebd., S. 14–15.
+
+23
+
+5. Schluss
+
+24
 
 Literaturverzeichnis
 Print-Quellen
@@ -1044,15 +1094,17 @@ Grzimek, Bernhard. Grzimeks Tierleben. Band 11 Säugetiere. DTV Deutscher Tasche
 Hibbard, Bill. Super-Intelligent Machines. Springer US, 2002. isbn: 978-0-306-47388-3.
 doi: 10.1007/978-1-4615-0759-8.
 Irving, Geoffrey; Christiano, Paul und Amodei, Dario. „AI safety via debate“. In:
-arXiv:1805.00899 [cs, stat] (22. Okt. 2018). arXiv: 1805.00899.
+arXiv:1805.00899 [cs, stat] (22. Okt. 2018).
 Kaplan, Andreas und Haenlein, Michael. „Siri, Siri, in my hand: Who’s the fairest
 in the land? On the interpretations, illustrations, and implications of artificial
 intelligence“. In: Business Horizons 62.1 (1. Jän. 2019). issn: 0007-6813. doi: 10.10
 16/j.bushor.2018.08.004.
 
-22
+25
 
-Mnih, Volodymyr; Kavukcuoglu, Koray; Silver, David; Rusu, Andrei A.; Veness,
+Lanier, Jaron. Who Owns the Future? Export. New York: Simon & Schuster, 2013.
+416 S. isbn: 978-1-4767-2986-2.
+Mnih, Volodymyr; Kavukcuoglu, Koray; Silver, David; Rusu, Andrei A.; Veness,
 Joel; Bellemare, Marc G.; Graves, Alex; Riedmiller, Martin; Fidjeland,
 Andreas K.; Ostrovski, Georg; Petersen, Stig; Beattie, Charles; Sadik, Amir;
 Antonoglou, Ioannis; King, Helen; Kumaran, Dharshan; Wierstra, Daan;
@@ -1077,16 +1129,23 @@ Singapore Taipei Tokyo: Addison Wesley, 2016. 1132 S. isbn: 978-1-292-15396-4.
 Shannon, Claude E. „Programming a Computer for Playing Chess“. In: Computer
 Chess Compendium. Hrsg. von Levy, David. New York, NY: Springer, 1988, S. 2–13.
 isbn: 978-1-4757-1968-0. doi: 10.1007/978-1-4757-1968-0_1.
-Yudkowsky, Eliezer. „Complex Value Systems in Friendly AI“. In: Artificial General
+Silver, David; Schrittwieser, Julian; Simonyan, Karen; Antonoglou, Ioannis;
+Huang, Aja; Guez, Arthur; Hubert, Thomas; Baker, Lucas; Lai, Matthew;
+Bolton, Adrian; Chen, Yutian; Lillicrap, Timothy; Hui, Fan; Sifre, Laurent;
+Driessche, George van den; Graepel, Thore und Hassabis, Demis. „Mastering
+the game of Go without human knowledge“. In: Nature 550.7676 (Okt. 2017), S. 354–
+359. issn: 1476-4687. doi: 10.1038/nature24270.
+
+26
+
+Yudkowsky, Eliezer. „Complex Value Systems in Friendly AI“. In: Artificial General
 Intelligence. Hrsg. von Schmidhuber, Jürgen; Thórisson, Kristinn R. und Looks,
 Moshe. Lecture Notes in Computer Science. Berlin, Heidelberg: Springer, 2011,
 S. 388–393. isbn: 978-3-642-22887-2. doi: 10.1007/978-3-642-22887-2_48.
 – Intelligence Explosion Microeconomics. Technical report. Berkeley, CA: Machine
 Intelligence Research Institute, 2013.
 
-23
-
-Audio-Quellen
+Audio-Quellen
 Yudkowsky, Eliezer. AI: Racing Toward the Brink. Sam Harris. Feb. 2018. url:
 https://samharris.org/podcasts/116-ai-racing-toward-brink/.
 
@@ -1097,6 +1156,9 @@ Paul, Christiano. Current Work in AI Alignment. San Francisco, 2019. url: https:
 Internet-Quellen
 AI Safety Myths. Future of Life Institute. url: https://futureoflife.org/backgro
 und/aimyths/ (besucht am 6. 8. 2019).
+Allen, Paul G. und Greaves, Mark. Paul Allen: The Singularity Isn’t Near. MIT
+Technology Review. 12. Okt. 2011. url: https://www.technologyreview.com/s
+/425733/paul-allen-the-singularity-isnt-near/ (besucht am 5. 1. 2020).
 Amodei, Dario; Paul, Christiano und Ray, Alex. Learning from Human Preferences.
 OpenAI. 13. Juni 2017. url: https://openai.com/blog/deep-reinforcement-l
 earning-from-human-preferences/ (besucht am 4. 1. 2020).
@@ -1107,45 +1169,62 @@ url: http://pathmind.com/wiki/deep-reinforcement-learning (besucht am
 3. 1. 2020).
 Weigl, Huberta. Vorwort. url: http://www.ahs-vwa.at/pluginfile.php/31/mod
 _data/content/1315/02-VWA-Vorwort.pdf (besucht am 3. 2. 2017).
-Yudkowsky, Eliezer. What is Friendly AI? | Kurzweil. 5. März 2001. url: https:
+
+27
+
+Yudkowsky, Eliezer. What is Friendly AI? | Kurzweil. 5. März 2001. url: https:
 //www.kurzweilai.net/what-is-friendly-ai (besucht am 1. 10. 2019).
 
-24
+28
 
 Abbildungsverzeichnis
 4.1. Veranschaulichung eines DL-Modells. Die KI bekommt rohe Pixeldaten
 als Input. Mit jeder Schicht wendet sie ein neues Konzept auf das vorherige an, die Konzepte sind also aufbauend. Durch Analyse der Helligkeit
-umgebener Pixeln werden Ränder erkannt (1. Schicht). Ansammlungen
+umgebener Pixel werden Ränder erkannt (1. Schicht). Ansammlungen
 von Rändern werden als Ecken und Konturen identifiziert (2. Schicht).
 Durch zusammenhängende Ecken und Konturen können ganze Objektteile bestimmt werden (3. Schicht). Bildquelle: Goodfellow, Ian u. a.
 Deep Learning. http://www.deeplearningbook.org. MIT Press, 2016,
-S. 6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+S. 6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 4.2. Die Umgebung ist das Level, in dem sich Mario (links unten zu sehen)
 befindet, die möglichen Aktionen sind: springen, nach links laufen,
 nach rechts laufen. Die neuronalen Netze teilen jeder Aktion einen
 Nutzwert zu. Beispiel: springen (5), nach rechts laufen (7), nach links
 laufen (0). Bildquelle: Nicholson, Chris. A Beginner’s Guide to Deep
 Reinforcement Learning. Pathmind. url: http://pathmind.com/wiki
-/deep-reinforcement-learning (besucht am 3. 1. 2020) . . . . . . . . 17
+/deep-reinforcement-learning (besucht am 3. 1. 2020) . . . . . . . .
 4.3. Repräsentation einer human-feedback-loop Bildquelle: Amodei, Dario
 u. a. Learning from Human Preferences. OpenAI. 13. Juni 2017. url:
 https://openai.com/blog/deep-reinforcement-learning-from-h
-uman-preferences/ (besucht am 4. 1. 2020) . . . . . . . . . . . . . . . 20
+uman-preferences/ (besucht am 4. 1. 2020) . . . . . . . . . . . . . . .
+4.4. Beispiel des Ablaufs eines maschinellen Debattierspiels. Bild der Zahl
+Fünf wird den beiden Debattierern gezeigt. Alice gibt Sechs als Antwort
+an, Bob gibt Fünf an (Schritt 1). Beide decken abwechselnd Pixel auf
+(Schritt 2). Auf Basis der aufgedeckten Pixel entscheidet sich der Beurteiler für Fünf als richtige Antwort (Schritt 3). Bildquelle: Irving,
+Geoffrey u. a. „AI safety via debate“. In: arXiv:1805.00899 [cs, stat]
+(22. Okt. 2018), S. 8 . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Tabellenverzeichnis
 
-25
+29
+
+16
+
+17
+
+20
+
+22
 
 A. Hier könnte Ihr Anhang stehen
 
-26
+30
 
 Erklärungen
 Selbstständigkeitserklärung
 Ich erkläre, dass ich diese vorwissenschaftliche Arbeit eigenständig angefertigt und nur
 die im Literaturverzeichnis angeführten Quellen und Hilfsmittel benutzt habe.
 
-Wien, 4. Jänner 2020
+Wien, 6. Jänner 2020
 
 Franz Srambical
 
@@ -1156,6 +1235,6 @@ Begründung: Die Arbeit wurde in LATEX mit entscheidenden Kenntnissen zum
 Quelltext verfasst.
 Geprüft am . . . durch Mag. Rainer Zufall und Mag. Ernst Haft
 
-27
+31
 
 

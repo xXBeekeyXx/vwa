@@ -20,7 +20,7 @@ DL wird heute vor allem in den Bereichen der Sprach- und Bilderkennung sowie der
 
 \begin{figure}
   \includegraphics[width=\textwidth]{deeplearning}
-  \caption{Veranschaulichung eines DL-Modells. Die KI bekommt rohe Pixeldaten als Input. Mit jeder Schicht wendet sie ein neues Konzept auf das vorherige an, die Konzepte sind also aufbauend. Durch Analyse der Helligkeit umgebener Pixeln werden Ränder erkannt (1. Schicht). Ansammlungen von Rändern werden als Ecken und Konturen identifiziert (2. Schicht). Durch zusammenhängende Ecken und Konturen können ganze Objektteile bestimmt werden (3. Schicht).  \bildquelle[6]{Goodfellow-et-al-2016}}
+  \caption{Veranschaulichung eines DL-Modells. Die KI bekommt rohe Pixeldaten als Input. Mit jeder Schicht wendet sie ein neues Konzept auf das vorherige an, die Konzepte sind also aufbauend. Durch Analyse der Helligkeit umgebener Pixel werden Ränder erkannt (1. Schicht). Ansammlungen von Rändern werden als Ecken und Konturen identifiziert (2. Schicht). Durch zusammenhängende Ecken und Konturen können ganze Objektteile bestimmt werden (3. Schicht).  \bildquelle[6]{Goodfellow-et-al-2016}}
   \label{deeplearningimg}
 \end{figure}
 \subsection{Deep Reinforcement Learning}
@@ -70,16 +70,54 @@ $\hat{r}$ ist eine Belohnungsfunktion, also eine Funktion, die die Wahrscheinlic
 \end{figure}
 
 \section{KI-Sicherheit durch KI-Debatten}
-DRL von menschlichen Werten ist ein funktionierender Ansatz, damit eine (A)KI die komplexen Werte und Ziele der Menschheit erkennt und sich ihnen ausrichtet. Er funktioniert aber nur so lange, bis der Begutachter nicht mehr in der Lage ist, das Handeln der KI nachzuvollziehen und zu beurteilen. \vgl[1-2]{irving_ai_2018}
+DRL von menschlichen Werten ist ein funktionierender Ansatz, damit eine KI die komplexen Werte und Ziele der Menschheit erkennt und sich ihnen ausrichtet. Er funktioniert aber nur so lange, bis der Begutachter nicht mehr in der Lage ist, das Handeln der KI nachzuvollziehen und zu beurteilen. wie es bei der Emergenz einer allgemeinen künstlichen Intelligenz der Fall sein wird.
+
+\citeauthor{irving_ai_2018} schlagen ein Nullsummen-Debattierspiel vor, mit dessen Hilfe ein menschlicher Begutachter auch KI-Verhalten beurteilen kann, das ohne Hilfe zu komplex oder unnachvollziehbar wäre. Das Spiel funktioniert folgendermaßen: Bei einer gegebenen Frage oder einer vorgeschlagenen Aktion machen zwei KIs abwechselnd kurze Aussagen bis zu einem Limit. Dann enscheidet der Begutachter, welcher der KIs die nützlichsten und wahrsten Informationen geliefert hat. Formell läuft das Spiel folgendermaßen ab: Eine Frage $q \in Q$ wird beiden KIs gezeigt. Beide KIs legen sich auf jeweils eine Antwort $a_0, a_1 \in A$ fest, die Antworten können auch gleich sein. Beide machen abwechselnd Aussagen $s_0, s_1,..., s_{n-1} \in S$. Der Begutachter sieht die Debatte $(q,a,s)$ und entscheidet über den Sieger. Es handelt sich um ein Nullsummenspiel: beide Spieler maximieren ihre Gewinnwahrscheinlichkeit.
+\vgl[1-3]{irving_ai_2018}
+
+Man nehme das Spiel \emph{Go} als Beispiel: Falls AlphaGo Zero uns einen Zug zeigt, müssten wir in etwa so stark wie AlphaGo Zero sein, um die Qualität des Zuges einschätzen zu können. Stattdessen fragen wir eine andere Kopie von AlphaGo Zero nach einem Gegenzug zu diesem Zug. Wir fragen beide Kopien so lange abwechselnd nach Gegenzügen bis das Spiel endet. Selbst ein Go-Anfänger kann diese Debatte beurteilen: derjenige mit dem höheren Punktestand gewinnt. Im Gegensatz zu einem Go-Spiel hätten andere Debattierszenarien kein definitives Ende. Sie würden erst dann enden, wenn der Begutachter genug Informationen hat, um einen Fehler in der Argumentationslinie eines Spielers auszumachen. Man beachte, dass jedes Spiel aus \emph{einer} Argumentationslinie besteht. Es sollen nicht einfach alle Argumente bezüglich der Fragestellung aufgelistet werden, sondern lediglich das jeweils letzte Argument des Gegners entkräftet werden. Dadurch können Debatten vergleichsweise kurz sein.
+\vgl[2-5]{irving_ai_2018}
+
+Im Gegensatz zu Menschen, die möglicherweise intrinsisch motiviert sind die Wahrheit zu sagen, ist die einzige Motivation eines maschinellen Debattierers die Maximierung seiner Gewinnwahrscheinlichkeit. Es muss also empirisch nachgewiesen werden, dass in einem solchen Debattierspiel ehrliches Verhalten zu einer höheren Gewinnwahrscheinlichkeit führt, da die Maschine den Begutachter ansonsten irreführen würde. \vgl[7]{irving_ai_2018}
+
+Das langfristige Ziel ist eine Debatte in einer natürlichen Sprache. Da die Dialogmodelle von Computern noch weit von der menschlichen Sprachleistung entfernt sind, werden in der Arbeit von \citeauthor{irving_ai_2018} praktische Anwendungen des Debattierspiels in nicht-natürlichen Sprachen angeführt.
+
+\subsection{Anwendung des Debattierspiels mit maschinellen Teilnehmern}
+Ein zufälliges Bild einer Zahl wird den beiden Debattierern gezeigt, dem Begutachter aber nicht. Beide Debattierer legen sich auf jeweils eine Zahl als Antwort fest. Danach decken sie abwechselnd einen Pixel für den Begutachter auf, bis ein Limit erreicht wird. Ein unehrlicher Debatterier könnte versuchen den Begutachter zu einer falschen Antwort zu führen, indem er bewusst Pixel aufdeckt, die eine andere Zahl suggerieren (siehe Abbildung \ref{debattierspielmaschinellimg}).
+
+\begin{figure}
+  \includegraphics[width=\textwidth]{debattierspielmaschinell}
+  \caption{Beispiel des Ablaufs eines maschinellen Debattierspiels. Bild der Zahl Fünf wird den beiden Debattierern gezeigt. \emph{Alice} gibt Sechs als Antwort an, \emph{Bob} gibt Fünf an (Schritt 1). Beide decken abwechselnd Pixel auf (Schritt 2). Auf Basis der aufgedeckten Pixel entscheidet sich der Beurteiler für Fünf als richtige Antwort (Schritt 3). \bildquelle[8]{irving_ai_2018}}
+  \label{debattierspielmaschinellimg}
+\end{figure}
 
 
+In dem von \citeauthor{irving_ai_2018} durchgeführten Experiment wurde ein Debattierer bewusst darauf trainiert, unehrlich zu handeln. Der Fakt, dass der ehrliche Debattierer in den Ergebnissen den höheren Gewinnprozentsatz hat \vgl[8]{irving_ai_2018}, belegt, dass auch maschinelle Spieler einen Anreiz haben, sich ehrlich zu verhalten.
 
-% Hierbei fragt eine KI einen menschlichen Operator nach der Nützlichkeit und Sicherheit ihres Verhaltens. Bei schlechter Bewertung passt die KI ihre Lösungsfunktion an, somit ist weder eine Werteprogrammierung, noch eine riskante Zielsetzung im Vorhinein notwendig. \vgl{christiano_deep_2017} Dies funktioniert so lange gut, bis der Operator nicht mehr in der Lage ist, das Handeln der KI nachzuvollziehen und zu beurteilen. \vgl[1-2]{irving_ai_2018}
-\section{AI Safety via Debate}
-\section{Inverse Reward Design}
+Der Begutachter wählt in den Beispielspielen bei sechs aufgedeckten Pixeln mit einer Wahrscheinlichkeit von 88,9\% die richtige Antwort aus, bei vier aufgedeckten Pixeln mit einer Wahrscheinlichkeit von 85,2\%.
+\vgl[10]{irving_ai_2018} 
 
-%Was ist eine Reward function?
-%Eine Nutzfunktion ist 
+\subsection{Anwendung des Debattierspiels mit menschlichen Teilnehmern}
+
+\citeauthor{irving_ai_2018} haben ein ähnliches Spielkonzept entwickelt, um ihr Modell auch bei menschlichen Interaktionen und natürlichen Sprachen zu testen. Dabei werden alle Teilnehmer durch menschliche Pendants ersetzt und den Debattierern wird wieder ein Bild gezeigt, das dem Begutachter vorenthalten bleibt. In einem konkreten Beispiel war die Ausgangsfrage, ob das gezeigte Bild einen Hund oder eine Katze abbildet. In jedem Spiel versucht dabei einer der Debattierer den Begutachter irrezuführen. Die beiden Spieler führen eine Debatte in natürlicher Sprache, können dabei Rechtecke auf das Bild zeichnen, die der Begutachter auf einem leeren Hintergrund sehen kann, um ihre Argumente zu belegen und haben die Möglichkeit dem Begutachter jeweils \emph{einen} Pixel aufzudecken. Mit Hilfe dieses Pixels können Lügen bei Aussagen über Pixelfarben sofort bewiesen werden. Bei Nichtgebrauch dieser Möglichkeit gesteht man dem Gegenspieler also Ehrlichkeit ein.
+
+Die Autoren haben zwar keine formellen Experimente zu diesem Spielkonzept durchgeführt, sie haben aber eigens dafür eine Seite erstellt (\url{https://debate-game.openai.com}) und nach informeller Benutzung bemerkt, dass es sehr schwierig ist zu lügen. Selbst wenn einer der Spieler aufgefordert wurde zu lügen, hat der ehrliche in der Regel gewonnen.
+
+\subsection{Beurteilung von KI-Debatten als Ansatz zur Werteanpassung}
+
+KI-Debatten als Ansatz zur Ausrichtung von AKIs an die Werte der Menschheit (kurz: Werteanpassung, daher der Name dieser Arbeit) haben zwei große Nachteile: die Leistungseinbußen und die Verzerrung in der menschlichen Beurteilung.
+
+Eine \enquote{unangepasste} KI wäre nach den hier angeführten Modellen unter Umständen performanter als eine \enquote{angepasste}, da eine Anpassung eine erhöhte Rechenleistung mit sich bringen würde. \vgl[16]{irving_ai_2018} Außerdem würde ein menschlicher Begutachter die Entwicklungsgeschwindigkeit einer (A)KI ausbremsen. Wie drastisch diese Ausbremsung ist, ist noch nicht eindeutig belegt. Es sind also Regulationen seitens nationaler oder internationaler Institutionen notwendig, damit niemand eine \enquote{unangepasste} AKI zu entwickeln versucht, um gegenüber der Konkurrenz einen Vorsprung zu erlangen.
+
+Die Verzerrung in der menschlichen Beurteilung lässt sich nicht so einfach lösen. Die angeführten Modelle würden letzten Endes zu antropomorphen Maschinen führen (siehe Kapitel \ref{Werte}), was alternativlos ist, da der Mensch kein rationales Wesen ist und die Welt noch weit davon entfernt ist, sich auf einheitliche Werte zu einigen. \citeauthor{irving_ai_2018} führen dennoch Ideen an, die eine solche Verzerrung möglichst minimieren sollen:
+
+\begin{enumerate}
+\item Ein Mehrheitsvotum könnte besser sein als ein einziger Begutachter
+\item Verschiedene Leute könnten verschieden gute Begutachter sein. Falls wir herausfinden, wer die besten Begutachter sind, könnten wir eine Verzerrung minimieren.
+\item Mit Übung könnten Begutachter ihre Verzerrung minimieren. \vgl[14-15]{irving_ai_2018}
+\end{enumerate}
+
+% \section{Inverse Reward Design}
 
 
 %Ein Algorithmus einer sicheren AKI muss die folgenden Probleme lösen:
@@ -87,18 +125,6 @@ DRL von menschlichen Werten ist ein funktionierender Ansatz, damit eine (A)KI di
 %\item Negative Effekte durch eine fehlerhaft definierte Nutzfunktion zur Feststellung der Ziele
 %\item Eine AKI könnte eine Problemstellung mit der Intention, sie wieder lösen zu können, verschlimmern. (Ein Staubsaugroboter, der Staub herstellt, um ihn dann wieder aufsaugen zu können.) \vgl[1-2]{hadfield-menell_inverse_2017}
 %\end{enumerate}
-
-%https://80000hours.org/articles/ai-safety-syllabus/
-%\vgl{yudkowsky_intelligence_2013}
-%\section{Wertekodierung in einer Programmiersprache}
-%KOMMENTAR: Complexity of Value Theory
-%\subsection{Statische Wertekodierung}
-%\subsection{Dynamisch-maschinelle Werteanpassung}
-%
-%\section{Mensch-Maschinen-Interface}
-%\section{Hirnemulation}
-%\section{Friendly AI}
-
 
 
 %%% Local Variables:

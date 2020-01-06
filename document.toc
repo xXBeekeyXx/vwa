@@ -7,7 +7,7 @@
 \contentsline {section}{\numberline {2.3}Definition von allgemeiner künstlicher Intelligenz}{8}{section.2.3}% 
 \contentsline {section}{\numberline {2.4}Werte einer allgemeinen künstlichen Intelligenz}{8}{section.2.4}% 
 \contentsline {section}{\numberline {2.5}Wann wird es sie geben?}{10}{section.2.5}% 
-\contentsline {section}{\numberline {2.6}Die These der Intelligenzexplosion}{10}{section.2.6}% 
+\contentsline {section}{\numberline {2.6}Die These der Intelligenzexplosion}{11}{section.2.6}% 
 \contentsline {chapter}{\numberline {3}Probleme einer allgemeinen künstlichen Intelligenz}{12}{chapter.3}% 
 \contentsline {section}{\numberline {3.1}Fehlerhafte Vorstellungen einer KI-Katastrophe}{12}{section.3.1}% 
 \contentsline {subsection}{\numberline {3.1.1}KI, die ein Bewusstsein erlangt}{12}{subsection.3.1.1}% 
@@ -25,15 +25,16 @@
 \contentsline {subsection}{\numberline {4.1.4}Inverse Reinforcement Learning}{17}{subsection.4.1.4}% 
 \contentsline {section}{\numberline {4.2}Deep Reinforcement Learning von menschlichen Werten}{18}{section.4.2}% 
 \contentsline {section}{\numberline {4.3}KI-Sicherheit durch KI-Debatten}{20}{section.4.3}% 
-\contentsline {section}{\numberline {4.4}AI Safety via Debate}{20}{section.4.4}% 
-\contentsline {section}{\numberline {4.5}Inverse Reward Design}{20}{section.4.5}% 
-\contentsline {chapter}{\numberline {5}Schluss}{21}{chapter.5}% 
-\contentsline {chapter}{\nonumberline Literaturverzeichnis}{22}{chapter*.4}% 
-\contentsline {section}{\nonumberline Print-Quellen}{22}{section*.5}% 
-\contentsline {section}{\nonumberline Audio-Quellen}{24}{section*.6}% 
-\contentsline {section}{\nonumberline Video-Quellen}{24}{section*.7}% 
-\contentsline {section}{\nonumberline Internet-Quellen}{24}{section*.8}% 
-\contentsline {chapter}{\nonumberline Abbildungsverzeichnis}{25}{chapter*.9}% 
-\contentsline {chapter}{\nonumberline Tabellenverzeichnis}{25}{chapter*.10}% 
-\contentsline {chapter}{\numberline {A}Hier könnte Ihr Anhang stehen}{26}{appendix.A}% 
-\contentsline {chapter}{\nonumberline Erklärungen}{27}{chapter*.11}% 
+\contentsline {subsection}{\numberline {4.3.1}Anwendung des Debattierspiels mit maschinellen Teilnehmern}{21}{subsection.4.3.1}% 
+\contentsline {subsection}{\numberline {4.3.2}Anwendung des Debattierspiels mit menschlichen Teilnehmern}{22}{subsection.4.3.2}% 
+\contentsline {subsection}{\numberline {4.3.3}Beurteilung von KI-Debatten als Ansatz zur Werteanpassung}{23}{subsection.4.3.3}% 
+\contentsline {chapter}{\numberline {5}Schluss}{24}{chapter.5}% 
+\contentsline {chapter}{\nonumberline Literaturverzeichnis}{25}{chapter*.4}% 
+\contentsline {section}{\nonumberline Print-Quellen}{25}{section*.5}% 
+\contentsline {section}{\nonumberline Audio-Quellen}{27}{section*.6}% 
+\contentsline {section}{\nonumberline Video-Quellen}{27}{section*.7}% 
+\contentsline {section}{\nonumberline Internet-Quellen}{27}{section*.8}% 
+\contentsline {chapter}{\nonumberline Abbildungsverzeichnis}{29}{chapter*.9}% 
+\contentsline {chapter}{\nonumberline Tabellenverzeichnis}{29}{chapter*.10}% 
+\contentsline {chapter}{\numberline {A}Hier könnte Ihr Anhang stehen}{30}{appendix.A}% 
+\contentsline {chapter}{\nonumberline Erklärungen}{31}{chapter*.11}% 
