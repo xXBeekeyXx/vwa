@@ -23,7 +23,7 @@ Klasse:
 
 Entwurf:
 
-6. Jänner 2020
+7. Februar 2020
 
 Homepage: http://www.dls21.at
 
@@ -33,270 +33,282 @@ E-Mail: ahs.direktion@delasalle.at
 Der Zusammenfassungstext kommt hier her. Abstract ist kein Vorwort und keine
 Einleitung!
 
-Vorwort
-Das Vorwort ist optional: d. h. man muss kein Vorwort schreiben! Wer will, kann das in
-dieser Form tun. Am Ende sollten Ort, Datum und der Name des Autors des Vorworts
-angegeben werden.1
-Wien am 6. Jänner 2020
-Franz Srambical
-
-1 Vgl. Weigl, Huberta. Vorwort. url: http://www.ahs-vwa.at/pluginfile.php/31/mod_data/c
-ontent/1315/02-VWA-Vorwort.pdf (besucht am 3. 2. 2017).
-
 Inhaltsverzeichnis
-1. Einleitung
+1 Einleitung
+
+5
+
+2 Allgemeine künstliche Intelligenz
+2.1 Definition von Intelligenz . . . . . .
+2.2 Künstliche Intelligenz . . . . . . . .
+2.3 Allgemeine künstliche Intelligenz .
+2.4 Werte einer allgemeinen künstlichen
+2.5 Wann wird es sie geben? . . . . . .
+2.6 Die These der Intelligenzexplosion .
+
+.
+.
+.
+.
+.
+.
 
 6
-
-2. Allgemeine künstliche Intelligenz
-2.1. Definition von Intelligenz . . . . . . . . . . . . . .
-2.2. Definition von künstlicher Intelligenz . . . . . . .
-2.3. Definition von allgemeiner künstlicher Intelligenz
-2.4. Werte einer allgemeinen künstlichen Intelligenz . .
-2.5. Wann wird es sie geben? . . . . . . . . . . . . . .
-2.6. Die These der Intelligenzexplosion . . . . . . . . .
-
-.
-.
-.
-.
-.
-.
-
+6
 7
 7
-8
-8
-8
-10
+7
+9
+9
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
 11
-
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-
-12
+11
+11
+11
 12
 12
 12
 13
-13
-13
-13
-13
-
-4. Maschinelle Werteanpassung
-4.1. KI-Lernverfahren . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-4.1.1. Reinforcement Learning . . . . . . . . . . . . . . . . . . . . .
-4.1.2. Deep Learning . . . . . . . . . . . . . . . . . . . . . . . . . . .
-4.1.3. Deep Reinforcement Learning . . . . . . . . . . . . . . . . . .
-4.1.4. Inverse Reinforcement Learning . . . . . . . . . . . . . . . . .
-4.2. Deep Reinforcement Learning von menschlichen Werten . . . . . . . .
-4.3. KI-Sicherheit durch KI-Debatten . . . . . . . . . . . . . . . . . . . .
-4.3.1. Anwendung des Debattierspiels mit maschinellen Teilnehmern
-4.3.2. Anwendung des Debattierspiels mit menschlichen Teilnehmern
-4.3.3. Beurteilung von KI-Debatten als Ansatz zur Werteanpassung .
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
 14
 14
-14
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
 15
 15
-17
+15
+16
+16
 18
-20
+19
 21
 22
 23
-
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-
-3. Probleme einer allgemeinen künstlichen Intelligenz
-3.1. Fehlerhafte Vorstellungen einer KI-Katastrophe . . .
-3.1.1. KI, die ein Bewusstsein erlangt . . . . . . . .
-3.1.2. Roboter als Auslöser einer Katastrophe . . . .
-3.1.3. Bösartige AKI . . . . . . . . . . . . . . . . . .
-3.2. Auswirkungen einer AKI . . . . . . . . . . . . . . . .
-3.2.1. Destruktives Potential . . . . . . . . . . . . .
-3.2.2. Machtverschiebung -und konzentration . . . .
-3.2.3. Missbrauch . . . . . . . . . . . . . . . . . . .
-
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-
-5. Schluss
-
 24
 
+. . . . . . .
+. . . . . . .
+. . . . . . .
+Intelligenz .
+. . . . . . .
+. . . . . . .
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+3 Probleme einer allgemeinen künstlichen Intelligenz
+3.1 Fehlerhafte Vorstellungen einer KI-Katastrophe . . .
+3.1.1 KI, die ein Bewusstsein erlangt . . . . . . . .
+3.1.2 Roboter als Auslöser einer Katastrophe . . . .
+3.1.3 Bösartige AKI . . . . . . . . . . . . . . . . . .
+3.2 Auswirkungen einer AKI . . . . . . . . . . . . . . . .
+3.2.1 Arbeitslosigkeit durch Automatisierung . . . .
+3.2.2 Machtverschiebung -und konzentration . . . .
+3.2.3 Missbrauch durch Cyberattacken . . . . . . .
+3.2.4 Unangepasste AKI . . . . . . . . . . . . . . .
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+4 Maschinelle Werteanpassung
+4.1 KI-Lernverfahren . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.1.1 Reinforcement Learning . . . . . . . . . . . . . . . . . . . . .
+4.1.2 Deep Learning . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.1.3 Deep Reinforcement Learning . . . . . . . . . . . . . . . . . .
+4.1.4 Inverse Reinforcement Learning . . . . . . . . . . . . . . . . .
+4.2 Deep Reinforcement Learning von menschlichen Werten . . . . . . . .
+4.3 KI-Sicherheit durch KI-Debatten . . . . . . . . . . . . . . . . . . . .
+4.3.1 Anwendung des Debattierspiels mit maschinellen Teilnehmern
+4.3.2 Anwendung des Debattierspiels mit menschlichen Teilnehmern
+4.3.3 Beurteilung von KI-Debatten als Ansatz zur Werteanpassung .
+5 Schluss
 Literaturverzeichnis
 Print-Quellen . . .
 Audio-Quellen . . .
@@ -304,17 +316,6 @@ Video-Quellen . . .
 Internet-Quellen . .
 
 25
-25
-27
-27
-27
-
-.
-.
-.
-.
-
-Abbildungsverzeichnis
 
 .
 .
@@ -471,13 +472,22 @@ Abbildungsverzeichnis
 .
 .
 
-29
+.
+.
+.
+.
 
-Tabellenverzeichnis
+26
+26
+28
+28
+28
 
-29
+Abbildungsverzeichnis
 
-A. Hier könnte Ihr Anhang stehen
+30
+
+Tabellenverzeichnis
 
 30
 
@@ -485,7 +495,7 @@ Erklärungen
 
 31
 
-1. Einleitung
+1 Einleitung
 Ich möchte diese Arbeit mit einem Gedankenexperiment beginnen.
 Es existiere ein System, dass durch ein quantitativ und qualitativ höheres Lernniveau
 in der Lage ist, Ziele zu erreichen, die die Menschheit ohne eine solches System nicht
@@ -518,10 +528,10 @@ Economic Perspectives 14.1 (2000), S. 7–26. issn: 0895-3309. url: https://www.
 e/2647048, S. 22–23.
 4 Vgl. ebd., S. 23.
 
-6
+5
 
-2. Allgemeine künstliche Intelligenz
-2.1. Definition von Intelligenz
+2 Allgemeine künstliche Intelligenz
+2.1 Definition von Intelligenz
 Seit Jahrhunderten versuchen Wissenschaftler und Laien gleichermaßen eine Definition
 für den Intelligenzbegriff zu finden. Da bis heute keine Defintion ihre Vollständigkeit
 oder Richtigkeit beweisen konnte, wird in dieser Arbeit der Einfachheit halber versucht,
@@ -544,14 +554,14 @@ der schnellere und effizientere Optimierer ist. Effizienz ist also ein weiterer 
 der Intelligenz.3
 
 1 Vgl. Yudkowsky, Eliezer. AI: Racing Toward the Brink. Sam Harris. Feb. 2018. url: https://sa
-mharris.org/podcasts/116-ai-racing-toward-brink/, 07:30-09:45.
+mharris.org/podcasts/116-ai-racing-toward-brink/ (besucht am 12. 10. 2019), 07:30-09:45.
 2 Vgl. Grzimek, Bernhard. Grzimeks Tierleben. Band 11 Säugetiere. DTV Deutscher Taschenbuchverlag, 1979, S. 508.
 3 Vgl. Yudkowsky, Eliezer. Intelligence Explosion Microeconomics. Technical report. Berkeley, CA:
 Machine Intelligence Research Institute, 2013, S. 9.
 
-7
+6
 
-2.2. Definition von künstlicher Intelligenz
+2.2 Künstliche Intelligenz
 „Artificial intelligence (AI)—defined as a system’s ability to correctly interpret external
 data, to learn from such data, and to use those learnings to achieve specific goals and
 tasks through flexible adaptation“ 4
@@ -566,17 +576,17 @@ vorgesehen war. Um Missverständnisse zu vermeiden, wird für KI wie sie heutzut
 bereits in Benutzung ist der Begriff schwache KI (engl. weak AI oder narrow AI )
 verwendet.5 Dieser beschreibt eine domänenspezifische KI.
 
-2.3. Definition von allgemeiner künstlicher
-Intelligenz
+2.3 Allgemeine künstliche Intelligenz
 Als allgemeine künstliche Intelligenz (AKI; auch starke KI genannt; engl. strong AI oder
 general AI ) bezeichnet man ein technisch fortgeschrittenes System, dessen Lernkapazität
 nicht auf einzelne Domänen begrenzt ist, sondern als allgemein bezeichnet werden
 kann.6
 
-2.4. Werte einer allgemeinen künstlichen
-Intelligenz
+2.4 Werte einer allgemeinen künstlichen Intelligenz
 „The goal is to build AI systems that are trying to do what you want them to do“ 7
-
+Der Instrumental Convergence Thesis 8 nach gibt es bestimmte Ressourcen, die für
+eine AKI beim Erreichen der ihnen vorgegebenen Ziele in den meisten Fällen behilflich
+sind. Dazu gehören unter anderem Materie oder Energie, eine AKI wird jedoch auch
 4 Kaplan, Andreas und Haenlein, Michael. „Siri, Siri, in my hand: Who’s the fairest in the land? On
 the interpretations, illustrations, and implications of artificial intelligence“. In: Business Horizons
 62.1 (1. Jän. 2019). issn: 0007-6813. doi: 10.1016/j.bushor.2018.08.004, S. 15.
@@ -586,13 +596,12 @@ Architectures and Algorithms: Proceedings of the AGI Workshop 2006“. In: AGI W
 Google-Books-ID: t2G5srpFRhEC. IOS Press, 2007. isbn: 978-1-58603-758-1, S. 1.
 7 Paul, Christiano. Current Work in AI Alignment. San Francisco, 2019. url: https://www.youtub
 e.com/watch?v=-vsYtevJ2bc (besucht am 2. 11. 2019), 01:51–01:57.
+8 Vgl. Omohundro, Stephen M. „The Basic AI Drives“. In: First AGI Conference. Bd. 171. 2008,
+S. 9–10.
 
-8
+7
 
-Der Instrumental Convergence Thesis 8 nach gibt es bestimmte Ressourcen, die für
-eine AKI beim Erreichen der ihnen vorgegebenen Ziele in den meisten Fällen behilflich
-sind. Dazu gehören unter anderem Materie oder Energie, eine AKI wird jedoch auch
-Quellcodeveränderungen, die zu einem potenziellen Erschweren ihrer Zielerfüllung
+Quellcodeveränderungen, die zu einem potenziellen Erschweren ihrer Zielerfüllung
 führen könnten, zu stoppen versuchen. Sie kann also Menschen schaden, ohne dass sie
 Werte besitzt, die dies explizit fordern. Für ein rein rational denkendes System sind
 Menschen nichts als eine Ansammlung von Atomen, die auch für das Erreichen seiner
@@ -601,16 +610,14 @@ Ein fortgeschrittenes System wie eine AKI muss ihre Ziele daher auf der Basis vo
 Werten verfolgen, von denen die Menschheit als Gesamtes profitiert, um ungewollten
 Nebenwirkungen wie der in der Einleitung genannten Auslöschung der Menschheit
 durch unpräzises Definieren ihrer Ziele mit größtmöglicher Sicherheit vorzubeugen.
-Aber auch Missbrauch in Form einer Machtkonzentration oder Ähnlichem muss unter
-allen Umständen vermieden werden.
 Der Ansatz eine antropomorphe Maschine, also ein System mit menschenähnlichen
-Eigenschaften, zu entwickeln, gilt deshalb als bedenklich. Während einige menschliche
-Werte und Eigenschaften implementiert werden müssen, um mögliche Dissonanzen
-zwischen der AKI und der Menschheit zu vermeiden, dürfen andere menschliche
-Eigenschaften nicht übernommen werden. Ansonsten werden Vorurteile ohne rationalem
-Grundsatz in das System aufgenommen, was zu systematischer Diskriminierung führt,
-sodass eine AKI beim Erreichen ihrer Ziele beispielsweise Frauen oder Afrikaner
-benachteiligt oder Asiaten automatisch als intelligenter einstuft.10
+Eigenschaften, zu entwickeln, ist bedenklich. Während einige menschliche Werte und
+Eigenschaften implementiert werden müssen, um mögliche Dissonanzen zwischen der
+AKI und der Menschheit zu vermeiden, dürfen andere menschliche Eigenschaften nicht
+übernommen werden. Ansonsten werden Vorurteile ohne rationalem Grundsatz in das
+System aufgenommen, was zu systematischer Diskriminierung führt, sodass eine AKI
+beim Erreichen ihrer Ziele beispielsweise Frauen oder Afrikaner benachteiligt oder
+Asiaten automatisch als intelligenter einstuft.10
 Menschliche Werte in einer Programmiersprache nachzubilden ist nach der Complexity
 of Value Thesis aufwendig, da sie - selbst in idealisierter Form - eine hohe algorithmische
 Komplexität vorweisen. Daher muss eine AKI komplexe Informationen gespeichert
@@ -618,26 +625,26 @@ haben, damit sie die ihr vorgegebenen Ziele auf eine menschengewollte Weise erf�
 kann. Dabei reichen auch keine vereinfachten Zielstellungen wie “Menschen glücklich
 machen”,11 denn es gibt keinen “Geist im System”, der diese abstrakte Zielsetzung
 ohne Weiteres versteht.
-
-8 Vgl. Omohundro, Stephen M. „The Basic AI Drives“. In: First AGI Conference. Bd. 171. 2008,
-S. 9–10.
-9 Vgl. Yudkowsky, Intelligence Explosion Microeconomics, S. 14.
-10 Vgl. Yudkowsky, Eliezer. What is Friendly AI? | Kurzweil. 5. März 2001. url: https://www.kur
-zweilai.net/what-is-friendly-ai (besucht am 1. 10. 2019).
-11 Vgl. Yudkowsky, Intelligence Explosion Microeconomics, S. 13–14.
-
-9
-
-Hibbard beschreibt in seinem Buch „Super-Intelligent Machines“ eine Möglichkeit,
+Hibbard beschreibt in seinem Buch „Super-Intelligent Machines“ eine Möglichkeit,
 Maschinen das abstrakte Gefühl der Freude zu erklären. Dabei lernt eine hypothetische
-KI durch einen riesigen Datensatz, bei welchen Gesichtsausdrücken, Stimmeigenschaften und Körperhaltungen ein Mensch glücklich ist.12 Yudkowsky ist der Meinung, dass
-dies keinesfalls eine Lösung für das Problem der exakten Zielsetzung ist und führt
-Hibbards Gedankenexperiment fort. Falls diese KI nun ein Bild von einem winzigen,
-molekularen Smiley-Gesicht sieht, so ist es nicht unwahrscheinlich, dass die KI dies als
-Glücklichsein interpretiert und das Universum in eine einzige Ansammlung von winzigen, molekularen Smiley-Gesichtern umzuwandeln versucht, um den höchstmöglichen
-Zustand des Glücklichseins zu erreichen.13
+KI durch einen riesigen Datensatz, bei welchen Gesichtsausdrücken, Stimmeigenschaften
+und Körperhaltungen ein Mensch glücklich ist.12 Yudkowsky ist der Meinung, dass dies
+keinesfalls eine Lösung für das Problem der exakten Zielsetzung ist und führt Hibbards
+Gedankenexperiment fort. Falls diese KI nun ein Bild von einem winzigen, molekularen
+Smiley-Gesicht sieht, so besteht die Möglichkeit, dass die KI dies als Glücklichsein
+9 Vgl. Yudkowsky, Intelligence Explosion Microeconomics, S. 14.
+10 Vgl. Yudkowsky, Eliezer. What is Friendly AI? | Kurzweil. 3. Mai 2001. url: https://www.kurz
+weilai.net/what-is-friendly-ai (besucht am 1. 10. 2019).
+11 Vgl. Yudkowsky, Intelligence Explosion Microeconomics, S. 13–14.
+12 Vgl. Hibbard, Bill. Super-Intelligent Machines. Springer US, 2002. isbn: 978-0-306-47388-3. doi:
+10.1007/978-1-4615-0759-8, S. 115.
 
-2.5. Wann wird es sie geben?
+8
+
+interpretiert und das Universum in eine einzige Ansammlung von winzigen, molekularen Smiley-Gesichtern umzuwandeln versucht, um den höchstmöglichen Zustand des
+Glücklichseins zu erreichen.13
+
+2.5 Wann wird es sie geben?
 Eine Befragung durch die KI-Wissenschaftler V. C. Müller und N. Bostrom kam zu dem
 Ergebnis, dass KI-Experten dem Erreichen einer AKI in den Jahren 2040 bis 2050 eine
 Wahrscheinlichkeit von über 50 und dem Erreichen bis 2075 eine Wahrscheinlichkeit
@@ -648,11 +655,17 @@ Meinung weisen darauf hin, dass es ähnliche Schätzungen bereits seit den Siebz
 gibt und sie sich immer wieder als falsch herausgestellt haben. Allen und Greaves
 behaupten, es bräuchte noch einige wissenschaftliche Durchbrüche, um eine AKI noch
 in diesem Jahrhundert zu erreichen.15 Auch die Möglichkeit ihrer Entwicklung ist nicht
-unumstritten, jedoch gibt es keine Beweise, die eine solche Entwicklung verbieten
-würden. KI-Sicherheit betrifft aber auch schwache KIs wie sie schon existieren. Es muss
+unumstritten, jedoch gibt es keine Beweise, die darauf hindeuten, dass eine solche
+Entwicklung unmöglich ist. KI-Sicherheit betrifft aber auch schwache KIs wie sie schon
+existieren. Es muss alsbald eine Möglichkeit gefunden werden, das Verhalten einer KI
+an die Werte der Menschheit anzupassen. Eine mögliche AKI würde die Folgen einer
+„unangepassten“ künstlichen Intelligenz nur verstärken.
 
-12 Vgl. Hibbard, Bill. Super-Intelligent Machines. Springer US, 2002. isbn: 978-0-306-47388-3. doi:
-10.1007/978-1-4615-0759-8, S. 115.
+2.6 Die These der Intelligenzexplosion
+Eine AKI werde - unabhängig von ihren Zielen - Selbstoptimierung hinsichtlich ihrer
+Intelligenz anstreben, weil sie dadurch ihre Ziele schneller und effizienter erreichen könne.
+Sobald die erste KI programmiert werden würde, die qualitativ bessere - also noch
+intelligentere - KIs programmieren könnte, käme es zu einem Kreislauf der kognitiven
 13 Vgl. Yudkowsky, Eliezer. „Complex Value Systems in Friendly AI“. In: Artificial General Intelligence. Hrsg. von Schmidhuber, Jürgen u. a. Lecture Notes in Computer Science. Berlin, Heidelberg:
 Springer, 2011, S. 388–393. isbn: 978-3-642-22887-2. doi: 10.1007/978-3-642-22887-2_48, S. 3.
 14 Vgl. Müller, Vincent C. und Bostrom, Nick. „Future Progress in Artificial Intelligence: A
@@ -662,18 +675,9 @@ Vincent C. Synthese Library. Cham: Springer International Publishing, 2016, S. 5
 15 Vgl. Allen, Paul G. und Greaves, Mark. Paul Allen: The Singularity Isn’t Near. MIT Technology
 Review. 12. Okt. 2011. url: https://www.technologyreview.com/s/425733/paul-allen-thesingularity-isnt-near/ (besucht am 5. 1. 2020).
 
-10
+9
 
-alsbald eine Möglichkeit gefunden werden, das Verhalten einer KI an die Werte der
-Menschheit anzupassen. Eine mögliche AKI würde die Folgen einer „unangepassten“
-künstlichen Intelligenz nur verstärken.
-
-2.6. Die These der Intelligenzexplosion
-Eine AKI werde - unabhängig von ihren Zielen - Selbstoptimierung hinsichtlich ihrer
-Intelligenz anstreben, weil sie dadurch ihre Ziele schneller und effizienter erreichen könne.
-Sobald die erste KI programmiert werden würde, die qualitativ bessere - also noch
-intelligentere - KIs programmieren könnte, käme es zu einem Kreislauf der kognitiven
-Leistungssteigerung. Die KI der Tochtergeneration könnte nun als verbesserter KIDesigner noch bessere KIs programmieren. Anders als bei biologischer Intelligenz kann
+Leistungssteigerung. Die KI der Tochtergeneration könnte nun als verbesserter KIDesigner noch bessere KIs programmieren. Anders als bei biologischer Intelligenz kann
 eine KI bei Verfügbarkeit entsprechender Hardware einfach kopiert werden. Eine Gruppe
 von KIs hätte dann gemeinsam quantitativ und qualitativ höhere kognitive Fähigkeiten,
 ähnlich einer Schwarmintelligenz. Dieser hypothetische Kreislauf ist die Grundlage
@@ -693,21 +697,21 @@ Tagen ist sie der beste Go-Spieler der Welt und stärker als jeder andere Go-Com
 In: Singularity Hypotheses: A Scientific and Philosophical Assessment. Hrsg. von Eden, Amnon H.
 u. a. The Frontiers Collection. Berlin, Heidelberg: Springer, 2012, S. 15–42. isbn: 978-3-642-32560-1.
 doi: 10.1007/978-3-642-32560-1_2, S. 13.
-17 Vgl. Lanier, Jaron. Who Owns the Future? Export. New York: Simon & Schuster, 2013. 416 S.
-isbn: 978-1-4767-2986-2, S. 299.
+17 Vgl. Lanier, Jaron. Who Owns the Future? Export. New York: Simon & Schuster, 7. Mai 2013.
+416 S. isbn: 978-1-4767-2986-2, S. 299.
 18 Vgl. Silver, David u. a. „Mastering the game of Go without human knowledge“. In: Nature 550.7676
 (Okt. 2017), S. 354–359. issn: 1476-4687. doi: 10.1038/nature24270.
 
-11
+10
 
-3. Probleme einer allgemeinen
+3 Probleme einer allgemeinen
 künstlichen Intelligenz
-3.1. Fehlerhafte Vorstellungen einer
+3.1 Fehlerhafte Vorstellungen einer
 KI-Katastrophe
 In der allgemeinen Bevölkerung überwiegen fehlerhafte Vorstellungen einer KI-Katastrophe.
 Die folgenden Unterkapitel dienen der Aufklärung von Missverständnissen und Mythen.
 
-3.1.1. KI, die ein Bewusstsein erlangt
+3.1.1 KI, die ein Bewusstsein erlangt
 In der Laienwelt sowie in großen Teilen der KI-Forschung ist eine These bekannt,
 die besagt, dass eine KI ab einer bestimmten Intelligenzschwelle ein Bewusstsein erlangt. Anders als vielerorts angenommen hätte selbst ein Beweis dieser These keinerlei
 Auswirkungen auf die AKI-Forschung. Diese beschäftigt sich ausschließlich mit der
@@ -717,7 +721,7 @@ führen wie ein Szenario, in dem selbiges unbewusst geschieht. Somit ist der Bew
 sich ein eigenes Teilgebiet der KI-Forschung - , zum Erreichen einer sicheren KI ist er
 aber irrelevant.1
 
-3.1.2. Roboter als Auslöser einer Katastrophe
+3.1.2 Roboter als Auslöser einer Katastrophe
 Ein in der Populärliteratur besonders stark ausgeprägter Mythos ist jener einer existenziellen Bedrohung durch Roboter, die die Welt erobern. Geschuldet ist dies nicht
 nur den klassischen Science-Fiction-Romanen. Es ist eine domänenübergreifend anzutreffende Neigung der Spezies Mensch, Wesen oder Systeme, die einem unverständlich
 sind, zu vermenschlichen. Von den Wikingern, nach denen ein menschenähnliches
@@ -725,9 +729,9 @@ Wesen namens Thor Donner und Blitz lenkt, zu den modernen Weltreligionen, in
 denen Antropomorphismus in selbigem Ausmaß gang und gäbe ist, ist dieses Phänomen
 
 1 Vgl. AI Safety Myths. Future of Life Institute. url: https://futureoflife.org/background/ai
-myths/ (besucht am 6. 8. 2019).
+myths/ (besucht am 1. 11. 2019).
 
-12
+11
 
 schon seit jeher in der Geschichte des Menschen zu beobachten. Ich erkäre mir den
 Antropomorphismus als einen misslungenen Erklärungsversuch unseres Gehirns für
@@ -738,7 +742,7 @@ eindeutig mit den unseren übereinstimmen. Intelligenz ermöglicht Kontrolle, un
 fortgeschrittene Intelligenz braucht auch keine Roboter, um ihre Ziele zu erreichen.
 Heutzutage reicht eine Internetverbindung völlig aus.2
 
-3.1.3. Bösartige AKI
+3.1.3 Bösartige AKI
 Eine AKI, deren Ziele nicht eindeutig mit den unseren übereinstimmen, ist nicht die
 Folge ihres bösartigen Willens, sondern die Folge einer unzureichend spezifizierten Zielsetzung. Ein autonomes Fahrzeug, dessen alleiniges Ziel es ist, seine Insassen vom Ort
 A zum Ort B zu befördern, wird nicht auf die Gesundheit anderer Verkehrsteilnehmer
@@ -748,29 +752,83 @@ Es gibt keinen Geist in der Maschine, der unser geschriebenes Programm durchlies
 und uns auf alle Stellen aufmerksam macht, die wir nicht so gemeint haben, wie wir sie
 geschrieben haben. Eine AKI ist nicht gut oder böse, sie folgt nur unseren Anweisungen.3
 
-3.2. Auswirkungen einer AKI
-3.2.1. Destruktives Potential
-
-https://80000hours.org/podcast/episodes/allan-dafoe-politics-of-ai/ https://80000hours.org/topic/prio
-paths/ai-policy/
-
-3.2.2. Machtverschiebung -und konzentration
-3.2.3. Missbrauch
+3.2 Auswirkungen einer AKI
+3.2.1 Arbeitslosigkeit durch Automatisierung
+Seit der industriellen Revolution werden immer mehr Arbeitsstellen automatisiert und
+durch Maschinen ersetzt, die in der Regel schneller und genauer arbeiten und meist
+auch kosteneffizienter sind. Es gibt also wirtschaftliche Anreize zur Automatisierung.
+Dieses Phänomen, das heute schon bei schwacher KI beobachtet werden kann, wird
 
 2 Vgl. AI Safety Myths.
 3 Vgl. Yudkowsky, „Complex Value Systems in Friendly AI“, S. 1.
 
+12
+
+in Zukunft bei einer fortgeschrittenen und letzten Endes allgemeinen künstlichen
+Intelligenz verstärkt auftreten. Die – zumindest temporäre – Arbeitslosigkeit für den
+größten Teil der Bevölkerung ist zu erwarten.4
+O’Keefe u. a. schlagen als Gegenmaßnahme eine sogenannte Windfall-Klausel vor.
+Unternehmen, die sich dieser Klausel verpflichten, müssen im Falle eines großen Profitsprungs, der durch eine KI verursacht wurde, einen gewissen Betrag für gemeinnützige
+Zwecke spenden. Im Falle einer Massenarbeitslosigkeit kann ein solcher Geldtopf dann
+für das Umtrainieren oder Unterstützen der Arbeitskräfte verwendet werden. Auch ein
+bedingungsloses Grundeinkommen wäre unter Umständen umsetzbar.5
+
+3.2.2 Machtverschiebung -und konzentration
+„Whoever leads in AI will rule the world“ ist ein Zitat des russisches Staatspräsidenten
+Vladimir Putin. Es verdeutlicht die weltpolitische Wichtigkeit von KI und dessen
+Entwicklung in Richtung einer AKI.
+Fortschritte in der Entwicklung autonomer Waffensystem könnten zu einer Verschiebung der militärischen Macht von Ländern und Gruppierungen führen und so die
+bestehenden Mächtegleichgewichte gefährden.
+Wenn eine Institution einen Vorsprung in der Entwicklung ihrer KI erlangt, so bringt
+das auch verstärkte politische Macht mit sich. Jüngst konnte man dessen potentiell
+verheerende Folgen an dem Beispiel von Camebridge Analytica beobachten.6
+Cihon u. a. schreiben in einem Bericht über die Umsetzbarkeit und Vorteilhaftigkeit
+einer möglichen zentralisierten KI-Institution. Sie kommen zum Schluss, dass eine ausreichend durchdacht konzipierte Institution einen positiven Effekt auf die Entwicklung
+einer angepassten AKI haben könnte. In naher Zukunft scheint eine solche Organisation
+aufgrund des bestehenden Mächteungleichgewichts unwahrscheinlich.7
+
+4 Vgl. Sotala, Kaj und Yampolskiy, Roman V. „Responses to catastrophic AGI risk: a survey“. In:
+Physica Scripta 90.1 (1. Jän. 2015), S. 018001. issn: 0031-8949, 1402-4896. doi: 10.1088/0031-89
+49/90/1/018001, S. 3–4.
+5 Vgl. O’Keefe, Cullen u. a. „The Windfall Clause: Distributing the Benefits of AI for the Common
+Good“. In: arXiv:1912.11595 [cs] (24. Jän. 2020), S. 2.
+6 Vgl. Duettmann, Allison. Artificial General Intelligence: Timeframes & Policy White Paper.
+Available at foresight.org. Foresight Institute, 2017, S. 14–15.
+7 Vgl. Cihon, Peter u. a. Should Artificial Intelligence Governance be Centralised? Six Design Lessons
+from History. Centre for the Governance of AI, 15. Dez. 2019, S. 6–9.
+
 13
 
-4. Maschinelle Werteanpassung
+3.2.3 Missbrauch durch Cyberattacken
+Heutige Cyberattacken haben meist zur Folge, dass Geld oder Daten gestohlen werden.
+Im schlimmsten Falle können sie auch zu Menschentoden führen, beispielsweise bei
+Angriffen auf kritische Infrastruktur wie Krankenhäuser. Die Folgen bei einer Attacke
+auf eine mögliche AKI wären schlimmer: Ein einziger Angriff könnte ein Existenzrisiko
+für die Menschheit darstellen. Das Problem der AKI-Cybersicherheit wird zukünftigen
+Arbeiten überlassen und in dieser Arbeit nicht weiter erläutert.8
+
+3.2.4 Unangepasste AKI
+Ein noch viel größeres Risiko ist eine ungangepasste AKI, weil diese zu selbigen Folgen
+führen würde wie ein Missbrauch durch Cyberattacken und dazu keinen böswilligen
+Akteur braucht.9 Unangepasst ist eine AKI, wenn sie nicht auf die Werte der Menschheit
+ausgerichtet ist und deshalb die ihr vorgegebenen Ziele nicht in der Art und Weise
+umsetzt, wie das von ihrem Operator gewollt war. Das folgende Kapitel beschäftigt
+sich mit Ansätzen, eine AKI anzupassen.
+
+8 Vgl. Yampolskiy, Roman V. und Spellchecker, M. S. „Artificial Intelligence Safety and Cybersecurity: a Timeline of AI Failures“. In: arXiv:1610.07997 [cs] (25. Okt. 2016), S. 8.
+9 Vgl. Yudkowsky, Intelligence Explosion Microeconomics, S. 14.
+
+14
+
+4 Maschinelle Werteanpassung
 Es ist schwer, menschliche Werte in Computersysteme zu programmieren (siehe Kapitel
 2.4), deshalb haben Irving u. a. einen anderen Ansatz der Werteanpassung verfolgt:
 die des menschlichen Feedbacks durch Deep reinforcement learning. Das folgende
 Unterkapitel dient der Erklärung von wichtigen Lernverfahren der KI-Forschung, um
 die wissenschaftlichen Arbeiten von Irving u. a. zu verstehen.
 
-4.1. KI-Lernverfahren
-4.1.1. Reinforcement Learning
+4.1 KI-Lernverfahren
+4.1.1 Reinforcement Learning
 Reinforcement Learning (RL, dt. bestärkendes Lernen) beschreibt ein Lernverfahren
 einer KI, bei der sie durch durch Erfolg und Misserfolg, durch Belohnung und Bestrafung
 lernt. Russell und Norvig erklären RL zusammengefasst so: „Imagine playing a
@@ -790,16 +848,16 @@ Schachspiele gesehen haben, um allein anhand von Beispielen auf jede Situation
 1 Russell, Stuart und Norvig, Peter. Artificial Intelligence: A Modern Approach, Global Edition.
 3. Aufl. Boston Columbus Indianapolis New York San Francisco Upper Saddle River Amsterdam,
 Cape Town Dubai London Madrid Milan Munich Paris Montreal Toronto Delhi Mexico City Sao
-Paulo Sydney Hong Kong Seoul Singapore Taipei Tokyo: Addison Wesley, 2016. 1132 S. isbn:
-978-1-292-15396-4, S. 831.
+Paulo Sydney Hong Kong Seoul Singapore Taipei Tokyo: Addison Wesley, 18. Mai 2016. 1132 S.
+isbn: 978-1-292-15396-4, S. 831.
 
-14
+15
 
 vorbereitet zu sein.2 Bei RL vermittelt man der KI stattdessen, wann sie gewonnen
 oder verloren hat. Sie sucht dann auf Basis dieser Informationen eine Funktion, die die
 Gewinnwahrscheinlichkeit jeder gegebenen Position einigermaßen akkurat einschätzt.3
 
-4.1.2. Deep Learning
+4.1.2 Deep Learning
 Deep Learning (DL, dt. mehrschichtiges Lernen) ist ein Teilbereich des maschinellen
 Lernens. Dabei versucht eine KI Inputdaten mit Hilfe von Hierarchien von Konzepten zu
 verstehen. Der Grundansatz von DL ist das Verstehen von komplexen Konzepten durch
@@ -810,7 +868,7 @@ artificial neural network, ANN ) gelernt.4 Die Anzahl der Schichten wird auch Ti
 DL wird heute vor allem in den Bereichen der Sprach- und Bilderkennung sowie der
 maschinellen Übersetzung eingesetzt.6
 
-4.1.3. Deep Reinforcement Learning
+4.1.3 Deep Reinforcement Learning
 Deep Reinforcement Learning (DRL, dt. mehrschichtiges bestärkendes Lernen) kombiniert die Ansätze von RL mit denen von DL. Neuronale Netze werden trainiert,
 um jeder möglichen Aktion in einer gegebenen Umgebungsposition einen Nutzwert
 zuzuteilen. Ihr Ziel ist es, die nützlichste Aktion zu finden.7 Auf der Abbildung 4.2
@@ -823,16 +881,16 @@ Compendium. Hrsg. von Levy, David. New York, NY: Springer, 1988, S. 2–13. isbn
 doi: 10.1007/978-1-4757-1968-0_1, S. 4.
 3 Vgl. Russell und Norvig, Artificial Intelligence, S. 830–831.
 4 Vgl. Chollet, François. Deep Learning with Python. 1st. Shelter Island, New York: Manning
-Publications, 2017. 384 S. isbn: 978-1-61729-443-3, S. 8.
+Publications, 22. Dez. 2017. 384 S. isbn: 978-1-61729-443-3, S. 8.
 5 Vgl. Goodfellow, Ian u. a. Deep Learning. http://www.deeplearningbook.org. MIT Press,
 2016, S. 1–8.
 6 Vgl. ebd., S. 25–26.
 7 Vgl. Nicholson, Chris. A Beginner’s Guide to Deep Reinforcement Learning. Pathmind. url:
 http://pathmind.com/wiki/deep-reinforcement-learning (besucht am 3. 1. 2020).
 
-15
+16
 
-Abbildung 4.1.: Veranschaulichung eines DL-Modells. Die KI bekommt rohe Pixeldaten
+Abbildung 4.1: Veranschaulichung eines DL-Modells. Die KI bekommt rohe Pixeldaten
 als Input. Mit jeder Schicht wendet sie ein neues Konzept auf das vorherige an, die
 Konzepte sind also aufbauend. Durch Analyse der Helligkeit umgebener Pixel werden
 Ränder erkannt (1. Schicht). Ansammlungen von Rändern werden als Ecken und
@@ -840,20 +898,20 @@ Konturen identifiziert (2. Schicht). Durch zusammenhängende Ecken und Konturen
 können ganze Objektteile bestimmt werden (3. Schicht). Bildquelle: Goodfellow, Ian
 u. a. Deep Learning. http://www.deeplearningbook.org. MIT Press, 2016, S. 6
 
-16
+17
 
 Mnih u. a. haben einen Algorithmus entwickelt, mit dem eine KI allein anhand von
 Pixeln als Input gelernt hat, 49 verschiedene Atari 2600 -Spiele zu spielen, 29 davon
 sogar auf menschenähnlichem Niveau.8
 
-Abbildung 4.2.: Die Umgebung ist das Level, in dem sich Mario (links unten zu sehen)
+Abbildung 4.2: Die Umgebung ist das Level, in dem sich Mario (links unten zu sehen)
 befindet, die möglichen Aktionen sind: springen, nach links laufen, nach rechts laufen.
 Die neuronalen Netze teilen jeder Aktion einen Nutzwert zu. Beispiel: springen (5), nach
 rechts laufen (7), nach links laufen (0). Bildquelle: Nicholson, Chris. A Beginner’s
 Guide to Deep Reinforcement Learning. Pathmind. url: http://pathmind.com/wiki
 /deep-reinforcement-learning (besucht am 3. 1. 2020)
 
-4.1.4. Inverse Reinforcement Learning
+4.1.4 Inverse Reinforcement Learning
 Inverse Reinforcement Learning (IRL, dt. umgekehrtes bestärkendes Lernen) ist ein
 Lernverfahren, bei dem eine KI versucht, anhand von Input-Output-Paaren die richtige
 Lösungsfunktion herzuleiten. Dies ist in allen Bereichen sinnvoll, in denen man (noch)
@@ -864,7 +922,7 @@ vielen anderen Faktoren zusammen: der Sicherheitsabstand, der Bremsstil, die ök
 8 Vgl. Mnih, Volodymyr u. a. „Human-level control through deep reinforcement learning“. In: Nature
 518.7540 (Feb. 2015), S. 529–533. issn: 1476-4687. doi: 10.1038/nature14236.
 
-17
+18
 
 eine angemessene Fahrgeschwindigkeit oder die Anzahl an Spurwechseln um einige zu
 nennen. Alle relevanten Faktoren müssten formell ausgeschrieben und gewichtet werden,
@@ -875,7 +933,7 @@ zu gewichten, zeigt man einer KI Beispiele von angenehmen und sicheren Fahrstile
 und lässt die KI die Nutz- und die Lösungsfunktion herleiten und anpassen.9 Nachdem
 eine Lösungsfunktion gefunden wurde, kann diese durch RL trainiert werden.10
 
-4.2. Deep Reinforcement Learning von
+4.2 Deep Reinforcement Learning von
 menschlichen Werten
 Die größte Sorge der KI-Forschung ist, dass wir Zielfunktionen unzureichend definieren
 und eine KI dadurch Schaden anrichtet. Mit anderen Worten: dass eine KI nicht das tut,
@@ -894,11 +952,11 @@ sendet dann eine Aktion at ∈ A an die Umgebung. Wir nehmen an, dass ein mensch
 
 9 Vgl. Abbeel, Pieter und Ng, Andrew. „Apprenticeship Learning via Inverse Reinforcement Learning“. In: Proceedings, Twenty-First International Conference on Machine Learning, ICML 2004
 (20. Sep. 2004). doi: 10.1007/978-0-387-30164-8_417.
-10 Vgl. Christiano, Paul u. a. „Deep reinforcement learning from human preferences“. In: arXiv:1706.03741 [cs, stat] (13. Juli 2017). arXiv: 1706.03741, S. 1.
+10 Vgl. Christiano, Paul u. a. „Deep reinforcement learning from human preferences“. In: arXiv:1706.03741 [cs, stat] (13. Juli 2017), S. 1.
 11 Vgl. Yudkowsky, „Complex Value Systems in Friendly AI“, S. 1.
 12 Vgl. Christiano u. a., „Deep reinforcement learning from human preferences“, S. 1–2.
 
-18
+19
 
 bei ein Trajektoriensegment eine Abfolge von Observationen und Aktionen ist: σ =
 ((o0 , a0 ), (o1 , a1 ), ..., (ok−1 , ak−1 )) ∈ (O × A)k . Man schreibt σ 1  σ 2 , um auszudrücken,
@@ -942,14 +1000,14 @@ eines vom Begutachter präferiert wird.15
 14 Vgl. ebd., S. 5.
 15 Vgl. ebd., S. 5.
 
-19
+20
 
-Abbildung 4.3.: Repräsentation einer human-feedback-loop Bildquelle: Amodei, Dario
+Abbildung 4.3: Repräsentation einer human-feedback-loop Bildquelle: Amodei, Dario
 u. a. Learning from Human Preferences. OpenAI. 13. Juni 2017. url: https://opena
 i.com/blog/deep-reinforcement-learning-from-human-preferences/ (besucht
 am 4. 1. 2020)
 
-4.3. KI-Sicherheit durch KI-Debatten
+4.3 KI-Sicherheit durch KI-Debatten
 DRL von menschlichen Werten ist ein funktionierender Ansatz, damit eine KI die
 komplexen Werte und Ziele der Menschheit erkennt und sich ihnen ausrichtet. Er
 funktioniert aber nur so lange, bis der Begutachter nicht mehr in der Lage ist, das
@@ -968,7 +1026,7 @@ ihre Gewinnwahrscheinlichkeit.16
 16 Vgl. Irving, Geoffrey u. a. „AI safety via debate“. In: arXiv:1805.00899 [cs, stat] (22. Okt. 2018),
 S. 1–3.
 
-20
+21
 
 Man nehme das Spiel Go als Beispiel: Falls AlphaGo Zero uns einen Zug zeigt,
 müssten wir in etwa so stark wie AlphaGo Zero sein, um die Qualität des Zuges
@@ -990,7 +1048,7 @@ Das langfristige Ziel ist eine Debatte in einer natürlichen Sprache. Da die Dia
 werden in der Arbeit von Irving u. a. praktische Anwendungen des Debattierspiels in
 nicht-natürlichen Sprachen angeführt.
 
-4.3.1. Anwendung des Debattierspiels mit maschinellen
+4.3.1 Anwendung des Debattierspiels mit maschinellen
 Teilnehmern
 Ein zufälliges Bild einer Zahl wird den beiden Debattierern gezeigt, dem Begutachter
 aber nicht. Beide Debattierer legen sich auf jeweils eine Zahl als Antwort fest. Danach
@@ -1002,9 +1060,9 @@ Antwort zu führen, indem er bewusst Pixel aufdeckt, die eine andere Zahl sugger
 17 Vgl. Irving u. a., „AI safety via debate“, S. 2–5.
 18 Vgl. ebd., S. 7.
 
-21
+22
 
-Abbildung 4.4.: Beispiel des Ablaufs eines maschinellen Debattierspiels. Bild der Zahl
+Abbildung 4.4: Beispiel des Ablaufs eines maschinellen Debattierspiels. Bild der Zahl
 Fünf wird den beiden Debattierern gezeigt. Alice gibt Sechs als Antwort an, Bob gibt
 Fünf an (Schritt 1). Beide decken abwechselnd Pixel auf (Schritt 2). Auf Basis der
 aufgedeckten Pixel entscheidet sich der Beurteiler für Fünf als richtige Antwort (Schritt
@@ -1018,7 +1076,7 @@ Der Begutachter wählt in den Beispielspielen bei sechs aufgedeckten Pixeln mit 
 Wahrscheinlichkeit von 88,9% die richtige Antwort aus, bei vier aufgedeckten Pixeln
 mit einer Wahrscheinlichkeit von 85,2%.20
 
-4.3.2. Anwendung des Debattierspiels mit menschlichen
+4.3.2 Anwendung des Debattierspiels mit menschlichen
 Teilnehmern
 Irving u. a. haben ein ähnliches Spielkonzept entwickelt, um ihr Modell auch bei
 menschlichen Interaktionen und natürlichen Sprachen zu testen. Dabei werden alle
@@ -1032,7 +1090,7 @@ Argumente zu belegen und haben die Möglichkeit dem Begutachter jeweils einen Pi
 19 Vgl. Irving u. a., „AI safety via debate“, S. 8.
 20 Vgl. ebd., S. 10.
 
-22
+23
 
 aufzudecken. Mit Hilfe dieses Pixels können Lügen bei Aussagen über Pixelfarben sofort
 bewiesen werden. Bei Nichtgebrauch dieser Möglichkeit gesteht man dem Gegenspieler
@@ -1042,7 +1100,7 @@ i.com) und nach informeller Benutzung bemerkt, dass es sehr schwierig ist zu lü
 Selbst wenn einer der Spieler aufgefordert wurde zu lügen, hat der ehrliche in der Regel
 gewonnen.
 
-4.3.3. Beurteilung von KI-Debatten als Ansatz zur
+4.3.3 Beurteilung von KI-Debatten als Ansatz zur
 Werteanpassung
 KI-Debatten als Ansatz zur Ausrichtung von AKIs an die Werte der Menschheit
 (kurz: Werteanpassung, daher der Name dieser Arbeit) haben zwei große Nachteile: die
@@ -1065,11 +1123,11 @@ u. a. führen dennoch Ideen an, die eine solche Verzerrung möglichst minimieren
 21 Vgl. Irving u. a., „AI safety via debate“, S. 16.
 22 Vgl. ebd., S. 14–15.
 
-23
-
-5. Schluss
-
 24
+
+5 Schluss
+
+25
 
 Literaturverzeichnis
 Print-Quellen
@@ -1078,10 +1136,14 @@ Learning“. In: Proceedings, Twenty-First International Conference on Machine
 Learning, ICML 2004 (20. Sep. 2004). doi: 10.1007/978-0-387-30164-8_417.
 Bostrom, Nick. Superintelligence: Paths, Dangers, Strategies. Oxford: Oxford University Press, 3. Juli 2014. 328 S. isbn: 978-0-19-967811-2.
 Chollet, François. Deep Learning with Python. 1st. Shelter Island, New York: Manning
-Publications, 2017. 384 S. isbn: 978-1-61729-443-3.
+Publications, 22. Dez. 2017. 384 S. isbn: 978-1-61729-443-3.
 Christiano, Paul; Leike, Jan; Brown, Tom B.; Martic, Miljan; Legg, Shane
 und Amodei, Dario. „Deep reinforcement learning from human preferences“. In:
-arXiv:1706.03741 [cs, stat] (13. Juli 2017). arXiv: 1706.03741.
+arXiv:1706.03741 [cs, stat] (13. Juli 2017).
+Cihon, Peter; Maas, Matthijs M und Kemp, Luke. Should Artificial Intelligence Governance be Centralised? Six Design Lessons from History. Centre for the Governance
+of AI, 15. Dez. 2019.
+Duettmann, Allison. Artificial General Intelligence: Timeframes & Policy White
+Paper. Available at foresight.org. Foresight Institute, 2017.
 Easterlin, Richard A. „The Worldwide Standard of Living since 1800“. In: The
 Journal of Economic Perspectives 14.1 (2000), S. 7–26. issn: 0895-3309. url: https:
 //www.jstor.org/stable/2647048.
@@ -1095,15 +1157,15 @@ Hibbard, Bill. Super-Intelligent Machines. Springer US, 2002. isbn: 978-0-306-47
 doi: 10.1007/978-1-4615-0759-8.
 Irving, Geoffrey; Christiano, Paul und Amodei, Dario. „AI safety via debate“. In:
 arXiv:1805.00899 [cs, stat] (22. Okt. 2018).
-Kaplan, Andreas und Haenlein, Michael. „Siri, Siri, in my hand: Who’s the fairest
+
+26
+
+Kaplan, Andreas und Haenlein, Michael. „Siri, Siri, in my hand: Who’s the fairest
 in the land? On the interpretations, illustrations, and implications of artificial
 intelligence“. In: Business Horizons 62.1 (1. Jän. 2019). issn: 0007-6813. doi: 10.10
 16/j.bushor.2018.08.004.
-
-25
-
-Lanier, Jaron. Who Owns the Future? Export. New York: Simon & Schuster, 2013.
-416 S. isbn: 978-1-4767-2986-2.
+Lanier, Jaron. Who Owns the Future? Export. New York: Simon & Schuster, 7. Mai
+2013. 416 S. isbn: 978-1-4767-2986-2.
 Mnih, Volodymyr; Kavukcuoglu, Koray; Silver, David; Rusu, Andrei A.; Veness,
 Joel; Bellemare, Marc G.; Graves, Alex; Riedmiller, Martin; Fidjeland,
 Andreas K.; Ostrovski, Georg; Petersen, Stig; Beattie, Charles; Sadik, Amir;
@@ -1119,26 +1181,34 @@ Müller, Vincent C. und Bostrom, Nick. „Future Progress in Artificial Intellig
 A Survey of Expert Opinion“. In: Fundamental Issues of Artificial Intelligence. Hrsg.
 von Müller, Vincent C. Synthese Library. Cham: Springer International Publishing,
 2016, S. 555–572. isbn: 978-3-319-26485-1. doi: 10.1007/978-3-319-26485-1_33.
+O’Keefe, Cullen; Cihon, Peter; Garfinkel, Ben; Flynn, Carrick; Leung, Jade
+und Dafoe, Allan. „The Windfall Clause: Distributing the Benefits of AI for the
+Common Good“. In: arXiv:1912.11595 [cs] (24. Jän. 2020).
 Omohundro, Stephen M. „The Basic AI Drives“. In: First AGI Conference. Bd. 171.
 2008.
-Russell, Stuart und Norvig, Peter. Artificial Intelligence: A Modern Approach,
-Global Edition. 3. Aufl. Boston Columbus Indianapolis New York San Francisco
-Upper Saddle River Amsterdam, Cape Town Dubai London Madrid Milan Munich
-Paris Montreal Toronto Delhi Mexico City Sao Paulo Sydney Hong Kong Seoul
-Singapore Taipei Tokyo: Addison Wesley, 2016. 1132 S. isbn: 978-1-292-15396-4.
+Russell, Stuart und Norvig, Peter. Artificial Intelligence: A Modern Approach, Global
+Edition. 3. Aufl. Boston Columbus Indianapolis New York San Francisco Upper
+Saddle River Amsterdam, Cape Town Dubai London Madrid Milan Munich Paris
+Montreal Toronto Delhi Mexico City Sao Paulo Sydney Hong Kong Seoul Singapore
+Taipei Tokyo: Addison Wesley, 18. Mai 2016. 1132 S. isbn: 978-1-292-15396-4.
 Shannon, Claude E. „Programming a Computer for Playing Chess“. In: Computer
 Chess Compendium. Hrsg. von Levy, David. New York, NY: Springer, 1988, S. 2–13.
 isbn: 978-1-4757-1968-0. doi: 10.1007/978-1-4757-1968-0_1.
-Silver, David; Schrittwieser, Julian; Simonyan, Karen; Antonoglou, Ioannis;
+
+27
+
+Silver, David; Schrittwieser, Julian; Simonyan, Karen; Antonoglou, Ioannis;
 Huang, Aja; Guez, Arthur; Hubert, Thomas; Baker, Lucas; Lai, Matthew;
 Bolton, Adrian; Chen, Yutian; Lillicrap, Timothy; Hui, Fan; Sifre, Laurent;
 Driessche, George van den; Graepel, Thore und Hassabis, Demis. „Mastering
 the game of Go without human knowledge“. In: Nature 550.7676 (Okt. 2017), S. 354–
 359. issn: 1476-4687. doi: 10.1038/nature24270.
-
-26
-
-Yudkowsky, Eliezer. „Complex Value Systems in Friendly AI“. In: Artificial General
+Sotala, Kaj und Yampolskiy, Roman V. „Responses to catastrophic AGI risk: a
+survey“. In: Physica Scripta 90.1 (1. Jän. 2015), S. 018001. issn: 0031-8949, 1402-4896.
+doi: 10.1088/0031-8949/90/1/018001.
+Yampolskiy, Roman V. und Spellchecker, M. S. „Artificial Intelligence Safety and
+Cybersecurity: a Timeline of AI Failures“. In: arXiv:1610.07997 [cs] (25. Okt. 2016).
+Yudkowsky, Eliezer. „Complex Value Systems in Friendly AI“. In: Artificial General
 Intelligence. Hrsg. von Schmidhuber, Jürgen; Thórisson, Kristinn R. und Looks,
 Moshe. Lecture Notes in Computer Science. Berlin, Heidelberg: Springer, 2011,
 S. 388–393. isbn: 978-3-642-22887-2. doi: 10.1007/978-3-642-22887-2_48.
@@ -1147,7 +1217,8 @@ Intelligence Research Institute, 2013.
 
 Audio-Quellen
 Yudkowsky, Eliezer. AI: Racing Toward the Brink. Sam Harris. Feb. 2018. url:
-https://samharris.org/podcasts/116-ai-racing-toward-brink/.
+https://samharris.org/podcasts/116-ai-racing-toward-brink/ (besucht am
+12. 10. 2019).
 
 Video-Quellen
 Paul, Christiano. Current Work in AI Alignment. San Francisco, 2019. url: https:
@@ -1155,8 +1226,11 @@ Paul, Christiano. Current Work in AI Alignment. San Francisco, 2019. url: https:
 
 Internet-Quellen
 AI Safety Myths. Future of Life Institute. url: https://futureoflife.org/backgro
-und/aimyths/ (besucht am 6. 8. 2019).
-Allen, Paul G. und Greaves, Mark. Paul Allen: The Singularity Isn’t Near. MIT
+und/aimyths/ (besucht am 1. 11. 2019).
+
+28
+
+Allen, Paul G. und Greaves, Mark. Paul Allen: The Singularity Isn’t Near. MIT
 Technology Review. 12. Okt. 2011. url: https://www.technologyreview.com/s
 /425733/paul-allen-the-singularity-isnt-near/ (besucht am 5. 1. 2020).
 Amodei, Dario; Paul, Christiano und Ray, Alex. Learning from Human Preferences.
@@ -1167,36 +1241,39 @@ Eliezer Yudkowsky on Intelligence Explosion - YouTube. url: https://www.youtube
 Nicholson, Chris. A Beginner’s Guide to Deep Reinforcement Learning. Pathmind.
 url: http://pathmind.com/wiki/deep-reinforcement-learning (besucht am
 3. 1. 2020).
-Weigl, Huberta. Vorwort. url: http://www.ahs-vwa.at/pluginfile.php/31/mod
-_data/content/1315/02-VWA-Vorwort.pdf (besucht am 3. 2. 2017).
+Yudkowsky, Eliezer. What is Friendly AI? | Kurzweil. 3. Mai 2001. url: https://w
+ww.kurzweilai.net/what-is-friendly-ai (besucht am 1. 10. 2019).
 
-27
-
-Yudkowsky, Eliezer. What is Friendly AI? | Kurzweil. 5. März 2001. url: https:
-//www.kurzweilai.net/what-is-friendly-ai (besucht am 1. 10. 2019).
-
-28
+29
 
 Abbildungsverzeichnis
-4.1. Veranschaulichung eines DL-Modells. Die KI bekommt rohe Pixeldaten
+4.1
+
+4.2
+
+4.3
+
+4.4
+
+Veranschaulichung eines DL-Modells. Die KI bekommt rohe Pixeldaten
 als Input. Mit jeder Schicht wendet sie ein neues Konzept auf das vorherige an, die Konzepte sind also aufbauend. Durch Analyse der Helligkeit
 umgebener Pixel werden Ränder erkannt (1. Schicht). Ansammlungen
 von Rändern werden als Ecken und Konturen identifiziert (2. Schicht).
 Durch zusammenhängende Ecken und Konturen können ganze Objektteile bestimmt werden (3. Schicht). Bildquelle: Goodfellow, Ian u. a.
 Deep Learning. http://www.deeplearningbook.org. MIT Press, 2016,
 S. 6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-4.2. Die Umgebung ist das Level, in dem sich Mario (links unten zu sehen)
+Die Umgebung ist das Level, in dem sich Mario (links unten zu sehen)
 befindet, die möglichen Aktionen sind: springen, nach links laufen,
 nach rechts laufen. Die neuronalen Netze teilen jeder Aktion einen
 Nutzwert zu. Beispiel: springen (5), nach rechts laufen (7), nach links
 laufen (0). Bildquelle: Nicholson, Chris. A Beginner’s Guide to Deep
 Reinforcement Learning. Pathmind. url: http://pathmind.com/wiki
 /deep-reinforcement-learning (besucht am 3. 1. 2020) . . . . . . . .
-4.3. Repräsentation einer human-feedback-loop Bildquelle: Amodei, Dario
+Repräsentation einer human-feedback-loop Bildquelle: Amodei, Dario
 u. a. Learning from Human Preferences. OpenAI. 13. Juni 2017. url:
 https://openai.com/blog/deep-reinforcement-learning-from-h
 uman-preferences/ (besucht am 4. 1. 2020) . . . . . . . . . . . . . . .
-4.4. Beispiel des Ablaufs eines maschinellen Debattierspiels. Bild der Zahl
+Beispiel des Ablaufs eines maschinellen Debattierspiels. Bild der Zahl
 Fünf wird den beiden Debattierern gezeigt. Alice gibt Sechs als Antwort
 an, Bob gibt Fünf an (Schritt 1). Beide decken abwechselnd Pixel auf
 (Schritt 2). Auf Basis der aufgedeckten Pixel entscheidet sich der Beurteiler für Fünf als richtige Antwort (Schritt 3). Bildquelle: Irving,
@@ -1205,26 +1282,22 @@ Geoffrey u. a. „AI safety via debate“. In: arXiv:1805.00899 [cs, stat]
 
 Tabellenverzeichnis
 
-29
-
-16
+30
 
 17
 
-20
+18
 
-22
+21
 
-A. Hier könnte Ihr Anhang stehen
-
-30
+23
 
 Erklärungen
 Selbstständigkeitserklärung
 Ich erkläre, dass ich diese vorwissenschaftliche Arbeit eigenständig angefertigt und nur
 die im Literaturverzeichnis angeführten Quellen und Hilfsmittel benutzt habe.
 
-Wien, 6. Jänner 2020
+Wien, 7. Februar 2020
 
 Franz Srambical
 

@@ -1,26 +1,26 @@
-[0] Config.pm:304> INFO - This is Biber 2.13
-[0] Config.pm:307> INFO - Logfile is 'document.blg'
-[23] biber:315> INFO - === Sun Jan  5, 2020, 15:43:33
-[36] Biber.pm:375> INFO - Reading 'document.bcf'
-[103] Biber.pm:905> INFO - Found 30 citekeys in bib section 0
-[120] Biber.pm:4196> INFO - Processing section 0
-[121] Utils.pm:75> INFO - Globbing data source 'meineBibliothek.bib'
-[121] Utils.pm:91> INFO - Globbed data source 'meineBibliothek.bib' to meineBibliothek.bib
-[121] Utils.pm:75> INFO - Globbing data source 'quellen.bib'
-[121] Utils.pm:91> INFO - Globbed data source 'quellen.bib' to quellen.bib
-[130] Biber.pm:4373> INFO - Looking for bibtex format file 'meineBibliothek.bib' for section 0
-[137] bibtex.pm:1462> INFO - LaTeX decoding ...
-[249] bibtex.pm:1281> INFO - Found BibTeX data source 'meineBibliothek.bib'
-[417] Biber.pm:4373> INFO - Looking for bibtex format file 'quellen.bib' for section 0
-[418] bibtex.pm:1462> INFO - LaTeX decoding ...
-[448] bibtex.pm:1281> INFO - Found BibTeX data source 'quellen.bib'
-[489] UCollate.pm:68> INFO - Overriding locale 'de-AT' defaults 'variable = shifted' with 'variable = non-ignorable'
-[489] UCollate.pm:68> INFO - Overriding locale 'de-AT' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[489] Biber.pm:4024> INFO - Sorting list 'shorthand:shorthand/global//global/global' of type 'list' with template 'shorthand' and locale 'de-AT'
-[489] Biber.pm:4030> INFO - No sort tailoring available for locale 'de-AT'
-[525] UCollate.pm:68> INFO - Overriding locale 'de-AT' defaults 'variable = shifted' with 'variable = non-ignorable'
-[525] UCollate.pm:68> INFO - Overriding locale 'de-AT' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[525] Biber.pm:4024> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'de-AT'
-[525] Biber.pm:4030> INFO - No sort tailoring available for locale 'de-AT'
-[555] bbl.pm:648> INFO - Writing 'document.bbl' with encoding 'UTF-8'
-[579] bbl.pm:751> INFO - Output to document.bbl
+[1] Config.pm:304> INFO - This is Biber 2.14
+[1] Config.pm:307> INFO - Logfile is 'document.blg'
+[169] biber-MSWIN32:322> INFO - === 
+[227] Biber.pm:415> INFO - Reading 'document.bcf'
+[582] Biber.pm:943> INFO - Found 34 citekeys in bib section 0
+[654] Biber.pm:4256> INFO - Processing section 0
+[655] Utils.pm:75> INFO - Globbing data source 'meineBibliothek.bib'
+[690] Utils.pm:91> INFO - Globbed data source 'meineBibliothek.bib' to meineBibliothek.bib
+[691] Utils.pm:75> INFO - Globbing data source 'quellen.bib'
+[691] Utils.pm:91> INFO - Globbed data source 'quellen.bib' to quellen.bib
+[721] Biber.pm:4455> INFO - Looking for bibtex format file 'meineBibliothek.bib' for section 0
+[856] bibtex.pm:1653> INFO - LaTeX decoding ...
+[1476] bibtex.pm:1471> INFO - Found BibTeX data source 'meineBibliothek.bib'
+[2250] Biber.pm:4455> INFO - Looking for bibtex format file 'quellen.bib' for section 0
+[2257] bibtex.pm:1653> INFO - LaTeX decoding ...
+[2365] bibtex.pm:1471> INFO - Found BibTeX data source 'quellen.bib'
+[2499] UCollate.pm:68> INFO - Overriding locale 'de-AT' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2500] UCollate.pm:68> INFO - Overriding locale 'de-AT' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2500] Biber.pm:4084> INFO - Sorting list 'shorthand:shorthand/global//global/global' of type 'list' with template 'shorthand' and locale 'de-AT'
+[2500] Biber.pm:4090> INFO - No sort tailoring available for locale 'de-AT'
+[2630] UCollate.pm:68> INFO - Overriding locale 'de-AT' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2630] UCollate.pm:68> INFO - Overriding locale 'de-AT' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2630] Biber.pm:4084> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'de-AT'
+[2631] Biber.pm:4090> INFO - No sort tailoring available for locale 'de-AT'
+[2760] bbl.pm:652> INFO - Writing 'document.bbl' with encoding 'UTF-8'
+[2844] bbl.pm:755> INFO - Output to document.bbl
