@@ -36,5 +36,4 @@
 \contentsline {section}{\nonumberline Video-Quellen}{28}{section*.6}%
 \contentsline {section}{\nonumberline Internet-Quellen}{28}{section*.7}%
 \contentsline {chapter}{\nonumberline Abbildungsverzeichnis}{30}{chapter*.8}%
-\contentsline {chapter}{\nonumberline Tabellenverzeichnis}{30}{chapter*.9}%
-\contentsline {chapter}{\nonumberline Erklärungen}{31}{chapter*.10}%
+\contentsline {chapter}{\nonumberline Erklärungen}{31}{chapter*.9}%

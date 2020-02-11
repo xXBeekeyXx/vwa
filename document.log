@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.2.4)  7 FEB 2020 15:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.2.4)  9 FEB 2020 18:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -964,12 +964,9 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmss' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-
-
-Class vwa Warning: \Abgabedatum{} in der Praeambel angeben! on input line 56.
-
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 5
 6.
+
 (c:/texlive/2019/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -1018,12 +1015,6 @@ chapter 1.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/10'.
 (microtype)             Ignoring protrusion settings for this character.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 12.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 12.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 12.
 ) [5
 
 
@@ -1037,6 +1028,12 @@ chapter 2.
 Package biblatex Warning: No driver for entry type 'audio'.
 (biblatex)                Using fallback driver on input line 4.
 
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 4.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 4.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 17.
 [6
 
 
@@ -1071,12 +1068,12 @@ chapter 4.
 
 
 ]
-<img/deeplearning.png, id=304, 144.0582pt x 111.5367pt>
+<img/deeplearning.png, id=291, 144.0582pt x 111.5367pt>
 File: img/deeplearning.png Graphic file (type png)
 <use img/deeplearning.png>
 Package pdftex.def Info: img/deeplearning.png  used on input line 22.
 (pdftex.def)             Requested size: 437.46118pt x 338.76527pt.
-<img/deepreinforcementlearning.png, id=313, 619.31375pt x 351.3125pt>
+<img/deepreinforcementlearning.png, id=300, 619.31375pt x 351.3125pt>
 File: img/deepreinforcementlearning.png Graphic file (type png)
 <use img/deepreinforcementlearning.png>
 Package pdftex.def Info: img/deepreinforcementlearning.png  used on input line 
@@ -1084,13 +1081,13 @@ Package pdftex.def Info: img/deepreinforcementlearning.png  used on input line
 (pdftex.def)             Requested size: 437.46118pt x 248.16315pt.
  [16] [17 <./img/deeplearning.png>] [18 <./img/deepreinforcementlearning.png>] 
 [19]
-<img/humanfeedback.png, id=379, 138.5175pt x 64.0794pt>
+<img/humanfeedback.png, id=365, 138.5175pt x 64.0794pt>
 File: img/humanfeedback.png Graphic file (type png)
 <use img/humanfeedback.png>
 Package pdftex.def Info: img/humanfeedback.png  used on input line 67.
 (pdftex.def)             Requested size: 437.46118pt x 202.39774pt.
  [20] [21 <./img/humanfeedback.png>]
-<img/debattierspielmaschinell.png, id=410, 167.6664pt x 51.5526pt>
+<img/debattierspielmaschinell.png, id=397, 167.6664pt x 51.5526pt>
 File: img/debattierspielmaschinell.png Graphic file (type png)
 <use img/debattierspielmaschinell.png>
 Package pdftex.def Info: img/debattierspielmaschinell.png  used on input line 8
@@ -1162,15 +1159,6 @@ l.8 ...uelle [8]{irving_ai_2018}}}{23}{figure.4.4}
 \tf@lof=\write5
 \openout5 = `document.lof'.
 
-Package tocbasic Info: character protrusion at lot deactivated on input line 95
-.
- (./document.lot
-Package cleveref Info: loaded `naustrian' language definitions on input line 4.
-
-)
-\tf@lot=\write6
-\openout6 = `document.lot'.
-
  [30
 
 ]
@@ -1193,13 +1181,13 @@ Package logreq Info: Writing requests to 'document.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 27708 strings out of 483098
- 524958 string characters out of 5963464
- 1340036 words of memory out of 5000000
- 41781 multiletter control sequences out of 15000+600000
- 670409 words of font info for 262 fonts, out of 8000000 for 9000
+ 27674 strings out of 483098
+ 524375 string characters out of 5963464
+ 1337835 words of memory out of 5000000
+ 41772 multiletter control sequences out of 15000+600000
+ 669303 words of font info for 252 fonts, out of 8000000 for 9000
  38 hyphenation exceptions out of 8191
- 62i,7n,88p,10140b,3474s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,7n,88p,10140b,3472s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2019/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{c:/texlive/2019
 /texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{c:/texlive/2019/texmf-dist/fonts/
 enc/dvips/lm/lm-mathit.enc}{c:/texlive/2019/texmf-dist/fonts/enc/dvips/lm/lm-ec
@@ -1218,10 +1206,10 @@ exmf-dist/fonts/type1/public/lm/lmsy10.pfb><c:/texlive/2019/texmf-dist/fonts/ty
 pe1/public/lm/lmsy8.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/lm/lmtt1
 0.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/lm/lmtt12.pfb><c:/texlive/
 2019/texmf-dist/fonts/type1/public/lm/lmtt9.pfb>
-Output written on document.pdf (31 pages, 798883 bytes).
+Output written on document.pdf (31 pages, 798249 bytes).
 PDF statistics:
- 809 PDF objects out of 1000 (max. 8388607)
- 737 compressed objects within 8 object streams
- 214 named destinations out of 1000 (max. 500000)
- 47970 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 800 PDF objects out of 1000 (max. 8388607)
+ 728 compressed objects within 8 object streams
+ 212 named destinations out of 1000 (max. 500000)
+ 47962 words of extra memory for PDF output out of 51595 (max. 10000000)
 

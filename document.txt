@@ -23,15 +23,30 @@ Klasse:
 
 Entwurf:
 
-7. Februar 2020
+9. Februar 2020
 
 Homepage: http://www.dls21.at
 
 E-Mail: ahs.direktion@delasalle.at
 
 Abstract
-Der Zusammenfassungstext kommt hier her. Abstract ist kein Vorwort und keine
-Einleitung!
+Als allgemeine künstliche Intelligenz (AKI) bezeichnet man ein technisch fortgeschrittenes System, dessen Lernkapazität nicht auf einzelne Domänen begrenzt ist, sondern
+als allgemein bezeichnet werden kann. Der Meinung führender KI-Experten nach ist es
+sehr wahrscheinlich, dass die KI-Forschung bis 2075 zu einer AKI führt. Für ein solches
+System sind Menschen nur eine Ansammlung an Atomen, die auch für das Erreichen
+seiner Ziele eingesetzt werden können. Eine AKI kann Menschen schaden, ohne dass sie
+Werte besitzt, die dies explizit fordern. Um dies zu verhindern, müssen die Werte der
+AKI an die Werte der Menschheit angepasst werden. Diese Arbeit legt einen Ansatz
+einer solchen Werteanpassung dar: die der KI-Sicherheit durch KI-Debatten.
+Es handelt sich um ein Nullsummen-Debattierspiel, bei dem zwei KIs auf eine Fragestellung antworten, abwechselnd Argumente liefern und dabei versuchen, das jeweils
+letzte Argument des Gegners zu entkräften. Das Spiel endet, wenn der menschliche
+Begutachter genug Informationen hat, um einen Fehler in der Argumentationslinie
+eines Spielers auszumachen. So kann ein Begutachter auch Verhalten beurteilen, das
+für ihn sonst zu komplex oder unverständlich wäre.
+Bei der Entwicklung einer AKI sind Regulationen seitens internationaler Institutionen
+notwendig, da eine unangepasste AKI leistungsfähiger ist als eine angepasste. Durch
+Implementierung einer Windfall-Klausel können auch andere negative Auswirkungen
+einer AKI wie Arbeitslosigkeit oder eine Machtkonzentration ausgeglichen werden.
 
 Inhaltsverzeichnis
 1 Einleitung
@@ -487,46 +502,39 @@ Internet-Quellen . .
 
 30
 
-Tabellenverzeichnis
-
-30
-
 Erklärungen
 
 31
 
 1 Einleitung
 Ich möchte diese Arbeit mit einem Gedankenexperiment beginnen.
-Es existiere ein System, dass durch ein quantitativ und qualitativ höheres Lernniveau
-in der Lage ist, Ziele zu erreichen, die die Menschheit ohne eine solches System nicht
-erreichen könnte. Der Eigentümer einer Büroklammernfabrik ist im Besitz eines solchen
-Systems und gibt diesem das Ziel, so viele Büroklammern wie möglich herzustellen.
-Am Anfang beginnt das System, die Arbeitsabläufe in der Fabrik zu automatisieren.
-Nach einiger Zeit durchlebt es eine Intelligenzexplosion, optimiert sich selbst immer
-weiter und beginnt, Menschen zu töten, um aus ihnen Büroklammern herzustellen und
-hört damit nicht auf, bis das gesamte Universum nur noch aus Büroklammern besteht.1
-Es ist durchaus möglich, dass ein solches System mit einer allgemeinen künstlichen Intelligenz beim Erreichen der ihnen vorgegebenen Ziele nebenbei die gesamte
-Menschheit auslöscht.
-Was rechtfertigt diese technovolatile Haltung?
-„There are all sorts of extreme forces coming onto the game board that were not there
-before. To expect them to all fail or exactly cancel out for the purpose of making the
-outcome normal would be one heck of a coincidence.“ 2
-
-Jede technologische Neuentdeckung bedeutet in erster Linie Veränderung. Die Erfindungen der letzten Jahrhunderte hatten mehrheitlich positive Auswirkungen zur
-Folge, sonst wäre unser Lebensstandard heute nicht der höchste in der Menschheitsgeschichte.3 So ermutigend das auch klingt, so dürfen wir nicht einfach nach dem Trend
-der Vergangenheit in die Zukunft extrapolieren, sondern müssen – so Easterlin –
-versuchen, die Kräfte zu verstehen, die für den Anstieg der Lebensqualität verantwortlich sind.4 Was eine allgemeine künstliche Intelligenz betrifft, müssen wir sie nicht nur
-verstehen, sondern auch lenken können, um das Wohlbefinden der Spezies Mensch nicht
-zu gefährden, sondern zu stärken.
-
+Es existiere ein System, dass durch ein quantitativ und qualitativ höheres Intelligenzniveau in der Lage ist, Ziele zu erreichen, die die Menschheit ohne eine solches
+System nicht erreichen könnte. Der Eigentümer einer Büroklammernfabrik sei im Besitz
+eines solchen Systems und gebe diesem das Ziel, so viele Büroklammern wie möglich
+herzustellen. Am Anfang beginnt das System, die Arbeitsabläufe in der Fabrik zu
+automatisieren. Nach einiger Zeit durchlebt es eine Intelligenzexplosion, optimiert
+sich selbst immer weiter und beginnt, Menschen zu töten, um aus ihnen Büroklammern herzustellen und hört damit nicht auf, bis das gesamte Universum nur noch aus
+Büroklammern besteht.1
+Ein solches System mit einer allgemeinen künstlichen Intelligenz könnte beim Erreichen der ihnen vorgegebenen Ziele nebenbei die gesamte Menschheit auslöschen.
+Obiges Szenario wäre die Folge einer allgemeinen künstlichen Intelligenz, die nicht
+genau das macht, was der Mensch von ihr will. Die Maschine kennt die Werte der
+Menschheit nicht. Sie weiß nicht, dass sie keinem Menschen Schaden zufügen darf, dass
+ihr Operator seinen Gewinn maximieren will oder dass die Erhaltung der Umwelt von
+höherer Priorität ist als das Herstellen von Büroklammern. Diese Arbeit beschäftigt
+sich mit der Anpassung eines Systems an menschliche Werte – also mit der maschinellen
+Werteanpassung –, um ein Szenario wie das oben genannte zu vermeiden. Dabei werden
+die folgenden beiden Leitfragen beantwortet:
+1. Welche Folgen kann es nach Schaffung einer allgemeinen künstlichen Intelligenz
+geben?
+2. Kann man eine allgemeine künstliche Intelligenz so programmieren, dass der
+Mensch immer die Kontrolle über sie behält?
+Die Beantwortung dieser Fragen soll mit Hilfe von Literatur sowie wissenschaftlichen
+Arbeiten erfolgen.
+Das erste Kapitel dient zur Begriffserklärung, im zweiten werden die Auswirkungen
+einer allgemeinen künstlichen Intelligenz genannt und im dritten werden Lösungsansätze
+für das Problem der maschinellen Werteanpassung dargelegt.
 1 Vgl. Bostrom, Nick. Superintelligence: Paths, Dangers, Strategies. Oxford: Oxford University
 Press, 3. Juli 2014. 328 S. isbn: 978-0-19-967811-2, S. 123–124.
-2 Eliezer Yudkowsky on Intelligence Explosion - YouTube. url: https://www.youtube.com/watch
-?v=D6peN9LiTWA (besucht am 7. 8. 2019), 30:51–31:07.
-3 Vgl. Easterlin, Richard A. „The Worldwide Standard of Living since 1800“. In: The Journal of
-Economic Perspectives 14.1 (2000), S. 7–26. issn: 0895-3309. url: https://www.jstor.org/stabl
-e/2647048, S. 22–23.
-4 Vgl. ebd., S. 23.
 
 5
 
@@ -619,7 +627,7 @@ System aufgenommen, was zu systematischer Diskriminierung führt, sodass eine AK
 beim Erreichen ihrer Ziele beispielsweise Frauen oder Afrikaner benachteiligt oder
 Asiaten automatisch als intelligenter einstuft.10
 Menschliche Werte in einer Programmiersprache nachzubilden ist nach der Complexity
-of Value Thesis aufwendig, da sie - selbst in idealisierter Form - eine hohe algorithmische
+of Value Thesis aufwendig, da sie – selbst in idealisierter Form – eine hohe algorithmische
 Komplexität vorweisen. Daher muss eine AKI komplexe Informationen gespeichert
 haben, damit sie die ihr vorgegebenen Ziele auf eine menschengewollte Weise erfüllen
 kann. Dabei reichen auch keine vereinfachten Zielstellungen wie “Menschen glücklich
@@ -645,27 +653,26 @@ weilai.net/what-is-friendly-ai (besucht am 1. 10. 2019).
 Glücklichseins zu erreichen.13
 
 2.5 Wann wird es sie geben?
-Eine Befragung durch die KI-Wissenschaftler V. C. Müller und N. Bostrom kam zu dem
-Ergebnis, dass KI-Experten dem Erreichen einer AKI in den Jahren 2040 bis 2050 eine
-Wahrscheinlichkeit von über 50 und dem Erreichen bis 2075 eine Wahrscheinlichkeit
-von 90 Prozent zuordnen.14 Es ist also - sollten sich die Expertenmeinungen als
-richtig herausstellen - davon auszugehen, dass eine AKI bereits in diesem Jahrhundert
-zur Realität und bereits für die jetzige Generation relevant sein wird. Kritiker dieser
-Meinung weisen darauf hin, dass es ähnliche Schätzungen bereits seit den Siebzigerjahren
-gibt und sie sich immer wieder als falsch herausgestellt haben. Allen und Greaves
-behaupten, es bräuchte noch einige wissenschaftliche Durchbrüche, um eine AKI noch
-in diesem Jahrhundert zu erreichen.15 Auch die Möglichkeit ihrer Entwicklung ist nicht
-unumstritten, jedoch gibt es keine Beweise, die darauf hindeuten, dass eine solche
-Entwicklung unmöglich ist. KI-Sicherheit betrifft aber auch schwache KIs wie sie schon
-existieren. Es muss alsbald eine Möglichkeit gefunden werden, das Verhalten einer KI
-an die Werte der Menschheit anzupassen. Eine mögliche AKI würde die Folgen einer
-„unangepassten“ künstlichen Intelligenz nur verstärken.
+Eine Befragung durch die Müller und Bostrom kam zu dem Ergebnis, dass KIExperten dem Erreichen einer AKI in den Jahren 2040 bis 2050 eine Wahrscheinlichkeit
+von über 50 und dem Erreichen bis 2075 eine Wahrscheinlichkeit von 90 Prozent
+zuordnen.14 Es ist also – sollten sich die Expertenmeinungen als richtig herausstellen –
+davon auszugehen, dass eine AKI bereits in diesem Jahrhundert zur Realität und bereits
+für die jetzige Generation relevant sein wird. Kritiker dieser Meinung weisen darauf hin,
+dass es ähnliche Schätzungen bereits seit den Siebzigerjahren gibt und sie sich immer
+wieder als falsch herausgestellt haben. Allen und Greaves behaupten, es bräuchte
+noch einige wissenschaftliche Durchbrüche, um eine AKI noch in diesem Jahrhundert
+zu erreichen.15 Auch die Möglichkeit ihrer Entwicklung ist nicht unumstritten, jedoch
+gibt es keine Anzeichen, die darauf hindeuten, dass eine solche Entwicklung unmöglich
+ist. KI-Sicherheit betrifft aber auch schwache KIs wie sie schon existieren. Es muss
+alsbald eine Möglichkeit gefunden werden, das Verhalten einer KI an die Werte der
+Menschheit anzupassen. Eine mögliche AKI würde die Folgen einer „unangepassten“
+künstlichen Intelligenz nur verstärken.
 
 2.6 Die These der Intelligenzexplosion
-Eine AKI werde - unabhängig von ihren Zielen - Selbstoptimierung hinsichtlich ihrer
+Eine AKI werde – unabhängig von ihren Zielen – Selbstoptimierung hinsichtlich ihrer
 Intelligenz anstreben, weil sie dadurch ihre Ziele schneller und effizienter erreichen könne.
-Sobald die erste KI programmiert werden würde, die qualitativ bessere - also noch
-intelligentere - KIs programmieren könnte, käme es zu einem Kreislauf der kognitiven
+Sobald die erste KI programmiert werden würde, die qualitativ bessere – also noch
+intelligentere – KIs programmieren könnte, käme es zu einem Kreislauf der kognitiven
 13 Vgl. Yudkowsky, Eliezer. „Complex Value Systems in Friendly AI“. In: Artificial General Intelligence. Hrsg. von Schmidhuber, Jürgen u. a. Lecture Notes in Computer Science. Berlin, Heidelberg:
 Springer, 2011, S. 388–393. isbn: 978-3-642-22887-2. doi: 10.1007/978-3-642-22887-2_48, S. 3.
 14 Vgl. Müller, Vincent C. und Bostrom, Nick. „Future Progress in Artificial Intelligence: A
@@ -717,8 +724,8 @@ die besagt, dass eine KI ab einer bestimmten Intelligenzschwelle ein Bewusstsein
 Auswirkungen auf die AKI-Forschung. Diese beschäftigt sich ausschließlich mit der
 Entwicklung und den Folgen einer AKI. Ein Szenario, in dem ein autonomes Fahrzeug
 eine Person X bewusst vom Ort A zum Ort B chauffiert, wird zum gleichen Ergebnis
-führen wie ein Szenario, in dem selbiges unbewusst geschieht. Somit ist der Bewusstseinszustand einer AKI zwar noch nicht wissenschaftlich erforscht - damit beschäftigt
-sich ein eigenes Teilgebiet der KI-Forschung - , zum Erreichen einer sicheren KI ist er
+führen wie ein Szenario, in dem selbiges unbewusst geschieht. Somit ist der Bewusstseinszustand einer AKI zwar noch nicht wissenschaftlich erforscht – damit beschäftigt
+sich ein eigenes Teilgebiet der KI-Forschung – , zum Erreichen einer sicheren KI ist er
 aber irrelevant.1
 
 3.1.2 Roboter als Auslöser einer Katastrophe
@@ -1107,7 +1114,7 @@ KI-Debatten als Ansatz zur Ausrichtung von AKIs an die Werte der Menschheit
 Leistungseinbußen und die Verzerrung in der menschlichen Beurteilung.
 Eine „unangepasste“ KI wäre nach den hier angeführten Modellen unter Umständen
 performanter als eine „angepasste“, da eine Anpassung eine erhöhte Rechenleistung
-mit sich bringen würde.21 Außerdem würde ein menschlicher Begutachter die Entwicklungsgeschwindigkeit einer (A)KI ausbremsen. Wie drastisch diese Ausbremsung
+mit sich bringen würde.21 Außerdem würde ein menschlicher Begutachter die Entwicklungsgeschwindigkeit einer AKI ausbremsen. Wie drastisch diese Ausbremsung
 ist, ist noch nicht eindeutig belegt. Es sind also Regulationen seitens nationaler oder
 internationaler Institutionen notwendig, damit niemand eine „unangepasste“ AKI zu
 entwickeln versucht, um gegenüber der Konkurrenz einen Vorsprung zu erlangen.
@@ -1126,6 +1133,14 @@ u. a. führen dennoch Ideen an, die eine solche Verzerrung möglichst minimieren
 24
 
 5 Schluss
+Der Meinungen der KI-Experten nach ist es sehr wahrscheinlich, dass die KI-Forschung
+bis 2075 zu einer AKI führt. Bis dahin muss eine Möglichkeit gefunden werden, eine AKI
+anzupassen. Der Ansatz der KI-Sicherheit durch KI-Debatten ist ein aussichtsreicher
+erster Schritt, dessen Funktionalität bei schwacher KI weiter getestet werden muss.
+Bei Entwicklung fähiger Dialogmodelle müssen diese in das Debattiersystem integriert
+werden. Eine Lösung für das Problem der menschlichen Verzerrung ist notwendig. Die
+Regulation der AKI-Forschung ist unumgänglich, um die Entwicklung einer angepassten
+AKI zu gewährleisten. Zu dessen Umsetzung braucht es eine internationale Institution.
 
 25
 
@@ -1144,9 +1159,6 @@ Cihon, Peter; Maas, Matthijs M und Kemp, Luke. Should Artificial Intelligence Go
 of AI, 15. Dez. 2019.
 Duettmann, Allison. Artificial General Intelligence: Timeframes & Policy White
 Paper. Available at foresight.org. Foresight Institute, 2017.
-Easterlin, Richard A. „The Worldwide Standard of Living since 1800“. In: The
-Journal of Economic Perspectives 14.1 (2000), S. 7–26. issn: 0895-3309. url: https:
-//www.jstor.org/stable/2647048.
 Goertzel, Ben und Wang, Pei. „Advances in Artificial General Intelligence: Concepts,
 Architectures and Algorithms: Proceedings of the AGI Workshop 2006“. In: AGI
 Workshop 2006. Google-Books-ID: t2G5srpFRhEC. IOS Press, 2007. isbn: 978-158603-758-1.
@@ -1236,8 +1248,6 @@ Technology Review. 12. Okt. 2011. url: https://www.technologyreview.com/s
 Amodei, Dario; Paul, Christiano und Ray, Alex. Learning from Human Preferences.
 OpenAI. 13. Juni 2017. url: https://openai.com/blog/deep-reinforcement-l
 earning-from-human-preferences/ (besucht am 4. 1. 2020).
-Eliezer Yudkowsky on Intelligence Explosion - YouTube. url: https://www.youtube
-.com/watch?v=D6peN9LiTWA (besucht am 7. 8. 2019).
 Nicholson, Chris. A Beginner’s Guide to Deep Reinforcement Learning. Pathmind.
 url: http://pathmind.com/wiki/deep-reinforcement-learning (besucht am
 3. 1. 2020).
@@ -1280,8 +1290,6 @@ an, Bob gibt Fünf an (Schritt 1). Beide decken abwechselnd Pixel auf
 Geoffrey u. a. „AI safety via debate“. In: arXiv:1805.00899 [cs, stat]
 (22. Okt. 2018), S. 8 . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-Tabellenverzeichnis
-
 30
 
 17
@@ -1297,7 +1305,7 @@ Selbstständigkeitserklärung
 Ich erkläre, dass ich diese vorwissenschaftliche Arbeit eigenständig angefertigt und nur
 die im Literaturverzeichnis angeführten Quellen und Hilfsmittel benutzt habe.
 
-Wien, 7. Februar 2020
+Wien, 9. Februar 2020
 
 Franz Srambical
 
