@@ -1,79 +1,59 @@
-\documentclass[a4paper,12pt,DIV=default,parskip=half]{scrartcl}
-
-\usepackage[T1]{fontenc} 		% Moderne Schriftkodierung
-\usepackage[naustrian]{babel} 	% Sprache: Deutsch
-\usepackage[utf8]{inputenc}	    % Zeichenkodierung der Eingabedatei.
-
-% Wähle die Schriftfamilie Latin Modern
-\usepackage{lmodern}
-
-% Aktiviere Mikro-Typographie-Erweiterungen in PDFTeX
-\usepackage{microtype,siunitx}
-\KOMAoptions{DIV=last}
-
-\usepackage[de-AT]{datetime2}
-
-\newlength{\daywidth}
-\newlength{\monthwidth}
-\newlength{\yearwidth}
-
-\DTMnewdatestyle{tabledate}{%
-\renewcommand{\DTMdisplaydate}[4]{%
-	\settowidth{\daywidth}{{\usekomafont{labelinglabel}{30.\
-    }}}%
-    \settowidth{\monthwidth}{{\usekomafont{labelinglabel}{September }}}%
-    \settowidth{\yearwidth}{{\usekomafont{labelinglabel}{2000}}}%
-\hbox to \daywidth{\hfill ##3.\ }%
-\hbox to \monthwidth{\DTMdeATmonthname{##2}\ \hfil}%
-\hbox to \yearwidth{\hfill##1}}}
-
-\makeatletter
-\newenvironment{datelist}[1][\quad]{%
-  \def\sc@septext{#1}%
-  \list{}{%
-    %\settowidth{\daywidth}{{\usekomafont{labelinglabel}{30.\
-    %}}}%
-    %\settowidth{\monthwidth}{{\usekomafont{labelinglabel}{September }}}%
-    %\settowidth{\yearwidth}{{\usekomafont{labelinglabel}{2000}}}%
-  	\settowidth{\labelwidth}{{%
-        \usekomafont{labelinglabel}{\DTMsetdatestyle{tabledate}\DTMdate{2000-09-30}%
-          \usekomafont{labelingseparator}{\sc@septext}}%
-      }}%
-    \leftmargin\labelwidth \advance\leftmargin by \labelsep
-    \let\makelabel\labelinglabel
-    }%
-    \renewcommand{\item}[1][]{\@item[{\DTMsetdatestyle{tabledate}\DTMdate{##1}}]}
-    \setlength{\itemsep}{3pt}
-}{%
-  \endlist
-}
-\makeatother
-
-\begin{document}
-\section*{Begleitprotokoll zur vorwissenschaftlichen Arbeit}
-\thispagestyle{empty}
-\begin{labeling}{Betreuungslehrer\quad}
-  \setlength{\itemsep}{0pt}
-  \item[Schüler:] {\bfseries Rainer Zufall, 8C}
-  \item[Thema:] {\bfseries Semantik der Bergiffe Technik und Technologie}
+\documentclass[a4paper,12pt,DIV=default,parskip=half]{scrartcl}
+
+\usepackage[T1]{fontenc} 		% Moderne Schriftkodierung
+\usepackage[naustrian]{babel} 	% Sprache: Deutsch
+\usepackage[utf8]{inputenc}	    % Zeichenkodierung der Eingabedatei.
+
+% Wähle die Schriftfamilie Latin Modern
+\usepackage{lmodern}
+
+% Aktiviere Mikro-Typographie-Erweiterungen in PDFTeX
+\usepackage{microtype,siunitx}
+\KOMAoptions{DIV=last}
+
+\usepackage[de-AT]{datetime2}
+
+\newlength{\daywidth}
+\newlength{\monthwidth}
+\newlength{\yearwidth}
+
+\DTMnewdatestyle{tabledate}{%
+\renewcommand{\DTMdisplaydate}[4]{%
+	\settowidth{\daywidth}{{\usekomafont{labelinglabel}{30.\
+    }}}%
+    \settowidth{\monthwidth}{{\usekomafont{labelinglabel}{September }}}%
+    \settowidth{\yearwidth}{{\usekomafont{labelinglabel}{2000}}}%
+\hbox to \daywidth{\hfill ##3.\ }%
+\hbox to \monthwidth{\DTMdeATmonthname{##2}\ \hfil}%
+\hbox to \yearwidth{\hfill##1}}}
+
+\makeatletter
+    \renewcommand{\item}[1][]{\@item[{\DTMsetdatestyle{tabledate}\DTMdate{##1}}]}
+    \setlength{\itemsep}{3pt}
+}{%
+  \endlist
+}
+\makeatother
+
+\begin{document}
+\section*{Begleitprotokoll zur vorwissenschaftlichen Arbeit}
+\thispagestyle{empty}
+\begin{labeling}{Betreuungslehrer\quad}
+  \setlength{\itemsep}{0pt}
+  \item[Schüler:] {\bfseries Rainer Zufall, 8C}
+  \item[Thema:] {\bfseries Semantik der Bergiffe Technik und Technologie}
   \item[Betreuungslehrer:] {\bfseries Mag.\ Ernst Haft}
-\end{labeling}
+\end{labeling}
+
+{\centering\vrule height 0.025pt depth 0.025pt width 6em\par}
 
-{\centering\vrule height 0.025pt depth 0.025pt width 6em\par}
-\begin{datelist}
-\item[2015-09-10] Bewerbung\dots
-\item[2015-10-10] In einem \textbf{E-Mail}\dots
-\item[2015-10-12] \textbf{Erstgespräch}\dots
-\item[2016-01-25] Erwartungshorizont hochgeladen.
-
-\vskip\itemsep{\parshape0\centering\setlength\baselineskip{.5\baselineskip}\vrule
-height 0.025pt depth 0.025pt width 6em\par}
-\item[2016-9-20] \textbf{Gespräch} mit dem Beutreuungslehrer\dots
-\end{datelist}
-
-Die Arbeit hat eine Länge von \num{59999}~Zeichen.
-
-{\centering\setlength\baselineskip{.5\baselineskip}\vrule height 0.025pt depth
-0.025pt width 6em\par} \vskip3cm plus 0.2fil
-Wien, \DTMdate{2019-02-11}\par \vskip2cm {\raggedleft Rainer Zufall\par}
+Die Arbeit hat eine Länge von \num{59999}~Zeichen.
+
+{\centering\setlength\baselineskip{.5\baselineskip}\vrule height 0.025pt depth
+0.025pt width 6em\par} \vskip3cm plus 0.2fil
+Wien, \DTMdate{2019-02-11}\par \vskip2cm {\raggedleft Rainer Zufall\par}
 \end{document}
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:

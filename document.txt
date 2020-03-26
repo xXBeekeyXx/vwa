@@ -21,32 +21,24 @@ Klasse:
 
 8C
 
-Entwurf:
+Abgabedatum:
 
-9. Februar 2020
+11. Februar 2020
 
 Homepage: http://www.dls21.at
 
 E-Mail: ahs.direktion@delasalle.at
 
 Abstract
-Als allgemeine künstliche Intelligenz (AKI) bezeichnet man ein technisch fortgeschrittenes System, dessen Lernkapazität nicht auf einzelne Domänen begrenzt ist, sondern
-als allgemein bezeichnet werden kann. Der Meinung führender KI-Experten nach ist es
-sehr wahrscheinlich, dass die KI-Forschung bis 2075 zu einer AKI führt. Für ein solches
-System sind Menschen nur eine Ansammlung an Atomen, die auch für das Erreichen
-seiner Ziele eingesetzt werden können. Eine AKI kann Menschen schaden, ohne dass sie
-Werte besitzt, die dies explizit fordern. Um dies zu verhindern, müssen die Werte der
-AKI an die Werte der Menschheit angepasst werden. Diese Arbeit legt einen Ansatz
-einer solchen Werteanpassung dar: die der KI-Sicherheit durch KI-Debatten.
-Es handelt sich um ein Nullsummen-Debattierspiel, bei dem zwei KIs auf eine Fragestellung antworten, abwechselnd Argumente liefern und dabei versuchen, das jeweils
-letzte Argument des Gegners zu entkräften. Das Spiel endet, wenn der menschliche
-Begutachter genug Informationen hat, um einen Fehler in der Argumentationslinie
-eines Spielers auszumachen. So kann ein Begutachter auch Verhalten beurteilen, das
-für ihn sonst zu komplex oder unverständlich wäre.
-Bei der Entwicklung einer AKI sind Regulationen seitens internationaler Institutionen
-notwendig, da eine unangepasste AKI leistungsfähiger ist als eine angepasste. Durch
-Implementierung einer Windfall-Klausel können auch andere negative Auswirkungen
-einer AKI wie Arbeitslosigkeit oder eine Machtkonzentration ausgeglichen werden.
+Diese Arbeit befasst sich mit allgemeiner künstlicher Intelligenz, also künstlicher Intelligenz mit domänenübergreifender Lernkapazität, und mit der Anpassung maschineller
+Werte an die menschlichen bei einem solchen System. Sie zeigt die Auswirkungen
+einer allgemeinen künstlichen Intelligenz auf und legt Ansätze zur Lösung des Anpassungsproblems dar. Konkret wird auf die Idee der KI-Sicherheit durch KI-Debatten
+eingegangen. Bei dieser handelt es sich um ein Nullsummen-Debattierspiel, bei dem
+zwei KIs auf eine Fragestellung antworten, abwechselnd Argumente liefern und dabei
+versuchen, das jeweils letzte Argument des Gegners zu entkräften. Im Schlussteil der
+Arbeit wird Verbesserungspotential an der Idee der KI-Debatten angeführt und eine
+internationale Institution für AKI-Forschung als Maßnahme vorgeschlagen, um die
+Entwicklung einer angepassten AKI zu gewährleisten.
 
 Inhaltsverzeichnis
 1 Einleitung
@@ -575,7 +567,7 @@ data, to learn from such data, and to use those learnings to achieve specific go
 tasks through flexible adaptation“ 4
 
 Laut angeführter Definiton muss eine künstliche Intelligenz nicht nur Daten richtig
-interpretieren, sondern auch die dadurch gewonnen Erkenntnisse mittels dynamischer
+interpretieren, sondern auch die dadurch gewonnenen Erkenntnisse mittels dynamischer
 Anpassung zur Erreichung bestimmter Ziele benützen können.
 Diese Definition enthält im Gegensatz zum oben beschriebenen Ansatz zur Intelligenzerklärung die Idee des domänenübergreifenden Lernens nicht, was laut Experten
 jedoch nicht an einer unvollständigen Definition liegt, sondern vielmehr daran, dass wir
@@ -618,7 +610,7 @@ Ein fortgeschrittenes System wie eine AKI muss ihre Ziele daher auf der Basis vo
 Werten verfolgen, von denen die Menschheit als Gesamtes profitiert, um ungewollten
 Nebenwirkungen wie der in der Einleitung genannten Auslöschung der Menschheit
 durch unpräzises Definieren ihrer Ziele mit größtmöglicher Sicherheit vorzubeugen.
-Der Ansatz eine antropomorphe Maschine, also ein System mit menschenähnlichen
+Der Ansatz eine anthropomorphe Maschine, also ein System mit menschenähnlichen
 Eigenschaften, zu entwickeln, ist bedenklich. Während einige menschliche Werte und
 Eigenschaften implementiert werden müssen, um mögliche Dissonanzen zwischen der
 AKI und der Menschheit zu vermeiden, dürfen andere menschliche Eigenschaften nicht
@@ -729,11 +721,11 @@ sich ein eigenes Teilgebiet der KI-Forschung – , zum Erreichen einer sicheren 
 aber irrelevant.1
 
 3.1.2 Roboter als Auslöser einer Katastrophe
-Ein in der Populärliteratur besonders stark ausgeprägter Mythos ist jener einer existenziellen Bedrohung durch Roboter, die die Welt erobern. Geschuldet ist dies nicht
-nur den klassischen Science-Fiction-Romanen. Es ist eine domänenübergreifend anzutreffende Neigung der Spezies Mensch, Wesen oder Systeme, die einem unverständlich
-sind, zu vermenschlichen. Von den Wikingern, nach denen ein menschenähnliches
-Wesen namens Thor Donner und Blitz lenkt, zu den modernen Weltreligionen, in
-denen Antropomorphismus in selbigem Ausmaß gang und gäbe ist, ist dieses Phänomen
+Ein in der Populärliteratur besonders stark ausgeprägter Mythos ist jener einer existenziellen Bedrohung durch Roboter, die die Welt erobern. Geschuldet ist dies nicht nur
+den klassischen Science-Fiction-Romanen. Es ist eine domänenübergreifend anzutreffende Neigung der Spezies Mensch, Wesen oder Systeme, die einem unverständlich sind,
+zu vermenschlichen. Von den Wikingern, nach denen ein menschenähnliches Wesen
+namens Thor Donner und Blitz lenkt, zu den modernen Weltreligionen, in denen
+Anthropomorphismus in selbigem Ausmaß gang und gäbe ist, ist dieses Phänomen
 
 1 Vgl. AI Safety Myths. Future of Life Institute. url: https://futureoflife.org/background/ai
 myths/ (besucht am 1. 11. 2019).
@@ -741,7 +733,7 @@ myths/ (besucht am 1. 11. 2019).
 11
 
 schon seit jeher in der Geschichte des Menschen zu beobachten. Ich erkäre mir den
-Antropomorphismus als einen misslungenen Erklärungsversuch unseres Gehirns für
+Anthropomorphismus als einen misslungenen Erklärungsversuch unseres Gehirns für
 unverständliche Beobachtungen.
 Die größte Sorge der Forschung nach einer sicheren AKI gilt nicht möglichen Robotern,
 sondern der Intelligenz selbst, genauer gesagt einer Intelligenz, deren Ziele nicht
@@ -1118,8 +1110,8 @@ mit sich bringen würde.21 Außerdem würde ein menschlicher Begutachter die Ent
 ist, ist noch nicht eindeutig belegt. Es sind also Regulationen seitens nationaler oder
 internationaler Institutionen notwendig, damit niemand eine „unangepasste“ AKI zu
 entwickeln versucht, um gegenüber der Konkurrenz einen Vorsprung zu erlangen.
-Die Verzerrung in der menschlichen Beurteilung lässt sich nicht so einfach lösen.
-Die angeführten Modelle würden letzten Endes zu antropomorphen Maschinen führen
+Die Verzerrung in der menschlichen Beurteilung lässt sich nicht so einfach lösen. Die
+angeführten Modelle würden letzten Endes zu anthropomorphen Maschinen führen
 (siehe Kapitel 2.4), was alternativlos ist, da der Mensch kein rationales Wesen ist und
 die Welt noch weit davon entfernt ist, sich auf einheitliche Werte zu einigen. Irving
 u. a. führen dennoch Ideen an, die eine solche Verzerrung möglichst minimieren sollen:
@@ -1134,13 +1126,31 @@ u. a. führen dennoch Ideen an, die eine solche Verzerrung möglichst minimieren
 
 5 Schluss
 Der Meinungen der KI-Experten nach ist es sehr wahrscheinlich, dass die KI-Forschung
-bis 2075 zu einer AKI führt. Bis dahin muss eine Möglichkeit gefunden werden, eine AKI
-anzupassen. Der Ansatz der KI-Sicherheit durch KI-Debatten ist ein aussichtsreicher
-erster Schritt, dessen Funktionalität bei schwacher KI weiter getestet werden muss.
-Bei Entwicklung fähiger Dialogmodelle müssen diese in das Debattiersystem integriert
-werden. Eine Lösung für das Problem der menschlichen Verzerrung ist notwendig. Die
-Regulation der AKI-Forschung ist unumgänglich, um die Entwicklung einer angepassten
-AKI zu gewährleisten. Zu dessen Umsetzung braucht es eine internationale Institution.
+bis 2075 zu einer AKI führt.1 Bis dahin muss eine Möglichkeit gefunden werden, eine
+AKI anzupassen. Menschliche Werte können nicht direkt in eine KI programmiert
+werden. Einerseits gibt es noch keine einheitlichen menschlichen Werte, weder national,
+noch international. Andererseits wäre ihre algorithmische Komplexität ohnehin zu groß.2
+Der Ansatz der KI-Sicherheit durch KI-Debatten, bei dem keine Wertedefinition oder
+-programmierung nötig ist, ist ein aussichtsreicher erster Schritt, dessen Funktionalität
+bei schwacher KI weiter getestet werden muss. Bei Entwicklung fähiger Dialogmodelle
+müssen diese in das Debattiersystem integriert werden. Um die negativen Eigenschaften
+einer anthropomorphen Maschine zu vermeiden, ist eine Lösung für das Problem der
+menschlichen Verzerrung notwendig. Dazu muss ein System gefunden werden, das
+über die spekulativen Ideen zur Verzerrungsminimierung von Irving u. a. hinausgehen.
+Zudem ist die Regulation der AKI-Forschung unumgänglich, um die Entwicklung einer
+angepassten AKI zu gewährleisten.3 Zu dessen Umsetzung braucht es eine internationale
+Institution, ein dezentralisiertes System ist heute noch nicht vorstellbar.4
+
+1
+2
+3
+4
+
+Vgl. Müller und Bostrom, „Future Progress in Artificial Intelligence“, S. 566.
+Vgl. Yudkowsky, Intelligence Explosion Microeconomics, S. 13–14.
+Vgl. Irving u. a., „AI safety via debate“, S. 16.
+Vgl. Cihon u. a., Should Artificial Intelligence Governance be Centralised? Six Design Lessons from
+History.
 
 25
 
@@ -1305,7 +1315,7 @@ Selbstständigkeitserklärung
 Ich erkläre, dass ich diese vorwissenschaftliche Arbeit eigenständig angefertigt und nur
 die im Literaturverzeichnis angeführten Quellen und Hilfsmittel benutzt habe.
 
-Wien, 9. Februar 2020
+Wien, 11. Februar 2020
 
 Franz Srambical
 
@@ -1314,7 +1324,7 @@ Die vorliegende Arbeit erfüllt die Kriterien zur Abbildung des Informatikschwer
 an der De La Salle Schule Strebersdorf, AHS.
 Begründung: Die Arbeit wurde in LATEX mit entscheidenden Kenntnissen zum
 Quelltext verfasst.
-Geprüft am . . . durch Mag. Rainer Zufall und Mag. Ernst Haft
+Geprüft am 09. 01. 2020 durch Mag. Paul Schwanzer
 
 31
 
